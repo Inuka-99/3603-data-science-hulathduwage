@@ -110,11 +110,11 @@ If this prints a version number, or if your terminal prompt begins with `(base)`
 Fill in what you found. You will use this in Part 1 and Part 2 to know which steps apply to you.
 
 ```text
-Git installed?            yes / no    version: ______
-Python installed?         yes / no    version: ______   is it 3.13? ______
-VS Code installed?        yes / no    version: ______
-Git Bash available?       yes / no  (Windows only)
-Conda / Anaconda present? yes / no
+Git installed?            yes   version: git version 2.52.0.windows.1
+Python installed?         yes    version: Python 3.13.7 is it 3.13? yes
+VS Code installed?        yes     version: 1.136.1
+Git Bash available?       yes 
+Conda / Anaconda present? no
 ```
 
 Nothing here is graded, and there is no wrong answer — this is only to save you from following installation steps you don't need, or skipping ones you do.
@@ -135,11 +135,11 @@ If you found that Git, Python 3.13, and VS Code are **all** already installed an
 
 Before continuing to Part 1, confirm each item:
 
-- [ ] I can open a terminal on my computer.
-- [ ] I know whether Git is installed, and its version if so.
-- [ ] I know whether Python is installed, and whether it is 3.13.
-- [ ] I know whether VS Code and its `code` command are installed.
-- [ ] I know whether Conda or Anaconda is present.
-- [ ] I saved my inventory somewhere I can refer back to.
+- [Y] I can open a terminal on my computer.
+- [Y] I know whether Git is installed, and its version if so.
+- [Y] I know whether Python is installed, and whether it is 3.13.
+- [Y] I know whether VS Code and its `code` command are installed.
+- [Y] I know whether Conda or Anaconda is present.
+- [Y] I saved my inventory somewhere I can refer back to.
 
 Next: [**Part 1 — Create a GitHub Account and Configure Your Git Identity**](./Part-01.md)
