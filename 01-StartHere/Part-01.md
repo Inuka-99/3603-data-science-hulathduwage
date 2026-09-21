@@ -202,12 +202,12 @@ You will later submit your GitHub username and course-repository URL through the
 
 Before continuing to Part 2, confirm each item that applies:
 
-- [ ] I have a personal GitHub account.
-- [ ] My GitHub email address is verified.
-- [ ] I know my exact GitHub username.
-- [ ] I enabled two-factor authentication.
-- [ ] I stored my recovery codes securely.
-- [ ] I selected the email address Git should record in public commits.
-- [ ] I wrote down the exact Git author name and email I will configure in Part 2.
+- [y] I have a personal GitHub account.
+- [y] My GitHub email address is verified.
+- [y] I know my exact GitHub username.
+- [y] I enabled two-factor authentication.
+- [y] I stored my recovery codes securely.
+- [y] I selected the email address Git should record in public commits.
+- [y] I wrote down the exact Git author name and email I will configure in Part 2.
 
 Next: [**Part 2 — Install or Repair Git, Python, and Visual Studio Code**](./Part-02.md)
