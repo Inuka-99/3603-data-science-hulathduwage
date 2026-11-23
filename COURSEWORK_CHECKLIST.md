@@ -76,7 +76,8 @@ Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet
 - [x] `08-timing_and_performance.ipynb`: 41 code cells passed in a fresh `.venv` kernel from Completed; instructor prompts/examples unchanged. Repeated timings, equality checks, profiling (including optional line_profiler), float32 memory/precision, selected-column reads, vectorization, and crossover investigation completed. Separate fresh-kernel squaring repeat compared 41x and 15x observed speedups. 100,000-row sales.csv verified.
 - [x] `Foundations_Quiz.ipynb`: all questions answered; 16 code cells passed in a fresh `.venv` kernel from Completed. Original prompts retained; Q2 cells reordered without code edits. Broken TypeError verified separately then commented programmatically (no keypress claimed). Personal hobbies supplied by Inuka; course credits and budget labeled illustrative. All five required output files validated, including nonblank squares.png.
 - [x] `quiz.md`: all 45 conceptual questions answered and reviewed against the Foundations notebooks.
-- [ ] `worksheet.md`: answer every question/task; learner-owned Explain It and keyboard drill remain participation gates.
+- [x] `worksheet.md`: 24 factual answers and independent tasks filled; companion `Worksheet-Support/Worksheet_Practice.ipynb` passed all 12 code cells in a fresh `.venv` kernel. Autoreload before/after, isolated state/order failure and fix, local help/wildcard inspection, Markdown mini report, JSON tuple change, glob, CSV/JSON/Excel, saved charts, and timing checks verified. Required support files included under `Worksheet-OutputFiles`.
+- [ ] Worksheet personal participation: keyboard-only Shortcut Drill, literal Tab/IntelliSense, eight Explain It responses in Inuka's own words, and 11 learner submit-checklist attestations. Assistant explanations are labeled drafts.
 
 ## Module 06 — Working with Data
 
@@ -118,7 +119,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 
 ## Personal and Participation Gates
 
-- [ ] Module 03 personal choices: birthday, favorite movies, favorite book, favorite foods, favorite numbers.
+- [x] Module 03 personal choices already supplied and used, as documented in its completed audit.
 - [ ] Module 03b partner exchange, team pipeline activity, and independent paper exercise.
 - [ ] Module 04 independent paper exercise and any first-person learning reflection.
 - [ ] Module 05 activities requiring a live VS Code observation or personal choice; never mark simulated editor operations as actual keypresses.
