@@ -75,7 +75,8 @@ Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet
 - [x] `07-plotting_basics.ipynb`: 39 code cells passed in a fresh `.venv` kernel from Completed. All instructor prompts/examples retained. NumPy summaries, every chart exercise, chart-selection reasons, sorted bars, two-line legend, honest zero-baseline repair, and four-panel fictional store dashboard completed. Four nonblank PNGs and 120-row store CSV checked; saved-chart relative link retained. Temperatures/category totals are labeled illustrative, not personal observations.
 - [x] `08-timing_and_performance.ipynb`: 41 code cells passed in a fresh `.venv` kernel from Completed; instructor prompts/examples unchanged. Repeated timings, equality checks, profiling (including optional line_profiler), float32 memory/precision, selected-column reads, vectorization, and crossover investigation completed. Separate fresh-kernel squaring repeat compared 41x and 15x observed speedups. 100,000-row sales.csv verified.
 - [x] `Foundations_Quiz.ipynb`: all questions answered; 16 code cells passed in a fresh `.venv` kernel from Completed. Original prompts retained; Q2 cells reordered without code edits. Broken TypeError verified separately then commented programmatically (no keypress claimed). Personal hobbies supplied by Inuka; course credits and budget labeled illustrative. All five required output files validated, including nonblank squares.png.
-- [ ] `quiz.md` and `worksheet.md`: answer every question/task and Explain It prompt.
+- [x] `quiz.md`: all 45 conceptual questions answered and reviewed against the Foundations notebooks.
+- [ ] `worksheet.md`: answer every question/task; learner-owned Explain It and keyboard drill remain participation gates.
 
 ## Module 06 — Working with Data
 
