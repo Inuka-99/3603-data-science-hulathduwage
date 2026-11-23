@@ -11,7 +11,32 @@ Scope: modules 01, 02, 03, 03b, and 04 from the instructor repository at `a8b9c2
 | 04 More Functions and Loops | 3 | 16 | Filled in |
 | Total | 17 | 112 | 5 worksheets |
 
-The current instructor assignment tree contains 34 notebooks. These 17 represent 50% by notebook count, not 50% of course grades, effort, graduation requirements, or confirmed deadlines. No due dates were verified. Foundations and Working with Data are not completed.
+The current instructor assignment tree contains 46 notebooks. The earlier 17 completed notebooks represent 37% by notebook count, not 37% of course grades, effort, graduation requirements, or confirmed deadlines. No due dates were verified.
+
+## Course Audit Checklist (2026-11-22)
+
+The assignment order is 01, 02, 03, 03b, 04, 05 Foundations, 06 Working with Data, 07 Describing Data, then 08 Visualizing Data. Assigned notebook paths, prompt titles/categories, quiz/worksheet files, and checker-declared output folders are inventoried in `COURSEWORK_CHECKLIST.md`, based on `02-Assignments`. Use the original notebook at each listed path as the authoritative prompt; the repository checker validates file layout only, not answer completeness.
+
+| Assignment | Assigned notebooks | Completed copy | Current audit / remaining work |
+|---|---:|---:|---|
+| 01 Scalar Types and Control Flow | 2 | 2 | Re-ran both notebooks in fresh `.venv`; personalized the name-input example. Check: 4/4. README references `scalar_types_and_control_flow.csv`, but that file is absent from both source and completed module; do not fabricate an instructor quiz bank. |
+| 02 Strings and Text | 3 | 3 | File layout complete. Personal full-name exercise already uses Inuka Hulathduwage. Continue answer/content audit before advancing. |
+| 03 Python Containers | 3 | 3 | File layout complete. Personal birthday, favorite movies/book/foods/numbers are still example data; ask Inuka before replacing. |
+| 03b Containers to Functions | 6 | 6 | File layout complete. Partner exchange, team activity, and independent paper worksheet remain user participation tasks. |
+| 04 More Functions and Loops | 3 | 3 | File layout complete. Independent paper worksheet remains a user participation task. |
+| 05 Foundations | 9 | 2 | Earliest missing notebook is `03-using_help_and_docs.ipynb`; its copy under `Work/05-Foundations` is the next assignment. Required output folders 03-08 and `Quiz-OutputFiles` are not yet present. |
+| 06 Working with Data | 8 | 0 | Not started. |
+| 07 Describing Data | 6 | 0 | Not started. |
+| 08 Visualizing Data | 6 | 0 | Not started. |
+
+The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Current Module 01 work is being committed separately from later assignments. Keep `Work/` copies and cache files out of assignment commits.
+
+### Prompt and deliverable audit
+
+- The itemized inventory uses visible 1-based notebook cell positions, never internal cell IDs. Every assigned `.ipynb` was scanned for `Your Turn`, `Practice`, `Challenge`, `Explain It`, prediction, and written-answer prompts; inspect each answer against its exact original prompt before marking it verified.
+- Every module quiz and worksheet is part of the assignment. The checker requires both files but does not detect unanswered blanks or incomplete task code.
+- Module 05 output folders are required when named by the source notebooks: `01-OutputFiles/` through `08-OutputFiles/` and `Quiz-OutputFiles/`. Keep all generated deliverables there.
+- A saved code sample is not evidence that a personal observation, favorite, birthday, partner/team activity, paper exercise, or VS Code-only interaction occurred. Record these as blocked until Inuka supplies or performs them.
 
 ## Validation
 
