@@ -39,10 +39,9 @@ print(nums)
 ### ✏️ Task: List Practice
 
 ```python
-# Sample foods rather than claimed personal favorites.
-foods = ['rice', 'pasta', 'apples']
-foods.append('soup')
-foods.remove('pasta')
+foods = ['burger', 'grilled pork ribs', 'French fries']
+foods.append('rice')  # Demonstration item, not an additional stated favorite.
+foods.remove('burger')
 print(foods)
 ```
 
@@ -138,8 +137,7 @@ In your own words: what's the difference between a list and a slice of a list? I
 ### ✏️ Task: Tuple Practice
 
 ```python
-# Sample number choices.
-numbers = (3, 7, 12)
+numbers = (5, 6, 2)
 a, b, c = numbers
 print(a)
 print(b)
@@ -193,6 +191,7 @@ In your own words: why does Python allow a tuple to be a dictionary key, but not
 ### ✏️ Task: Dictionary Practice
 
 ```python
+# Sample dictionary values; no personal hobby is implied.
 person = {'name': 'Sample Student', 'age': 21, 'hobby': 'reading'}
 for key, value in person.items():
     print(f'{key}: {value}')
@@ -303,15 +302,15 @@ for feature in geo['features']:
 
 ## 🧾 Submit Checklist
 
-- [ ] I practiced creating, slicing, sorting, and filtering lists.
+- [x] I practiced creating, slicing, sorting, and filtering lists.
 - [ ] I can explain the difference between `+`, `append()`, and `extend()`.
-- [ ] I built and traversed a nested (2D) list.
-- [ ] I removed list items with `remove()`, `pop()`, and `del`.
-- [ ] I looped by index with `range(len(...))` and with `enumerate()`.
+- [x] I built and traversed a nested (2D) list.
+- [x] I removed list items with `remove()`, `pop()`, and `del`.
+- [x] I looped by index with `range(len(...))` and with `enumerate()`.
 - [ ] I understand how tuples are different from lists, and why that makes them hashable.
-- [ ] I accessed, looped through, updated, and removed items from a dictionary.
-- [ ] I built a dictionary from two separate lists.
-- [ ] I worked with at least one nested dictionary.
-- [ ] I processed a list of dictionaries as table rows and updated a record by row number.
-- [ ] I parsed JSON with `json.loads()` and walked a GeoJSON FeatureCollection.
+- [x] I accessed, looped through, updated, and removed items from a dictionary.
+- [x] I built a dictionary from two separate lists.
+- [x] I worked with at least one nested dictionary.
+- [x] I processed a list of dictionaries as table rows and updated a record by row number.
+- [x] I parsed JSON with `json.loads()` and walked a GeoJSON FeatureCollection.
 - [ ] I completed the "Explain It" prompts in my own words.

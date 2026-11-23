@@ -20,8 +20,8 @@ The assignment order is 01, 02, 03, 03b, 04, 05 Foundations, 06 Working with Dat
 | Assignment | Assigned notebooks | Completed copy | Current audit / remaining work |
 |---|---:|---:|---|
 | 01 Scalar Types and Control Flow | 2 | 2 | Re-ran both notebooks in fresh `.venv`; personalized the name-input example. Check: 4/4. Commit `f63e6be` pushed to `origin/main`. README references `scalar_types_and_control_flow.csv`, but that file is absent from both source and completed module; do not fabricate an instructor quiz bank. |
-| 02 Strings and Text | 3 | 3 | All notebooks freshly executed in `.venv`; prompts preserved, 32 code cells passed, 12 worksheet code blocks executed, and all 20 quiz answers reviewed. Worksheet bio uses facts supplied by Inuka. Checker: 5/5. Commit `f21b32e` pushed to `origin/main`. |
-| 03 Python Containers | 3 | 3 | File layout complete. Personal birthday, favorite movies/book/foods/numbers are still example data; ask Inuka before replacing. |
+| 02 Strings and Text | 3 | 3 | All notebooks freshly executed in `.venv`; prompts preserved, 32 code cells passed, 12 worksheet code blocks executed, and all 20 quiz answers reviewed. Worksheet bio uses facts supplied by Inuka. Checker: 5/5. Commit `1663ceb` pushed to `origin/main`. |
+| 03 Python Containers | 3 | 3 | All notebooks freshly executed in `.venv`; prompts preserved, 37 code cells passed, 21 worksheet code blocks executed, and all 30 quiz answers reviewed. Supplied personal choices used. Three learner self-assessment items remain unchecked. Commit pending. |
 | 03b Containers to Functions | 6 | 6 | File layout complete. Partner exchange, team activity, and independent paper worksheet remain user participation tasks. |
 | 04 More Functions and Loops | 3 | 3 | File layout complete. Independent paper worksheet remains a user participation task. |
 | 05 Foundations | 9 | 2 | First outstanding Foundations notebook is `03-using_help_and_docs.ipynb`; continue to it only after Modules 03, 03b, and 04. Required output folders 03-08 and `Quiz-OutputFiles` are not yet present. |
@@ -29,7 +29,7 @@ The assignment order is 01, 02, 03, 03b, 04, 05 Foundations, 06 Working with Dat
 | 07 Describing Data | 6 | 0 | Not started. |
 | 08 Visualizing Data | 6 | 0 | Not started. |
 
-The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Module 01 is pushed as `f63e6be`. Keep `Work/` copies and cache files out of assignment commits.
+The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Modules 01 and 02 are pushed as `f63e6be` and `1663ceb`. Keep `Work/` copies and cache files out of assignment commits.
 
 ### Prompt and deliverable audit
 
@@ -50,7 +50,8 @@ The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and
 
 ## Personal and participation steps
 
-- The Module 02 bio uses facts supplied by Inuka. The Module 03 birthday, favorite movies/book/foods/numbers remain labeled examples; ask Inuka before replacing them.
+- The Module 02 bio and Module 03 birthday, favorite movies/book/foods/numbers use facts supplied by Inuka.
+- Module 03 worksheet self-assessments that ask whether Inuka understands concepts or completed Explain It responses in their own words remain unchecked.
 - Module 03b Mystery Functions asks for a partner exchange. The function and self-check are present; the partner exchange remains to be done.
 - Module 03b Pipelines asks for a class/team activity. The individual implementation is present; the team activity remains to be done.
 - Worksheets 03b and 04 ask for independent work on paper. Typed worked answers are provided; no paper work or personal learning attestations have been claimed.

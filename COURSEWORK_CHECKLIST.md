@@ -28,11 +28,13 @@ Files: `01-String_Basics.ipynb`, `02-String_Methods.ipynb`, `03-Formatted_String
 
 Files: `01-Lists.ipynb`, `02-Tuples.ipynb`, `03-Dictionaries.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
 
-- [ ] `01-Lists.ipynb`: prompt cells 15–23 (Practice 1–3, Your Turn, optional challenge). The 5 favorite movies are personal input.
-- [ ] `02-Tuples.ipynb`: prompt cells 7–24 (Practice 1–2, Your Turn, Put It Together, optional challenge). Birthday tuple is personal input.
-- [ ] `03-Dictionaries.ipynb`: prompt cells 13–21 (Practice 1–3, Your Turn, optional challenge). Favorite-book dictionary is personal input.
-- [ ] `quiz.md` and `worksheet.md`: review all answers/tasks; worksheet also asks for favorite foods and numbers.
-- [ ] Ask Inuka for birthday, 5 favorite movies, favorite book, 3 favorite foods, and 3 favorite numbers before replacing labeled examples.
+- [x] `01-Lists.ipynb`: prompt cells 15–23 (Practice 1–3, Your Turn, optional challenge). Uses the five favorite movies supplied by Inuka.
+- [x] `02-Tuples.ipynb`: prompt cells 7–24 (Practice 1–2, Your Turn, Put It Together, optional challenge). Birthday tuple uses June 5, 2005.
+- [x] `03-Dictionaries.ipynb`: prompt cells 13–21 (Practice 1–3, Your Turn, optional challenge). Favorite-book dictionary uses `Hit Refresh`.
+- [x] `quiz.md`: all 30 answers reviewed.
+- [x] `worksheet.md`: all code tasks reviewed; foods and numbers use Inuka's supplied choices. All 21 Python blocks executed sequentially.
+- [x] All three notebooks freshly executed in `.venv`; original Markdown prompts preserved and all 37 code cells passed without errors.
+- [ ] Worksheet self-assessments requiring Inuka's own understanding and wording remain unchecked.
 
 ## Module 03b — Containers to Functions
 
