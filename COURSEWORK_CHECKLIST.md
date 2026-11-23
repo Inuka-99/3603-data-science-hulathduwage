@@ -66,7 +66,9 @@ Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet
 
 - [x] `01-magic_commands.ipynb` exists in Completed; commit `4ab8445`.
 - [x] `02-jupyter_shortcuts_and_workflow.ipynb` plus seven outputs exist in Completed; commit `fe42738`. All 11 original prompt cells were preserved. Some editor-only shortcut actions were simulated via notebook operations; multi-cell keyboard selection and personal UI observations were not performed.
-- [ ] `03-using_help_and_docs.ipynb`: 17 prompt-containing cells, including Your Turn, Practice 1–4, optional library exploration; next assignment.
+- [x] `03-using_help_and_docs.ipynb`: all 35 code cells executed in a fresh `.venv` kernel; all non-UI Your Turn, Practice 1–4, documentation, bar-chart, random-dice, and optional datetime/statistics exercises are filled. All 80 original cells remain and all original Markdown prompts are unchanged except the filled Practice 4 response. Notebook 03 creates no output folder.
+- [ ] In VS Code, use Tab completion on the dictionary and `names` list in the Tab Completion Your Turn, and on the string in Practice 3. The code-backed `dir()` method inventories are present, but literal Tab interactions were not performed.
+- [ ] Review and rewrite the Practice 4 `?`, `??`, `help()`, `Tab`, and `dir()` draft in Inuka's own words.
 - [ ] `04-markdown_and_formatting.ipynb`: 15 prompt-containing cells; several ask for personal favorites/top languages/website, plus math, code-generated Markdown, Practice 1–3, and optional HTML challenge.
 - [ ] `05-working_with_files_and_paths.ipynb`: 11 prompt-containing cells; name, favorite courses, hobbies data, file deletion safety, Practice 1–3, optional folder challenge.
 - [ ] `06-data_input_output.ipynb`: 11 prompt-containing cells; user dataset, DataFrame inspection, CSV/JSON/Excel saves and round trips, Practice 1–3, optional loader.
