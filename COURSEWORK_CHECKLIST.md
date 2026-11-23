@@ -83,7 +83,7 @@ Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet
 
 Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required output: `08-OutputFiles`.
 
-- [ ] `01-Pandas_Series_and_DataFrames.ipynb`: Practice 1–4, Your Turn, optional Series-alignment challenge.
+- [x] `01-Pandas_Series_and_DataFrames.ipynb`: 22 code cells passed in a fresh `.venv` kernel from Completed. All original Markdown retained. Supplied movie favorites, fictional five-book/student tables, row/column selection, order total/mean/filter, and label-alignment/NaN challenge verified. No output folder required.
 - [ ] `02-Loading_and_Exploring_Data.ipynb`: Practice 1–3, Your Turn, optional selected-columns challenge.
 - [ ] `03-Indexing_and_Selection.ipynb`: Practice 1–5, Your Turn, optional one-expression challenge.
 - [ ] `04-Basic_Cleaning.ipynb`: Practice 1–5, Your Turn, optional end-to-end cleaning challenge.
