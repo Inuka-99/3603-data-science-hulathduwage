@@ -39,10 +39,9 @@ print(course[::-1])
 ### ✏️ Task: Multi-Line String
 
 ```python
-"""Sample bio for demonstrating multiline strings."""
-bio = """My name is Sample Student.
-I study programming.
-I enjoy solving problems."""
+bio = """I co-founded Setflow, a HIPAA-compliant AI EHR, scribe, and LMS, with my brother.
+I am graduating with my computer science degree in December 2026 at age 21.
+I moved to the United States four years ago and am proud to live in this beautiful land of the free and home of the brave."""
 print(bio)
 ```
 
@@ -166,9 +165,9 @@ print(f'{width=}, {width * height=}')
 
 ## 🧾 Submit Checklist
 
-- [ ] I created strings with single quotes, double quotes, and triple quotes.
-- [ ] I indexed and sliced a string.
-- [ ] I used at least three different string methods (`.strip()`, `.split()`, `.join()`, `.replace()`, etc.).
-- [ ] I built an f-string with more than one embedded expression.
-- [ ] I used a format spec to control decimal places or alignment.
-- [ ] I completed the "Explain It" prompts in my own words.
+- [x] I created strings with single quotes, double quotes, and triple quotes.
+- [x] I indexed and sliced a string.
+- [x] I used at least three different string methods (`.strip()`, `.split()`, `.join()`, `.replace()`, etc.).
+- [x] I built an f-string with more than one embedded expression.
+- [x] I used a format spec to control decimal places or alignment.
+- [x] I completed the "Explain It" prompts.

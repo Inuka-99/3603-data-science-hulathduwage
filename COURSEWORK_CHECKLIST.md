@@ -16,10 +16,13 @@ Files: `01-Scalar_Types.ipynb`, `02-Control_Flow.ipynb`, `quiz.md`, `worksheet.m
 
 Files: `01-String_Basics.ipynb`, `02-String_Methods.ipynb`, `03-Formatted_Strings.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
 
-- [ ] `01-String_Basics.ipynb`: prompt cells 17–26 (Practice 1–3, full-name Your Turn, optional raw-string challenge). Full-name result uses Inuka Hulathduwage.
-- [ ] `02-String_Methods.ipynb`: prompt cells 13–22 (Practice 1–3, Your Turn, optional validator challenge).
-- [ ] `03-Formatted_Strings.ipynb`: prompt cells 13–22 (Practice 1–3, Your Turn, optional format-spec challenge).
-- [ ] `quiz.md` and `worksheet.md`: review all answers, tasks, and Explain It responses.
+- [x] `01-String_Basics.ipynb`: prompt cells 17–27 (Practice 1–3, full-name Your Turn, optional raw-string challenge). Full-name result uses Inuka Hulathduwage; removed a duplicate copy of the raw-path example cell.
+- [x] `02-String_Methods.ipynb`: prompt cells 13–22 (Practice 1–3, Your Turn, optional validator challenge).
+- [x] `03-Formatted_Strings.ipynb`: prompt cells 13–22 (Practice 1–3, Your Turn, optional format-spec challenge).
+- [x] `quiz.md`: all 20 answers reviewed.
+- [x] `worksheet.md`: all code tasks and Explain It responses reviewed; the three-line bio uses facts supplied by Inuka.
+- [x] All three notebooks freshly executed in `.venv`; all original Markdown prompts preserved and all 32 code cells completed without errors. All 12 worksheet code blocks executed.
+- [x] `check_completed.py 02`: 5/5 required-file checks.
 
 ## Module 03 — Python Containers
 
