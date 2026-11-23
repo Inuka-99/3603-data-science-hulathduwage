@@ -1,0 +1,14 @@
+[
+  {
+    "hobby":"Coding personal projects",
+    "hours_per_week":15
+  },
+  {
+    "hobby":"Watching movies",
+    "hours_per_week":3
+  },
+  {
+    "hobby":"Reading about space exploration",
+    "hours_per_week":2
+  }
+]
