@@ -22,14 +22,14 @@ The assignment order is 01, 02, 03, 03b, 04, 05 Foundations, 06 Working with Dat
 | 01 Scalar Types and Control Flow | 2 | 2 | Re-ran both notebooks in fresh `.venv`; personalized the name-input example. Check: 4/4. Commit `f63e6be` pushed to `origin/main`. README references `scalar_types_and_control_flow.csv`, but that file is absent from both source and completed module; do not fabricate an instructor quiz bank. |
 | 02 Strings and Text | 3 | 3 | All notebooks freshly executed in `.venv`; 32 code cells passed, 12 worksheet code blocks executed, and all 20 quiz answers reviewed. Worksheet bio uses facts supplied by Inuka. Checker: 5/5. Commit `1663ceb` pushed to `origin/main`. |
 | 03 Python Containers | 3 | 3 | All notebooks freshly executed in `.venv`; 37 code cells passed, 21 worksheet code blocks executed, and all 30 quiz answers reviewed. Supplied personal choices used. Three learner self-assessment items remain unchecked. Commit `fcc3887` pushed to `origin/main`. |
-| 03b Containers to Functions | 6 | 6 | All six notebooks freshly executed in `.venv`; 103 code cells passed, 24 quiz answers reviewed, and typed worksheet answers are present. Pending: notebook paper traces, six-section paper worksheet, Mystery Functions partner exchange, and Pipelines team activity. Commit pending. |
-| 04 More Functions and Loops | 3 | 3 | File layout complete. Independent paper worksheet remains a user participation task. |
+| 03b Containers to Functions | 6 | 6 | All six notebooks freshly executed in `.venv`; 103 code cells passed, 24 quiz answers reviewed, and typed worksheet answers are present. Pending: notebook paper traces, six-section paper worksheet, Mystery Functions partner exchange, and Pipelines team activity. Commit `c101b0c` pushed to `origin/main`. |
+| 04 More Functions and Loops | 3 | 3 | All three notebooks freshly executed in `.venv`; 38 code cells passed, 16 quiz answers reviewed, and generated `grades.txt` / `honor_roll.txt` included. Typed worksheet answers are present; paper trace and paper worksheet remain pending. Commit pending. |
 | 05 Foundations | 9 | 2 | First outstanding Foundations notebook is `03-using_help_and_docs.ipynb`; continue to it only after Modules 03, 03b, and 04. Required output folders 03-08 and `Quiz-OutputFiles` are not yet present. |
 | 06 Working with Data | 8 | 0 | Not started. |
 | 07 Describing Data | 6 | 0 | Not started. |
 | 08 Visualizing Data | 6 | 0 | Not started. |
 
-The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Modules 01, 02, and 03 are pushed as `f63e6be`, `1663ceb`, and `fcc3887`. Keep `Work/` copies and cache files out of assignment commits.
+The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Modules 01, 02, 03, and 03b are pushed as `f63e6be`, `1663ceb`, `fcc3887`, and `c101b0c`. Keep `Work/` copies and cache files out of assignment commits.
 
 ### Prompt and deliverable audit
 
@@ -54,7 +54,7 @@ The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and
 - Module 03 worksheet self-assessments that ask whether Inuka understands concepts or completed Explain It responses in their own words remain unchecked.
 - Module 03b paper tasks remain: trace the accumulated-total loop in notebook 01, complete the stepwise nested-expression trace in notebook 02, fill the mystery-function trace table in notebook 04, and complete all six sections of the worksheet on paper.
 - Module 03b also requires writing a small mystery function and exchanging it with a partner, plus completing the Pipelines class/team activity. These are deferred at Inuka's request; no participation is claimed.
-- Module 04 worksheet asks for independent work on paper. Typed worked answers are present; no paper work or personal learning attestations have been claimed.
+- Module 04 paper tasks remain: complete the `02-While_Loops.ipynb` Trace It table by hand and complete all five sections of its worksheet on paper, including learner-authored Explain It responses. Typed worked answers are present; no paper work or personal learning attestations have been claimed.
 - Review the supplied explanations and complete personal learning checklists yourself.
 - No screenshot is requested by these selected coding exercises. If the instructor separately requires proof from the local setup guide, supply that separately.
 
