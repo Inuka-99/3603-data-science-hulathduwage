@@ -56,7 +56,7 @@ The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and
 - Module 03b also requires writing a small mystery function and exchanging it with a partner, plus completing the Pipelines class/team activity. These are deferred at Inuka's request; no participation is claimed.
 - Module 04 paper tasks remain: complete the `02-While_Loops.ipynb` Trace It table by hand and complete all five sections of its worksheet on paper, including learner-authored Explain It responses. Typed worked answers are present; no paper work or personal learning attestations have been claimed.
 - Foundations notebook 03 still needs literal Tab completion on its dictionary, list, and string prompts and learner review/rewrite of the Practice 4 reflection. No editor keypress or learner-authored reflection is claimed.
-- Foundations notebook 04 Practice 2: review/rewrite the draft answer to "Quote your own definition of data science, followed by a short Python snippet that demonstrates it." The supplied snippet computes a mean; the definition is not claimed as Inuka-authored.
+- Foundations notebook 04 Practice 2 now uses Inuka's supplied data-science definition; its hotel-booking snippet is labeled illustrative.
 - Review the supplied explanations and complete personal learning checklists yourself.
 - No screenshot is requested by these selected coding exercises. If the instructor separately requires proof from the local setup guide, supply that separately.
 
