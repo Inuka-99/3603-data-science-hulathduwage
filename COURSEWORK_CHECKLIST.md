@@ -40,14 +40,12 @@ Files: `01-Lists.ipynb`, `02-Tuples.ipynb`, `03-Dictionaries.ipynb`, `quiz.md`, 
 
 Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Functions.ipynb`, `04-Mystery_Functions.ipynb`, `05-Containers_Meet_Functions.ipynb`, `06-Pipelines.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
 
-- [ ] `01-Too_Many_Variables.ipynb`: prompt cells 32–41 (Practice 1–3, Your Turn, optional Best So Far challenge).
-- [ ] `02-Pick_Your_Container.ipynb`: prompt cells 41–49 (Practice, nested-data practices, Your Turn, optional dictionary-count challenge).
-- [ ] `03-Why_Functions.ipynb`: prompt cells 39–47 (Practice, bug/wrapper exercises, Your Turn, optional function composition challenge).
-- [ ] `04-Mystery_Functions.ipynb`: prompt cell 51 (optional Sneakiest Patient challenge); review the guided Predict/Trace/Run/Explain workflow as well.
-- [ ] `05-Containers_Meet_Functions.ipynb`: prompt cells 11, 25, 30, 32, 34 (rebuild built-ins, toolkit, Your Turn, optional Most Common challenge). The `count_even` test is implemented in the completed copy.
-- [ ] `06-Pipelines.ipynb`: review the guided pipeline and Wrap-Up prompts.
-- [ ] `quiz.md` and `worksheet.md`: answers are present; independent paper trace and Explain It work not independently attested.
-- [ ] Partner exchange for Mystery Functions and class/team pipeline activity require other participants.
+- [x] All six notebooks freshly executed in `.venv`; all original cell IDs remain, all 103 code cells executed without error outputs, and answer/prediction support is present.
+- [x] `quiz.md`: all 24 answers reviewed.
+- [x] `worksheet.md`: all six sections have typed worked answers; the source explicitly requires the independent work on paper, so it remains pending.
+- [ ] Paper traces to complete: accumulated-total loop in `01-Too_Many_Variables.ipynb`, stepwise nested-expression trace in `02-Pick_Your_Container.ipynb`, mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
+- [ ] Write a small mystery function and exchange it with a partner in `04-Mystery_Functions.ipynb`.
+- [ ] Complete the class/team pipeline activity in `06-Pipelines.ipynb`.
 
 ## Module 04 — More Functions and Loops
 
