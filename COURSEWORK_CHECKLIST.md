@@ -85,7 +85,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 
 - [x] `01-Pandas_Series_and_DataFrames.ipynb`: 22 code cells passed in a fresh `.venv` kernel from Completed. All original Markdown retained. Supplied movie favorites, fictional five-book/student tables, row/column selection, order total/mean/filter, and label-alignment/NaN challenge verified. No output folder required.
 - [x] `02-Loading_and_Exploring_Data.ipynb`: 15 code cells passed in a fresh project `.venv` kernel from Completed. All exercises, both five-question first-look reports, 48.25% Pokemon and 17.1986% UFO missing-row calculations, and the 500-row/two-column challenge verified. Three exact source dataset copies included for offline execution.
-- [ ] `03-Indexing_and_Selection.ipynb`: Practice 1–5, Your Turn, optional one-expression challenge.
+- [x] `03-Indexing_and_Selection.ipynb`: 33 code cells passed in a fresh project `.venv` kernel from Completed. All five practices, seven Your Turn parts, Quick Check explanation, and one-expression youngest-survivors challenge completed. Label/position equality, missing-age flags, masks, reset indexes, and sorted nonmissing output asserted. Intentional chained-assignment teaching warning retained.
 - [ ] `04-Basic_Cleaning.ipynb`: Practice 1–5, Your Turn, optional end-to-end cleaning challenge.
 - [ ] `05-Column_Operations.ipynb`: Practice 1–5, Your Turn, optional product-report challenge.
 - [ ] `06-Sorting_and_Filtering.ipynb`: Practice 1–5, Your Turn, optional product-report challenge.
