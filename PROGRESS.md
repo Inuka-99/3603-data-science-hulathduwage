@@ -194,7 +194,7 @@ Optional work is counted separately from the 81 required deliverables. The audit
 
 ## Final coordinator verification scope
 
-All 81 required file/output units are present; 67 are fully complete, 14 partial and 0 unknown (Modules 01-03 worksheet confirmations and Module 03b notebook 01 paper traces resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
+All 81 required file/output units are present; 68 are fully complete, 13 partial and 0 unknown (Modules 01-03 worksheet confirmations and Module 03b notebooks 01-02 paper traces resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
 
 The nine queued optional notebook extensions are now verified separately. All ten pre-existing optional worksheet coding tasks and twelve actual quiz bonus answers were independently reviewed; the optional line-profiler subsection also produced live timing evidence. The prior 22-bonus count included ten required Module 03 questions and is corrected to 12. Module 06 optional readability preference remains personal.
 
@@ -211,16 +211,19 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` (full): Inuka supplied both guided paper traces and observations: score/print rows 74, 88, 95 and running totals 87, 178, 252, 340, 435. All 14 code cells passed in a fresh final-directory project .venv kernel; original prompts and examples preserved. Paper completion is learner-reported, separate from automated verification.
 
+
+- Coordinator verification `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` (full): Inuka supplied all six step-by-step nested-expression paper traces, correctly distinguishing three student records from two dictionary keys. All 20 code cells passed in a fresh final-directory project .venv kernel; original paper prompt preserved exactly. Paper work is learner-reported, separate from automated verification.
+
 ## Current audited required-deliverable totals
 
-67 of 81 required deliverables fully complete (82.7%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+68 of 81 required deliverables fully complete (84.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
 | 01-Scalar_Types_and_Control_Flow | 4 | 4 | 0 | 0 | 0 |
 | 02-Strings_and_Text | 5 | 5 | 0 | 0 | 0 |
 | 03-Python_Containers | 5 | 5 | 0 | 0 | 0 |
-| 03b-Containers_to_Functions | 8 | 4 | 4 | 0 | 0 |
+| 03b-Containers_to_Functions | 8 | 5 | 3 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |

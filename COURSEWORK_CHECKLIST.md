@@ -49,11 +49,13 @@ Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Fu
 - [x] All six notebooks freshly executed in `.venv`; all original cell IDs remain, all 103 code cells executed without error outputs, and answer/prediction support is present.
 - [x] `quiz.md`: all 24 answers reviewed.
 - [x] `worksheet.md`: all six sections have typed worked answers; the source explicitly requires the independent work on paper, so it remains pending.
-- [ ] Paper traces to complete: stepwise nested-expression trace in `02-Pick_Your_Container.ipynb`, mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
+- [ ] Paper traces to complete: mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
 - [ ] Write a small mystery function and exchange it with a partner in `04-Mystery_Functions.ipynb`.
 - [ ] Complete the class/team pipeline activity in `06-Pipelines.ipynb`.
 
 - [x] `01-Too_Many_Variables.ipynb`: Inuka supplied both guided paper traces and observations: score/print rows 74, 88, 95 and running totals 87, 178, 252, 340, 435. All 14 code cells passed in a fresh final-directory project .venv kernel; original prompts and examples preserved. Paper completion is learner-reported, separate from automated verification.
+- [x] `02-Pick_Your_Container.ipynb`: Inuka supplied all six step-by-step nested-expression paper traces, correctly distinguishing three student records from two dictionary keys. All 20 code cells passed in a fresh final-directory project .venv kernel; original paper prompt preserved exactly. Paper work is learner-reported, separate from automated verification.
+
 ## Module 04 — More Functions and Loops
 
 Files: `01-Function_Extras.ipynb`, `02-While_Loops.ipynb`, `03-Looping_Over_Files.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
@@ -160,7 +162,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [x] `02-Strings_and_Text/worksheet.md` - Inuka supplied the first explanation and explicitly confirmed the second and third saved explanations. All twelve Python blocks passed; learner-wording requirement resolved.
 - [x] `03-Python_Containers/worksheet.md` - Inuka confirmed all three existing explanations and both remaining understanding self-assessments. All 21 Python blocks passed; all worksheet checklist items are complete.
 - [x] `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` - Inuka supplied both guided paper traces and observations. Score/print rows and all running totals are correct; all 14 code cells passed a fresh final-directory kernel. Paper completion is learner-reported, not inferred from code execution.
-- [ ] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka: write each intermediate value of the requested nested student/container expressions on paper.
+- [x] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka supplied all six guided paper traces with intermediate values and correct list/dictionary length explanations. All 20 code cells passed a fresh final-directory kernel. Paper completion is learner-reported.
 - [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - Inuka plus partner: complete all paper traces; write a 5-8-line mystery function, exchange it with a partner, trace their function, and compare results. Confirm actual exchange and observations.
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
 - [ ] `03b-Containers_to_Functions/worksheet.md` - Inuka: complete all six sections on paper and provide/confirm the four Explain It reflections, including the container scenario you were least sure about.
