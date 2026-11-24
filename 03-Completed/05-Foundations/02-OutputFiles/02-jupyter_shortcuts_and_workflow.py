@@ -16,6 +16,8 @@
 # 
 # > **The core habit:** a reliable notebook runs successfully from top to bottom after restarting the kernel.
 
+# **Assignment status: partial.** Code calculations, saved history, corrected dependency ordering, and generated exports are programmatic artifacts. Hands-on keyboard practice, mode observations, browser opening, and editor inspection still require the learner. A fresh automated kernel run checks reproducibility, not participation in those exercises.
+
 # ## 1. What Notebooks Are For
 # A Jupyter notebook (an `.ipynb` file) combines in one document:
 # - Executable **code**
@@ -54,7 +56,7 @@ OUT.mkdir(exist_ok=True)
 
 # ✅ **Your Turn**: Click into a cell below, press `Esc`, then `Enter`, a few times, and notice how the cell's appearance changes between the two modes.
 
-# When I pressed Esc, the cursor disappeared and the whole cell was selected. When I pressed Enter, the cursor came back and I could type inside the cell.
+# **Pending learner observation:** In your notebook editor, click into a cell and alternate `Esc` and `Enter`, then record the actual appearance changes. The instructor describes command mode as whole-cell selection and edit mode as a text cursor; this is expected behavior, not a recorded hands-on observation. Programmatic notebook editing does not verify keyboard modes or their visual appearance.
 
 # In[ ]:
 
@@ -106,7 +108,7 @@ sum(sales)
 
 # ✅ **Your Turn**: Practice creating, deleting, and changing cell types using only shortcuts (no mouse).
 
-# I created a temporary cell, changed it from Markdown to code and back, then deleted it. Each shortcut acted on the selected cell in Command mode.
+# **Programmatic preparation only; keyboard practice pending:** The earlier cell-editing description concerned tool-driven notebook changes, not verified keyboard shortcuts. Practice creating and deleting cells and changing code/Markdown types using only shortcuts, then record what actually happens in your editor.
 
 # ## 4. Code Cells and Markdown Cells
 # - **Code cells** run Python. The output appears below the cell.
@@ -278,7 +280,7 @@ Out[2]
 
 # ✅ **Your Turn**: Export this notebook to **HTML** and to **`.py`**, and save both in `02-OutputFiles`. Open the HTML file in a browser.
 
-# The notebook exported to HTML and Python. The HTML opened in the browser; the Python export represents Markdown cells as comments.
+# **Programmatic export status:** HTML and Python exports are generated with nbconvert in `02-OutputFiles`. Source inspection confirms that the Python export represents Markdown as `#` comment lines and retains code as Python/IPython source. **Pending learner action:** open the HTML file in a browser and record your own observations; no browser opening or visual inspection is claimed here.
 
 # ## 10. A Practical Notebook Structure
 # A well-organized analysis notebook reads like a short report, top to bottom:
@@ -341,7 +343,7 @@ print(f'Best month: month {best_month}')
 # ### Practice 1 — Speed Round (easy)
 # Using only keyboard shortcuts: insert a new cell below this one, turn it into a Markdown cell, type a short note in it, and run it.
 
-# Practice 1 completed: I inserted this short Markdown note below the prompt. It renders as formatted text when the notebook is run or exported.
+# **Programmatic example; Practice 1 keyboard work pending:** This Markdown note exists in the notebook and is included in exports. Creating a Markdown cell programmatically does not complete the requested keyboard-only insert, change-type, type, and run sequence. Perform that sequence in your editor and record the result.
 
 # ### Practice 2 — Reorganize Without a Mouse (medium)
 # Insert 3 new cells and type a different number in each. Then, using only the keyboard:
@@ -351,12 +353,17 @@ print(f'Best month: month {best_month}')
 # 
 # Shortcuts vary slightly by editor, so look one up if it doesn't match.
 
-# Practice 2 completed: I created cells 1, 2, and 3; moved 3 above the others; split it into adjacent cells 3 and 30; deleted those cells separately; and removed the remaining temporary cells. The notebook tools could not perform the keyboard multi-selection itself.
+# **Programmatic simulation; Practice 2 keyboard work pending:** The earlier tool-driven creation, movement, splitting, and deletion of temporary cells was a structural simulation. It does not demonstrate keyboard execution or simultaneous keyboard multi-selection. Complete the requested three-cell exercise using only the keyboard: move the bottom cell to the top, split one cell, then select two cells together and delete them. Record any editor-specific shortcut differences.
 
 # ### Practice 3 — Export and Inspect (harder)
 # Export this notebook to `.py`. Open the exported file in VS Code and compare it to the notebook — what happened to the Markdown cells?
 
-# In the Python export, Markdown cells became comment lines beginning with `#`; the code cells remained Python source.
+# **Verified by programmatic source inspection:** In the Python export, Markdown cells become comment lines beginning with `#`; code cells remain Python/IPython source. IPython magics are represented by `get_ipython()` calls, so this export is not automatically an ordinary standalone Python script. **Pending learner action:** open the export in VS Code and make the requested editor-based comparison; no such editor observation is claimed here.
+
+# ### Practice 4 — Break It, Then Fix It
+# Create a new notebook, `02-OutputFiles/broken.ipynb`, with three code cells **in this order**: `print(greeting)`, then `name = 'Graylian'`, then `greeting = f'Hello, {name}!'`. Get it working by running the cells out of order, and note the execution counts. Then Restart & Run All, watch it fail, and fix the **order** so it runs top to bottom from a fresh kernel.
+
+# **Existing artifact and verification limits:** `02-OutputFiles/broken.ipynb` contains the corrected dependency order: define `name`, define `greeting`, then print `greeting`. A fresh programmatic run verifies that final order. Its successful execution counts do not document the requested earlier out-of-order session or a learner operating Restart & Run All. **Pending learner work:** perform the original wrong-order/out-of-order/restart/fix exercise and record the execution counts and observed failure. The main notebook also has `tax_rate` before `total` and defines `message` before reading it so automated top-to-bottom execution succeeds; those edits do not verify dragging cells, deleting/undoing them with shortcuts, or personally restarting a kernel.
 
 # ## 🔥 Challenge (Optional) — A Mini Report Notebook
 # Create a new notebook, `02-OutputFiles/mini_report.ipynb`, that follows the structure from section 10:

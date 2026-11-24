@@ -150,6 +150,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `08-Visualizing_Data/worksheet.md` (partial): All ten factual answers and five independent tasks checked against original prompts; seven support code cells passed fresh kernel and all six PNGs visually inspected. Three support datasets match originals exactly. Five personal Explain It responses and seven participation attestations remain pending.
 
+
+- Coordinator verification `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` (partial): Corrected first-person claims to identify programmatic simulations; restored exact Practice4 prompt; all instructor Markdown preserved by content and14 cells passed fresh final-directory execution. HTML/Python exports updated. Actual keyboard, mode, browser/editor and execution-order participation remains pending.
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
