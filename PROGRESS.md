@@ -120,9 +120,12 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `07-Describing_Data/06-Describing_Data_Lab.ipynb` (full): 25 code cells passed fresh final-location kernel after methods01-05 review. All required questions/practices and sevenCSVexports checked, including sex_differences_by_species.csv. Independently verified344to342 rows,9unknownsex retained, species151/68/123,0overall and6within-species flagged birds retained,3correlation reversals, and exact sex counts/unrounded differences. Optional Pokemon extension queued.
 
+
+- Coordinator verification `07-Describing_Data/quiz.md` (full): All36 answers checked against every original prompt, course notebooks and supplied data; response-block removal restores source. Code/statistics checks cover category meaning, ddof, IQR/z-score rules, denominators, weighted rates, correlation versus causation, Simpson reversal and Anscombe's quartet.
+
 ## Current audited required-deliverable totals
 
-50 of 81 required deliverables fully complete (61.7%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+51 of 81 required deliverables fully complete (63.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -133,5 +136,5 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
-| 07-Describing_Data | 10 | 8 | 0 | 2 | 0 |
+| 07-Describing_Data | 10 | 9 | 0 | 1 | 0 |
 | 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |

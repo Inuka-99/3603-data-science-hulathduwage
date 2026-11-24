@@ -106,6 +106,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 - [x] `06-Describing_Data_Lab.ipynb`: 25 code cells passed fresh final-location kernel after methods01-05 review. All required questions/practices and sevenCSVexports checked, including sex_differences_by_species.csv. Independently verified344to342 rows,9unknownsex retained, species151/68/123,0overall and6within-species flagged birds retained,3correlation reversals, and exact sex counts/unrounded differences. Optional Pokemon extension queued.
 - [ ] `quiz.md`, `worksheet.md`, `01-OutputFiles`, and `06-OutputFiles`.
 
+- [x] `quiz.md`: All36 answers checked against every original prompt, course notebooks and supplied data; response-block removal restores source. Code/statistics checks cover category meaning, ddof, IQR/z-score rules, denominators, weighted rates, correlation versus causation, Simpson reversal and Anscombe's quartet.
 ## Module 08 — Visualizing Data
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles` through `06-OutputFiles`.
