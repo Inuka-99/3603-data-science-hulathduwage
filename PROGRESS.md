@@ -229,6 +229,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `06-Working_with_Data_Adv/05-Column_Operations.ipynb` (full): Inuka accepted the named-function readability preference for Practice 3. All 31 code cells passed a fresh final-directory project .venv kernel; original prompt and executable calculations preserved, with obsolete draft comments replaced by the accepted Markdown answer. Module checker passes 11/11.
 
+
+- Coordinator verification `04-More_Functions_and_Loops/02-While_Loops.ipynb` (partial): Complete generated trace added: condition checks at1,3,9,27; printed values1,3,9; three loop-body executions and exit at27. All11 code cells passed a fresh final-directory .venv kernel. Learner hand-tracing participation remains unconfirmed.
+
 ## Current audited required-deliverable totals
 
 69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
