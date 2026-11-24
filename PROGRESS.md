@@ -96,9 +96,12 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `06-Working_with_Data_Adv/08-Pandas_Wrangle_Lab.ipynb` (full): 41 code cells passed in fresh final-location kernel; original prompts/examples retained. 269 raw to 239 cleaned rows; removed 6 exact duplicates, 3 superseded IDs, 21 essential-field failures. Independently reconciled Decimal revenue 20315.63, group totals, and 14-row Travel IL report totaling 1644.62. Three required CSV exports validated; completed optional investigation retained separately.
 
+
+- Coordinator verification `06-Working_with_Data_Adv/quiz.md` (full): All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
+
 ## Current audited required-deliverable totals
 
-41 of 81 required deliverables fully complete (50.6%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+42 of 81 required deliverables fully complete (51.9%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -108,6 +111,6 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
-| 06-Working_with_Data_Adv | 11 | 8 | 1 | 2 | 0 |
+| 06-Working_with_Data_Adv | 11 | 9 | 1 | 1 | 0 |
 | 07-Describing_Data | 10 | 0 | 0 | 10 | 0 |
 | 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |

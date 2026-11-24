@@ -93,6 +93,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 - [x] `08-Pandas_Wrangle_Lab.ipynb`: 41 code cells passed in fresh final-location kernel; original prompts/examples retained. 269 raw to 239 cleaned rows; removed 6 exact duplicates, 3 superseded IDs, 21 essential-field failures. Independently reconciled Decimal revenue 20315.63, group totals, and 14-row Travel IL report totaling 1644.62. Three required CSV exports validated; completed optional investigation retained separately.
 - [ ] `quiz.md`, `worksheet.md`, and `08-OutputFiles`.
 
+- [x] `quiz.md`: All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
 ## Module 07 — Describing Data
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles`, `06-OutputFiles`.
