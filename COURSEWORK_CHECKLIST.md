@@ -64,7 +64,6 @@ Files: `01-Function_Extras.ipynb`, `02-While_Loops.ipynb`, `03-Looping_Over_File
 
 Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet.md`. Checker-required output folders: `01-OutputFiles`, `02-OutputFiles`, `04-OutputFiles`, `05-OutputFiles`, `06-OutputFiles`, `07-OutputFiles`, `08-OutputFiles`, `Quiz-OutputFiles`. Notebook 03 has no output folder.
 
-- [x] `01-magic_commands.ipynb` exists in Completed; commit `4ab8445`.
 - [x] `02-jupyter_shortcuts_and_workflow.ipynb` plus seven outputs exist in Completed; commit `fe42738`. All 11 original prompt cells were preserved. Some editor-only shortcut actions were simulated via notebook operations; multi-cell keyboard selection and personal UI observations were not performed.
 - [x] `03-using_help_and_docs.ipynb`: all 35 code cells executed in a fresh `.venv` kernel; all non-UI Your Turn, Practice 1–4, documentation, bar-chart, random-dice, and optional datetime/statistics exercises are filled. All 80 original cells remain and all original Markdown prompts are unchanged except the filled Practice 4 response. Notebook 03 creates no output folder.
 - [ ] In VS Code, use Tab completion on the dictionary and `names` list in the Tab Completion Your Turn, and on the string in Practice 3. The code-backed `dir()` method inventories are present, but literal Tab interactions were not performed.
@@ -79,6 +78,7 @@ Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet
 - [x] `worksheet.md`: 24 factual answers and independent tasks filled; companion `Worksheet-Support/Worksheet_Practice.ipynb` passed all 12 code cells in a fresh `.venv` kernel. Autoreload before/after, isolated state/order failure and fix, local help/wildcard inspection, Markdown mini report, JSON tuple change, glob, CSV/JSON/Excel, saved charts, and timing checks verified. Required support files included under `Worksheet-OutputFiles`.
 - [ ] Worksheet personal participation: keyboard-only Shortcut Drill, literal Tab/IntelliSense, eight Explain It responses in Inuka's own words, and 11 learner submit-checklist attestations. Assistant explanations are labeled drafts.
 
+- [x] `01-magic_commands.ipynb`: Fresh final-location kernel: 40 nonempty code cells passed. Preserved instructor prompts/examples and four required script assets. Reproduced ZeroDivisionError from nightly_rate(240, 0), invoked the actual IPython post-mortem debugger, executed p total (240), p nights (0), and q via a recorded command queue; corrected call returns 120.0. This is actual programmatic debugger inspection, not a learner keyboard-participation claim.
 ## Module 06 — Working with Data
 
 Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required output: `08-OutputFiles`.

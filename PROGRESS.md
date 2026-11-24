@@ -90,3 +90,21 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 - `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: 29 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and Your Turn completed; threshold variables changed without altering the query, sorting and score conditions asserted, Mega Pokemon counted, and mask/query product reports checked equal with the expected three products. Optional challenge readability preference remains Inuka's personal answer; comparison comment labeled draft.
 
 - `06-Working_with_Data_Adv/07-Grouping_and_Combining.ipynb`: 34 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and four Your Turn parts completed; percentages include missing ports, C has highest port survival, student 5 retained with unknown major, Casey's unmatched buyer status explained, spending/group sizes asserted, and concat provenance checked. Optional peak-year calculation reports failed 24:00 timestamps explicitly. Population JSON copied unchanged.
+
+- Coordinator verification `05-Foundations/01-magic_commands.ipynb` (full): Fresh final-location kernel: 40 nonempty code cells passed. Preserved instructor prompts/examples and four required script assets. Reproduced ZeroDivisionError from nightly_rate(240, 0), invoked the actual IPython post-mortem debugger, executed p total (240), p nights (0), and q via a recorded command queue; corrected call returns 120.0. This is actual programmatic debugger inspection, not a learner keyboard-participation claim.
+
+## Current audited required-deliverable totals
+
+39 of 81 required deliverables fully complete (48.1%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+
+| Module | Required | Full | Partial | Unstarted | Unknown |
+|---|---:|---:|---:|---:|---:|
+| 01-Scalar_Types_and_Control_Flow | 4 | 3 | 1 | 0 | 0 |
+| 02-Strings_and_Text | 5 | 4 | 0 | 0 | 1 |
+| 03-Python_Containers | 5 | 4 | 1 | 0 | 0 |
+| 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
+| 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
+| 05-Foundations | 19 | 16 | 3 | 0 | 0 |
+| 06-Working_with_Data_Adv | 11 | 6 | 1 | 4 | 0 |
+| 07-Describing_Data | 10 | 0 | 0 | 10 | 0 |
+| 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |
