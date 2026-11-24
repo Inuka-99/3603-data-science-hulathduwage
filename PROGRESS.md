@@ -123,6 +123,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `07-Describing_Data/quiz.md` (full): All36 answers checked against every original prompt, course notebooks and supplied data; response-block removal restores source. Code/statistics checks cover category meaning, ddof, IQR/z-score rules, denominators, weighted rates, correlation versus causation, Simpson reversal and Anscombe's quartet.
 
+
+- Coordinator verification `07-Describing_Data/worksheet.md` (partial): All10 factual answers and five independent tasks completed; seven support cells passed fresh final-location kernel;11CSVexports verified. Checked400/891 above3rdclass, sample Attack spread,2within-Chinstrap mass flags,15uniquecorrelationpairs/method, and senior-women3/3 small-cell caution. Five own-word reflections and seven learner attestations remain pending; no participation claims.
+
 ## Current audited required-deliverable totals
 
 51 of 81 required deliverables fully complete (63.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -136,5 +139,5 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
-| 07-Describing_Data | 10 | 9 | 0 | 1 | 0 |
+| 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
 | 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |

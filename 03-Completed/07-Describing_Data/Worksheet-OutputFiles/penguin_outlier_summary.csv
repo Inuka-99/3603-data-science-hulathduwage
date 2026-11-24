@@ -1,0 +1,5 @@
+group,n,lower_fence,upper_fence,outliers
+overall,342,1750.0,6550.0,0
+Adelie,151,2375.0,4975.0,0
+Chinstrap,68,2793.75,4643.75,2
+Gentoo,123,3500.0,6700.0,0
