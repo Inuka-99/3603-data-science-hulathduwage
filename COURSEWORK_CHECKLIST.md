@@ -49,12 +49,14 @@ Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Fu
 - [x] All six notebooks freshly executed in `.venv`; all original cell IDs remain, all 103 code cells executed without error outputs, and answer/prediction support is present.
 - [x] `quiz.md`: all 24 answers reviewed.
 - [x] `worksheet.md`: all six sections have typed worked answers; the source explicitly requires the independent work on paper, so it remains pending.
-- [ ] Paper traces to complete: mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
+- [ ] Paper work remaining in this module: all six worksheet sections. Notebook 04 solo mystery traces are learner-reported and verified; its partner exchange remains pending separately.
 - [ ] Write a small mystery function and exchange it with a partner in `04-Mystery_Functions.ipynb`.
 - [ ] Complete the class/team pipeline activity in `06-Pipelines.ipynb`.
 
 - [x] `01-Too_Many_Variables.ipynb`: Inuka supplied both guided paper traces and observations: score/print rows 74, 88, 95 and running totals 87, 178, 252, 340, 435. All 14 code cells passed in a fresh final-directory project .venv kernel; original prompts and examples preserved. Paper completion is learner-reported, separate from automated verification.
 - [x] `02-Pick_Your_Container.ipynb`: Inuka supplied all six step-by-step nested-expression paper traces, correctly distinguishing three student records from two dictionary keys. All 20 code cells passed in a fresh final-directory project .venv kernel; original paper prompt preserved exactly. Paper work is learner-reported, separate from automated verification.
+
+- [ ] `04-Mystery_Functions.ipynb`: Inuka supplied guided paper traces, predictions and descriptions for all five mystery functions, with clearer names for mysteries 2-5. All 22 code cells passed a fresh final-directory project .venv kernel; results and early-exit visits independently verified. Solo paper traces are learner-reported; learner-authored mystery function and actual partner exchange remain pending.
 
 ## Module 04 — More Functions and Loops
 
@@ -163,7 +165,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [x] `03-Python_Containers/worksheet.md` - Inuka confirmed all three existing explanations and both remaining understanding self-assessments. All 21 Python blocks passed; all worksheet checklist items are complete.
 - [x] `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` - Inuka supplied both guided paper traces and observations. Score/print rows and all running totals are correct; all 14 code cells passed a fresh final-directory kernel. Paper completion is learner-reported, not inferred from code execution.
 - [x] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka supplied all six guided paper traces with intermediate values and correct list/dictionary length explanations. All 20 code cells passed a fresh final-directory kernel. Paper completion is learner-reported.
-- [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - Inuka plus partner: complete all paper traces; write a 5-8-line mystery function, exchange it with a partner, trace their function, and compare results. Confirm actual exchange and observations.
+- [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - All five solo mystery traces, predictions and descriptions are supplied by Inuka and verified. Inuka plus partner: write a learner-authored 5-8-line mystery function, exchange it, trace the partner function and compare results. Actual partner identity, participation and outcomes remain pending.
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
 - [ ] `03b-Containers_to_Functions/worksheet.md` - Inuka: complete all six sections on paper and provide/confirm the four Explain It reflections, including the container scenario you were least sure about.
 - [ ] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Inuka: hand-trace n=1, while n<20, n*=3 before execution; record the sequence and loop exit.

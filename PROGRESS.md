@@ -214,6 +214,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` (full): Inuka supplied all six step-by-step nested-expression paper traces, correctly distinguishing three student records from two dictionary keys. All 20 code cells passed in a fresh final-directory project .venv kernel; original paper prompt preserved exactly. Paper work is learner-reported, separate from automated verification.
 
+
+- Coordinator verification `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` (partial): Inuka supplied guided paper traces, predictions and descriptions for all five mystery functions, with clearer names for mysteries 2-5. All 22 code cells passed a fresh final-directory project .venv kernel; results and early-exit visits independently verified. Solo paper traces are learner-reported; learner-authored mystery function and actual partner exchange remain pending.
+
 ## Current audited required-deliverable totals
 
 68 of 81 required deliverables fully complete (84.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
