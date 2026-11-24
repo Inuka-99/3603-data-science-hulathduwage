@@ -108,6 +108,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 
 - [x] `quiz.md`: All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
 - [ ] `worksheet.md`: All17 factual answers and independent tasks verified; 10 support code cells passed a fresh final-location kernel. Inuka's exact four grades yield mean85.25; all six supplied reflections retained verbatim. Six output CSVs checked. Eleven original learner checklist attestations remain unchecked; no personal hands-on participation claimed.
+- [ ] `worksheet.md`: All answers complete; supplied grades and six reflections preserved verbatim. Ten support cells passed a fresh final-directory kernel, verifying original tasks and six unchanged CSV exports. Added computed evidence for every checklist topic; eleven learner attestations remain unchecked.
 ## Module 07 — Describing Data
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles`, `06-OutputFiles`.
@@ -179,7 +180,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `05-Foundations/03-using_help_and_docs.ipynb` - All technical answers and method-discovery explanations are generated and verified;39 cells pass. Literal completion actions and learner own-word/unfamiliarity requirements remain unconfirmed. Editor app access timed out.
 - [ ] `05-Foundations/worksheet.md` - Eight generated explanations and all technical tasks are complete;12 support cells pass. Keyboard-only Shortcut Drill, literal Tab/IntelliSense and eleven learner attestations remain unconfirmed.
 - [x] `06-Working_with_Data_Adv/05-Column_Operations.ipynb` - Inuka accepted the preference for a named function because its name explains the calculation's purpose. All 31 code cells passed a fresh final-directory kernel; Practice 3 is resolved.
-- [ ] `06-Working_with_Data_Adv/worksheet.md` - Inuka: confirm eleven unchecked learner practice attestations. Your four course grades and six supplied personal reflections are already integrated; no replacement answers are requested.
+- [ ] `06-Working_with_Data_Adv/worksheet.md` - All technical answers and supplied grades/reflections are complete. Ten support cells and six CSVs are verified, with checklist-to-evidence mapping saved. Eleven learner practice attestations remain unconfirmed.
 - [ ] `07-Describing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
 - [ ] `08-Visualizing_Data/06-Visualization_Lab.ipynb` - All six answers are generated or completed, including discovery/evidence comparison and an audit of the actual agent-recorded title-spacing fix. Fifteen cells and all figures verified. Learner discovery/editing experience remains unconfirmed.
 - [ ] `08-Visualizing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked against source data and plotting methods. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
@@ -253,3 +254,7 @@ Module 03 explanations and outstanding understanding self-assessments were expli
 
 5. Which was easier to **find** the paradox with: the Module 07 tables or the Module 08 chart? Which is better as **evidence**? Why might you want both?
 6. Pick one figure and go through the notebook 05 checklist. Which item did you have to fix last?
+
+## Written-answer completion ? 2026-11-24
+
+At Inuka's request, remaining independently answerable written explanations are generated and verified. There are no blank technical-answer gaps in the required coursework. This completes written preparation; it does not attest unreported learner paper/keyboard actions or personal experiences. The two Module 03b partner/team activities remain pending. The original instructor participation requirements and unchecked learner attestations remain visible above. Windows editor access timed out during the attempted physical-action check.

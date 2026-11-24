@@ -359,3 +359,23 @@ Prepared for **Inuka Hulathduwage**. See [executed support notebook](Worksheet-S
 - The loop and vectorized totals match exactly. Timing results are recorded in the notebook and depend on the computer and run.
 - The four course/grade pairs and all six Explain It responses were supplied by Inuka. The grade mean is 85.25.
 - The original submission checklist is left unchecked for the student's personal review and attestation.
+
+### Technical verification record
+
+All 10 support-notebook code cells executed successfully in a fresh Python kernel. The table records generated, computed evidence for the checklist topics; it does not assert that the student personally performed the actions. Code-cell numbers below count code cells only, starting at 1.
+
+| Checklist topic | Executed evidence |
+|---|---|
+| Series and DataFrame from containers | Cell 2 creates the supplied four-course Series (mean 85.25); cell 9 creates the sample student DataFrame from dictionaries. |
+| Load and inspect local CSV | Cells 1 and 3 load the datasets and run numeric `.describe()`, `.info()`, and missing-value counts on Pokémon (800 × 13). |
+| Label and positional selection | Cell 4 uses `.loc`; cell 10 uses `.iloc` for the first two passenger records. |
+| Compound filter | Cell 4 combines third class and survival conditions with `&`, returning 119 passengers. |
+| Clean a column | Cell 5 fills 9,670 missing UFO country entries with explicit `Unknown` labels and preserves every sighting. |
+| Create and sort a feature | Cell 6 creates `total_score` and sorts it descending, producing Christopher 197, Danielle 195, and Bridget 192. |
+| Replace a placeholder with missingness | Cell 10 replaces the sample survey age sentinel −1 with `NaN` and asserts one missing value. |
+| Membership filter | Cell 10 filters passenger classes using `.isin([1, 2])`. |
+| Vectorized calculation | Cell 7 asserts exact equality between the loop totals and whole-column addition, then benchmarks both with `%timeit`. |
+| Group and combine tables | Cell 8 computes class/sex survival rates and port aggregates, retaining the missing-port group so counts total 891; cell 9 validates five-row left and four-row inner joins. |
+| Explain It responses | All six supplied reflections are retained verbatim; this verification record adds no authorship or learner-participation claim. |
+
+The six CSV exports in `Worksheet-OutputFiles` were checked against their source data and remain unchanged. All factual answers and runnable tasks are complete; the unchecked checklist remains the student's participation attestation.

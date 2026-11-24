@@ -247,6 +247,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` (partial): All written workflow answers complete; real isolated-kernel evidence demonstrates wrong-order NameErrors, retained state after source deletion, restart failures and corrected counts.14 cells passed fresh final-directory execution; matching HTML/Python exports rebuilt. Physical keyboard/editor/browser actions remain unverified after app-access timeout.
 
+
+- Coordinator verification `06-Working_with_Data_Adv/worksheet.md` (partial): All answers complete; supplied grades and six reflections preserved verbatim. Ten support cells passed a fresh final-directory kernel, verifying original tasks and six unchanged CSV exports. Added computed evidence for every checklist topic; eleven learner attestations remain unchecked.
+
 ## Current audited required-deliverable totals
 
 69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -262,3 +265,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 | 06-Working_with_Data_Adv | 11 | 10 | 1 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
 | 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
+
+## Written-answer completion ? 2026-11-24
+
+All remaining technical written responses are filled and verified in individual assignment commits. Newly checked final-location kernels: While Loops 11 cells, Help/Docs 39, Visualization Lab 15, Foundations worksheet 12, Workflow 14 and Pandas worksheet 10. Module 04 worksheet's three code blocks and all five sections also pass. Existing raw inputs, personal answers and required output contents are preserved.
+
+The strict completion count remains 69/81: the 12 open entries contain unverified participation/authorship requirements, including the two excluded partner/team activities. Generated solutions are identified accurately; no learner keyboard or paper action is inferred from their presence. The editor-access check timed out, so physical notebook UI observations remain unverified. No further technical answers are missing.
