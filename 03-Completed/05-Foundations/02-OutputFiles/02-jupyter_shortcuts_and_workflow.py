@@ -2,9 +2,9 @@
 # coding: utf-8
 
 # # ⚡ 02 - Jupyter Shortcuts and Workflow
-# 
+#
 # You've been using notebooks since Module 01. This notebook makes you **faster** (keyboard shortcuts) and your notebooks **reliable** (understanding the kernel and execution order).
-# 
+#
 # ## ✅ Learning Goals
 # - Explain what a notebook combines, and how the notebook file differs from the kernel
 # - Switch between Command and Edit mode, and use the essential shortcuts
@@ -13,10 +13,10 @@
 # - Use `%history`, `%save`, and `Out[n]` to recover past work
 # - Save, name, clear, and export notebooks appropriately
 # - Structure an analysis notebook and fix the most common notebook problems
-# 
+#
 # > **The core habit:** a reliable notebook runs successfully from top to bottom after restarting the kernel.
 
-# **Assignment status: partial.** Code calculations, saved history, corrected dependency ordering, and generated exports are programmatic artifacts. Hands-on keyboard practice, mode observations, browser opening, and editor inspection still require the learner. A fresh automated kernel run checks reproducibility, not participation in those exercises.
+# **Generated written solutions and agent-executed evidence:** The independently answerable explanations, exported-source comparisons, and kernel-state exercises are completed below. Real isolated Python kernels were used to demonstrate failures, restarts, and corrected dependency order. Expected editor appearance is labeled as expected, not observed. Literal keyboard drills, editor/browser opening, and learner participation are not claimed.
 
 # ## 1. What Notebooks Are For
 # A Jupyter notebook (an `.ipynb` file) combines in one document:
@@ -25,9 +25,9 @@
 # - **Equations**
 # - **Charts and images**
 # - Saved **outputs**
-# 
+#
 # That makes notebooks great for exploring data, teaching, and keeping a **reproducible record** of an analysis. Someone else can rerun your steps and get the same results, but only if the notebook is built carefully. Most of this notebook is about doing that.
-# 
+#
 # Files this notebook creates go into a **`02-OutputFiles`** folder. Run the cell below to create it.
 
 # In[1]:
@@ -42,21 +42,21 @@ OUT.mkdir(exist_ok=True)
 # ## 2. Modes in Jupyter
 
 # Jupyter has two keyboard modes, and the same key does different things in each:
-# 
+#
 # | Mode | Purpose | Visual clue (VS Code) | Visual clue (classic Jupyter) |
 # |---|---|---|---|
 # | **Edit mode** | Type inside a cell | Blinking cursor in the cell, and the cell's editor is outlined | Green cell border |
 # | **Command mode** | Act on **whole cells**: select, move, create, delete, change type | No cursor; colored bar on the left of the selected cell | Blue cell border |
-# 
+#
 # Switch:
 # - Press `Enter` → Edit mode
 # - Press `Esc` → Command mode
-# 
+#
 # ⚠️ **The #1 beginner frustration:** pressing a shortcut in the wrong mode. In Edit mode, pressing `B` just types the letter "b". **If a shortcut doesn't work, press `Esc` and try again.**
 
 # ✅ **Your Turn**: Click into a cell below, press `Esc`, then `Enter`, a few times, and notice how the cell's appearance changes between the two modes.
 
-# **Pending learner observation:** In your notebook editor, click into a cell and alternate `Esc` and `Enter`, then record the actual appearance changes. The instructor describes command mode as whole-cell selection and edit mode as a text cursor; this is expected behavior, not a recorded hands-on observation. Programmatic notebook editing does not verify keyboard modes or their visual appearance.
+# **Generated explanation of expected appearance, not a physical observation:** In edit mode (`Enter`), typing affects the cell's text and a blinking text cursor is expected. In command mode (`Esc`), whole-cell selection is expected and ordinary letter keys invoke cell commands instead of inserting text. Classic Jupyter commonly uses green versus blue cell borders; VS Code uses a selected-cell indicator and editor focus whose exact colors depend on its theme/version. Switching modes changes focus, not the cell's Python value or type. No actual screen appearance or learner keypress was observed.
 
 # In[ ]:
 
@@ -67,9 +67,9 @@ OUT.mkdir(exist_ok=True)
 # ## 3. Essential Shortcuts
 
 # These work in **Command mode** (press `Esc` first). On a Mac, `Alt` is the `Option` key.
-# 
+#
 # ### Cells
-# 
+#
 # | Shortcut | Action |
 # |---|---|
 # | `A` | Insert a new cell **A**bove |
@@ -82,9 +82,9 @@ OUT.mkdir(exist_ok=True)
 # | `L` | Show or hide **l**ine numbers |
 # | `Shift` + `↑` / `↓` | Select several cells at once |
 # | `Alt` + `↑` / `↓` (VS Code) | Move the cell up / down |
-# 
+#
 # ### Running
-# 
+#
 # | Shortcut | Action |
 # |---|---|
 # | `Shift` + `Enter` | Run the cell and move to the next one |
@@ -92,9 +92,9 @@ OUT.mkdir(exist_ok=True)
 # | `Alt` + `Enter` | Run the cell and insert a new cell below |
 # | `I`, `I` | **I**nterrupt the kernel (stop a cell that's stuck or taking too long) |
 # | `0`, `0` | Restart the kernel (classic Jupyter; in VS Code use the **Restart** toolbar button) |
-# 
+#
 # These are the classic Jupyter shortcuts. VS Code supports most of them, but a few differ. If one doesn't work in VS Code, open **Keyboard Shortcuts** (`Ctrl+K Ctrl+S`, or `Cmd+K Cmd+S` on Mac) and search for "notebook".
-# 
+#
 # 💡 **Can't remember a shortcut?** Open the **Command Palette** (`Ctrl+Shift+P`, or `Cmd+Shift+P` on Mac) and type part of what you want, such as "restart kernel" or "clear outputs". It also shows the shortcut, so you learn it for next time.
 
 # Practice on this cell. Click it, then press `Shift` + `Enter` to run it and move on. Then come back and try `Ctrl` + `Enter`, which runs it without moving.
@@ -108,12 +108,12 @@ sum(sales)
 
 # ✅ **Your Turn**: Practice creating, deleting, and changing cell types using only shortcuts (no mouse).
 
-# **Programmatic preparation only; keyboard practice pending:** The earlier cell-editing description concerned tool-driven notebook changes, not verified keyboard shortcuts. Practice creating and deleting cells and changing code/Markdown types using only shortcuts, then record what actually happens in your editor.
+# **Generated keyboard-workflow explanation:** Command-mode `A`/`B` inserts a cell above/below, `D` twice deletes the selected cell, and `M`/`Y` changes the selected cell between Markdown and code. These operations change the notebook document; they do not execute Python or erase a variable already in the kernel. This explains the requested exercise, but literal shortcut practice is not claimed.
 
 # ## 4. Code Cells and Markdown Cells
 # - **Code cells** run Python. The output appears below the cell.
 # - **Markdown cells** document the notebook: titles, explanations, and conclusions. Running one (`Shift` + `Enter`) **renders** it as formatted text. Notebook 04 covers Markdown in depth.
-# 
+#
 # ### Only the Last Line Displays Automatically
 # A code cell automatically shows the value of its **last** line only. To see more than one result, use `print()`:
 
@@ -134,7 +134,7 @@ print(sum(scores) / len(scores))
 
 # ## 5. Execution Order and the Kernel
 # The **kernel** is the Python process running behind the notebook. Each code cell shows an **execution count**, like `[1]`, `[2]`, `[7]`. These numbers show the order cells were **run in**, not where they sit in the notebook. You can run cells in any order, and that's where trouble starts.
-# 
+#
 # The two cells below are deliberately in the **wrong** order:
 
 # In[5]:
@@ -155,6 +155,8 @@ total
 # 2. Now run the `tax_rate` cell, then the `total` cell again. It works, and the execution counts show that the cells ran out of order.
 # 3. Here's the danger: the notebook now **looks** fine, but it would fail for anyone who runs it top to bottom. Fix the order by moving the `tax_rate` cell **above** the `total` cell (`Alt` + `↑` in VS Code, or drag it).
 
+# **Actual agent-executed order evidence:** In an isolated fresh project kernel, running `total = 100 * (1 + tax_rate)` first failed at execution `[1]` with `NameError: name 'tax_rate' is not defined`. Defining `tax_rate = 0.08` ran at `[2]`; rerunning the total cell at `[3]` displayed **108.0**. Counts `[2]` and `[3]` describe execution time, regardless of where those cells appear in the document. The main notebook retains the corrected definition-before-use order. This is programmatic kernel evidence, not a learner shortcut or drag-and-drop claim.
+
 # 🔁 **Before you Restart & Run All:** Run All stops at the first error, so this deliberate error would keep every cell after it from running (see notebook 02). Step 3 above, moving the `tax_rate` cell above the `total` cell, is what fixes it. If you skip that step, Run All stops at the `total` cell and the rest of this notebook never runs.
 
 # ### The Most Important Habit: Restart & Run All
@@ -162,9 +164,9 @@ total
 # 1. **Restart** the kernel (this wipes every variable).
 # 2. **Run All** cells from top to bottom.
 # 3. Confirm that every cell works with nothing left over from earlier.
-# 
+#
 # In VS Code, use the **Restart** button and then **Run All** in the notebook toolbar. In Jupyter, use *Kernel → Restart Kernel and Run All Cells*.
-# 
+#
 # This catches notebooks that only work because an old variable is still in memory, and it's exactly what happens when your notebook is graded.
 
 # ## 6. Kernel State vs. Notebook Contents
@@ -174,9 +176,9 @@ total
 # | Outputs, if saved | Imported libraries |
 # | Metadata | Defined functions |
 # | | The current working directory and other state |
-# 
+#
 # > **The notebook is the recipe. The kernel is the kitchen** that's currently cooking from it. Tearing a page out of the recipe doesn't un-bake the cake.
-# 
+#
 # So deleting a cell does **not** delete what it created. The variable lives on in the kernel until you restart (or use `%xdel` / `%reset` from notebook 01).
 
 # ✅ **Your Turn**:
@@ -197,9 +199,11 @@ message = 'Hello'
 message
 
 
+# **Completed generated explanation with actual kernel evidence:** A notebook cell's source and the objects it creates are separate. In the same isolated kernel, `message = 'Hello'` executed at `[4]`. The definition cell was then removed from an in-memory notebook-document representation, without sending a deletion command to Python. Executing the remaining `message` cell at `[5]` still returned **`'Hello'`**. After an actual kernel restart, `message` at new `[1]` raised `NameError: name 'message' is not defined`. Restoring the definition in that document representation and executing it at `[2]`, then reading `message` at `[3]`, returned **`'Hello'`** again. Undoing a document deletion restores source text, not an executed variable after a restart; the restored definition must be rerun. No physical cell deletion or keyboard undo is claimed.
+
 # ## 7. History and Saving Code
 # The kernel remembers everything you've run in this session, even cells you've since edited or deleted.
-# 
+#
 # | Command | What it does |
 # |---|---|
 # | `%history -n` | Show all inputs with their execution numbers |
@@ -209,7 +213,7 @@ message
 # | `%rerun 5` | Run input number 5 again |
 # | `Out[3]` | The **output** of execution number 3 |
 # | `_` | The most recent output |
-# 
+#
 # These are handy for recovering something you deleted while exploring. But they depend on execution order, so **don't** use `%rerun` or `Out[n]` in a finished notebook.
 
 # In[9]:
@@ -248,14 +252,14 @@ Out[2]
 # ### Saving
 # - `Ctrl + S` (`Cmd + S` on Mac) saves the notebook. VS Code can also save automatically: *File → Auto Save*.
 # - The workflow you're actually using in this course: save the notebook, then commit and push it with git/GitHub. See `_StartHere` if you need a refresher on that process.
-# 
+#
 # ### Naming
 # Good names say **what** the notebook does and **where** it fits:
 # - ✅ `01_data_cleaning.ipynb`, `02_exploratory_analysis.ipynb`, `03_visualizations.ipynb`
 # - ❌ `final.ipynb`, `final_final.ipynb`, `really_final_v8.ipynb` (use git for versions instead)
-# 
+#
 # For bigger projects, move reusable functions into `.py` files and import them (or `%run` them, from notebook 01). Notebooks are great for analysis but awkward for sharing code between projects.
-# 
+#
 # ### Clearing Outputs
 # Outputs are saved **inside** the `.ipynb` file. They can make it huge (especially images and big tables) and can accidentally keep sensitive information. **Clear All Outputs** (a toolbar button in VS Code), then save, removes them.
 # - **While exploring:** keep the outputs.
@@ -263,7 +267,7 @@ Out[2]
 # - **Sharing a finished report:** Restart & Run All, then keep the outputs, so readers can see the results without running anything.
 
 # ## 9. Exporting Notebooks
-# 
+#
 # | Format | Best for |
 # |---|---|
 # | `.ipynb` | Someone who will **edit and rerun** it |
@@ -271,20 +275,20 @@ Out[2]
 # | `.pdf` | A printable, fixed-layout submission |
 # | `.py` | Turning the code into a reusable script |
 # | Markdown (`.md`) | Documentation, or GitHub-friendly text |
-# 
+#
 # **How:**
 # - **VS Code:** click the `...` menu in the notebook toolbar → **Export**, or search for "Export" in the Command Palette.
 # - **Jupyter:** *File → Save and Export Notebook As…*
-# 
+#
 # ⚠️ HTML and `.py` exports work almost everywhere. PDF export usually needs extra software (a LaTeX installation). If it fails, export to HTML, open that in a browser, and **Print → Save as PDF**.
 
 # ✅ **Your Turn**: Export this notebook to **HTML** and to **`.py`**, and save both in `02-OutputFiles`. Open the HTML file in a browser.
 
-# **Programmatic export status:** HTML and Python exports are generated with nbconvert in `02-OutputFiles`. Source inspection confirms that the Python export represents Markdown as `#` comment lines and retains code as Python/IPython source. **Pending learner action:** open the HTML file in a browser and record your own observations; no browser opening or visual inspection is claimed here.
+# **Completed generated export explanation:** The matching HTML and Python exports are rebuilt in `02-OutputFiles`. HTML is a static rendering of the saved Markdown, code, and outputs; it is suitable for reading but does not provide a running kernel. The Python export represents Markdown as `#` comment lines and retains executable code, with notebook magics converted to `get_ipython()` calls. Opening either file does not itself rerun the notebook or recreate its former live variables. The files are generated and source-inspected programmatically; no browser opening or learner/editor observation is claimed.
 
 # ## 10. A Practical Notebook Structure
 # A well-organized analysis notebook reads like a short report, top to bottom:
-# 
+#
 # ```markdown
 # # Title and purpose
 # ## Imports and setup
@@ -294,7 +298,7 @@ Out[2]
 # ## Visualizations
 # ## Findings and limitations
 # ```
-# 
+#
 # Put **all imports in the first code cell**. That way, Restart & Run All never hits an import halfway down. Here's the same idea in miniature:
 
 # In[13]:
@@ -316,7 +320,7 @@ print(f'Best month: month {best_month}')
 
 
 # ## 11. Common Problems and Fixes
-# 
+#
 # | Problem | Likely cause | Fix |
 # |---|---|---|
 # | `NameError` | A cell that defines the variable hasn't been run | Run the earlier cells, or Restart & Run All |
@@ -343,27 +347,39 @@ print(f'Best month: month {best_month}')
 # ### Practice 1 — Speed Round (easy)
 # Using only keyboard shortcuts: insert a new cell below this one, turn it into a Markdown cell, type a short note in it, and run it.
 
-# **Programmatic example; Practice 1 keyboard work pending:** This Markdown note exists in the notebook and is included in exports. Creating a Markdown cell programmatically does not complete the requested keyboard-only insert, change-type, type, and run sequence. Perform that sequence in your editor and record the result.
+# **Generated Practice 1 solution:** The expected keyboard sequence is `Esc`, `B`, `M`, type a note, then `Shift+Enter`. `B` inserts below, `M` changes the new cell to Markdown, and running it renders the text instead of sending it to Python. For example, the note can read: "Markdown explains the analysis; code performs the calculations." This written solution is complete; no keyboard-only insertion or learner participation is asserted.
 
 # ### Practice 2 — Reorganize Without a Mouse (medium)
 # Insert 3 new cells and type a different number in each. Then, using only the keyboard:
 # - Move the bottom cell to the top (`Alt` + `↑` in VS Code).
 # - Split one cell in two: put your cursor mid-line and press `Ctrl` + `Shift` + `-`. In VS Code, if that doesn't work, search the Command Palette for "split cell".
 # - Select two cells with `Shift` + `↓` and delete them both at once.
-# 
+#
 # Shortcuts vary slightly by editor, so look one up if it doesn't match.
 
-# **Programmatic simulation; Practice 2 keyboard work pending:** The earlier tool-driven creation, movement, splitting, and deletion of temporary cells was a structural simulation. It does not demonstrate keyboard execution or simultaneous keyboard multi-selection. Complete the requested three-cell exercise using only the keyboard: move the bottom cell to the top, split one cell, then select two cells together and delete them. Record any editor-specific shortcut differences.
+# **Generated Practice 2 explanation:** With three cells containing `1`, `2`, and `3`, moving the bottom cell upward twice changes document order to `3`, `1`, `2`; it does not rerun them or change earlier execution counts. Splitting a code cell divides its source at the cursor, so the split should leave syntactically valid pieces (a multiline cell with one complete expression per line is a safe example). Selecting two cells and deleting them removes those cells and their saved outputs from the document, but their previously created variables can remain in the kernel. VS Code's `Alt+Up`, split-cell command, and `Shift+Down` act on the editor's cells; exact bindings depend on the editor. This is the generated answer, not evidence of physical keyboard multi-selection, moving, splitting, or deletion.
 
 # ### Practice 3 — Export and Inspect (harder)
 # Export this notebook to `.py`. Open the exported file in VS Code and compare it to the notebook — what happened to the Markdown cells?
 
-# **Verified by programmatic source inspection:** In the Python export, Markdown cells become comment lines beginning with `#`; code cells remain Python/IPython source. IPython magics are represented by `get_ipython()` calls, so this export is not automatically an ordinary standalone Python script. **Pending learner action:** open the export in VS Code and make the requested editor-based comparison; no such editor observation is claimed here.
+# **Completed generated Practice 3 comparison:** The rebuilt `.py` file contains Markdown headings and prose as comments beginning with `#`, so they document the script rather than render as formatted cells. Code cells remain source statements separated by cell markers; IPython magics such as `%history` and `%save` become `get_ipython().run_line_magic(...)`. The notebook can retain displayed results and rich output, whereas this Python export contains the instructions and comments without the notebook's saved output objects. It is therefore not automatically a standalone ordinary-Python script. This comparison is verified by inspecting the generated text, without claiming the export was opened in VS Code.
 
 # ### Practice 4 — Break It, Then Fix It
 # Create a new notebook, `02-OutputFiles/broken.ipynb`, with three code cells **in this order**: `print(greeting)`, then `name = 'Graylian'`, then `greeting = f'Hello, {name}!'`. Get it working by running the cells out of order, and note the execution counts. Then Restart & Run All, watch it fail, and fix the **order** so it runs top to bottom from a fresh kernel.
 
-# **Existing artifact and verification limits:** `02-OutputFiles/broken.ipynb` contains the corrected dependency order: define `name`, define `greeting`, then print `greeting`. A fresh programmatic run verifies that final order. Its successful execution counts do not document the requested earlier out-of-order session or a learner operating Restart & Run All. **Pending learner work:** perform the original wrong-order/out-of-order/restart/fix exercise and record the execution counts and observed failure. The main notebook also has `tax_rate` before `total` and defines `message` before reading it so automated top-to-bottom execution succeeds; those edits do not verify dragging cells, deleting/undoing them with shortcuts, or personally restarting a kernel.
+# **Completed Practice 4: actual agent-executed kernel experiment**
+#
+# The original three-cell order was recreated in memory in an isolated real project `.venv` kernel. These are recorded programmatic executions, not a claim that the learner clicked Restart, dragged cells, or used shortcuts.
+#
+# | Stage | Executed source or order | Actual execution counts and result |
+# |---|---|---|
+# | Fresh kernel, original first cell | `print(greeting)` | `[1]`: `NameError: name 'greeting' is not defined` |
+# | Define dependencies out of document order | `name = 'Graylian'`, then `greeting = f'Hello, {name}!'`, then `print(greeting)` | `[2]`, `[3]`, `[4]`; prints `Hello, Graylian!` |
+# | Read counts in the original document order | print cell, name cell, greeting cell | `[4]`, `[2]`, `[3]`: counts record execution history, not cell position |
+# | Actually restart the isolated kernel and try original top-to-bottom order | `print(greeting)` first | New `[1]`: the same `NameError`; execution stops at the first failing cell |
+# | Restart again, then use corrected document order | define `name`, define `greeting`, print `greeting` | New `[1]`, `[2]`, `[3]`; prints `Hello, Graylian!` |
+#
+# The apparent out-of-order success depended on hidden live variables. Restart removed them, exposing the dependency error. The corrected order makes the notebook reproducible without a previous session. The existing `02-OutputFiles/broken.ipynb` already contains that corrected order and is preserved byte-for-byte; this separate experiment does not overwrite it. The main notebook likewise keeps `tax_rate` before `total` and the `message` definition before its use, so its final fresh top-to-bottom execution succeeds.
 
 # ## 🔥 Challenge (Optional) — A Mini Report Notebook
 # Create a new notebook, `02-OutputFiles/mini_report.ipynb`, that follows the structure from section 10:
@@ -372,9 +388,9 @@ print(f'Best month: month {best_month}')
 # 3. Some made-up **data** in a list
 # 4. A **calculation** that answers the question
 # 5. A written **conclusion** in Markdown
-# 
+#
 # **Bonus:** add a simple chart with `matplotlib`. Notebook 07 covers plotting, but `plt.plot(data)` and `plt.show()` are enough for now.
-# 
+#
 # Then **Restart & Run All** to prove it works from a fresh kernel, and export it to HTML in `02-OutputFiles`.
 
 # ## 📦 Check Your Output Files

@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Notebook</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>02-jupyter_shortcuts_and_workflow</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7825,7 +7825,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Assignment status: partial.</strong> Code calculations, saved history, corrected dependency ordering, and generated exports are programmatic artifacts. Hands-on keyboard practice, mode observations, browser opening, and editor inspection still require the learner. A fresh automated kernel run checks reproducibility, not participation in those exercises.</p>
+<p><strong>Generated written solutions and agent-executed evidence:</strong> The independently answerable explanations, exported-source comparisons, and kernel-state exercises are completed below. Real isolated Python kernels were used to demonstrate failures, restarts, and corrected dependency order. Expected editor appearance is labeled as expected, not observed. Literal keyboard drills, editor/browser opening, and learner participation are not claimed.</p>
 </div>
 </div>
 </div>
@@ -7936,7 +7936,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Pending learner observation:</strong> In your notebook editor, click into a cell and alternate <code>Esc</code> and <code>Enter</code>, then record the actual appearance changes. The instructor describes command mode as whole-cell selection and edit mode as a text cursor; this is expected behavior, not a recorded hands-on observation. Programmatic notebook editing does not verify keyboard modes or their visual appearance.</p>
+<p><strong>Generated explanation of expected appearance, not a physical observation:</strong> In edit mode (<code>Enter</code>), typing affects the cell's text and a blinking text cursor is expected. In command mode (<code>Esc</code>), whole-cell selection is expected and ordinary letter keys invoke cell commands instead of inserting text. Classic Jupyter commonly uses green versus blue cell borders; VS Code uses a selected-cell indicator and editor focus whose exact colors depend on its theme/version. Switching modes changes focus, not the cell's Python value or type. No actual screen appearance or learner keypress was observed.</p>
 </div>
 </div>
 </div>
@@ -8114,7 +8114,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Programmatic preparation only; keyboard practice pending:</strong> The earlier cell-editing description concerned tool-driven notebook changes, not verified keyboard shortcuts. Practice creating and deleting cells and changing code/Markdown types using only shortcuts, then record what actually happens in your editor.</p>
+<p><strong>Generated keyboard-workflow explanation:</strong> Command-mode <code>A</code>/<code>B</code> inserts a cell above/below, <code>D</code> twice deletes the selected cell, and <code>M</code>/<code>Y</code> changes the selected cell between Markdown and code. These operations change the notebook document; they do not execute Python or erase a variable already in the kernel. This explains the requested exercise, but literal shortcut practice is not claimed.</p>
 </div>
 </div>
 </div>
@@ -8260,6 +8260,17 @@ a.anchor-link {
 </div>
 </div>
 </div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=dde3d883">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Actual agent-executed order evidence:</strong> In an isolated fresh project kernel, running <code>total = 100 * (1 + tax_rate)</code> first failed at execution <code>[1]</code> with <code>NameError: name 'tax_rate' is not defined</code>. Defining <code>tax_rate = 0.08</code> ran at <code>[2]</code>; rerunning the total cell at <code>[3]</code> displayed <strong>108.0</strong>. Counts <code>[2]</code> and <code>[3]</code> describe execution time, regardless of where those cells appear in the document. The main notebook retains the corrected definition-before-use order. This is programmatic kernel evidence, not a learner shortcut or drag-and-drop claim.</p>
+</div>
+</div>
+</div>
+</div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=2242754d">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -8382,6 +8393,17 @@ a.anchor-link {
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>'Hello'</pre>
 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=c5065ced">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Completed generated explanation with actual kernel evidence:</strong> A notebook cell's source and the objects it creates are separate. In the same isolated kernel, <code>message = 'Hello'</code> executed at <code>[4]</code>. The definition cell was then removed from an in-memory notebook-document representation, without sending a deletion command to Python. Executing the remaining <code>message</code> cell at <code>[5]</code> still returned <strong><code>'Hello'</code></strong>. After an actual kernel restart, <code>message</code> at new <code>[1]</code> raised <code>NameError: name 'message' is not defined</code>. Restoring the definition in that document representation and executing it at <code>[2]</code>, then reading <code>message</code> at <code>[3]</code>, returned <strong><code>'Hello'</code></strong> again. Undoing a document deletion restores source text, not an executed variable after a restart; the restored definition must be rerun. No physical cell deletion or keyboard undo is claimed.</p>
 </div>
 </div>
 </div>
@@ -8748,7 +8770,7 @@ get_ipython().run_line_magic('save', '-f 02-OutputFiles/my_session.py 1-5')
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Programmatic export status:</strong> HTML and Python exports are generated with nbconvert in <code>02-OutputFiles</code>. Source inspection confirms that the Python export represents Markdown as <code>#</code> comment lines and retains code as Python/IPython source. <strong>Pending learner action:</strong> open the HTML file in a browser and record your own observations; no browser opening or visual inspection is claimed here.</p>
+<p><strong>Completed generated export explanation:</strong> The matching HTML and Python exports are rebuilt in <code>02-OutputFiles</code>. HTML is a static rendering of the saved Markdown, code, and outputs; it is suitable for reading but does not provide a running kernel. The Python export represents Markdown as <code>#</code> comment lines and retains executable code, with notebook magics converted to <code>get_ipython()</code> calls. Opening either file does not itself rerun the notebook or recreate its former live variables. The files are generated and source-inspected programmatically; no browser opening or learner/editor observation is claimed.</p>
 </div>
 </div>
 </div>
@@ -8922,7 +8944,7 @@ Best month: month 4
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Programmatic example; Practice 1 keyboard work pending:</strong> This Markdown note exists in the notebook and is included in exports. Creating a Markdown cell programmatically does not complete the requested keyboard-only insert, change-type, type, and run sequence. Perform that sequence in your editor and record the result.</p>
+<p><strong>Generated Practice 1 solution:</strong> The expected keyboard sequence is <code>Esc</code>, <code>B</code>, <code>M</code>, type a note, then <code>Shift+Enter</code>. <code>B</code> inserts below, <code>M</code> changes the new cell to Markdown, and running it renders the text instead of sending it to Python. For example, the note can read: "Markdown explains the analysis; code performs the calculations." This written solution is complete; no keyboard-only insertion or learner participation is asserted.</p>
 </div>
 </div>
 </div>
@@ -8950,7 +8972,7 @@ Best month: month 4
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Programmatic simulation; Practice 2 keyboard work pending:</strong> The earlier tool-driven creation, movement, splitting, and deletion of temporary cells was a structural simulation. It does not demonstrate keyboard execution or simultaneous keyboard multi-selection. Complete the requested three-cell exercise using only the keyboard: move the bottom cell to the top, split one cell, then select two cells together and delete them. Record any editor-specific shortcut differences.</p>
+<p><strong>Generated Practice 2 explanation:</strong> With three cells containing <code>1</code>, <code>2</code>, and <code>3</code>, moving the bottom cell upward twice changes document order to <code>3</code>, <code>1</code>, <code>2</code>; it does not rerun them or change earlier execution counts. Splitting a code cell divides its source at the cursor, so the split should leave syntactically valid pieces (a multiline cell with one complete expression per line is a safe example). Selecting two cells and deleting them removes those cells and their saved outputs from the document, but their previously created variables can remain in the kernel. VS Code's <code>Alt+Up</code>, split-cell command, and <code>Shift+Down</code> act on the editor's cells; exact bindings depend on the editor. This is the generated answer, not evidence of physical keyboard multi-selection, moving, splitting, or deletion.</p>
 </div>
 </div>
 </div>
@@ -8972,7 +8994,7 @@ Best month: month 4
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Verified by programmatic source inspection:</strong> In the Python export, Markdown cells become comment lines beginning with <code>#</code>; code cells remain Python/IPython source. IPython magics are represented by <code>get_ipython()</code> calls, so this export is not automatically an ordinary standalone Python script. <strong>Pending learner action:</strong> open the export in VS Code and make the requested editor-based comparison; no such editor observation is claimed here.</p>
+<p><strong>Completed generated Practice 3 comparison:</strong> The rebuilt <code>.py</code> file contains Markdown headings and prose as comments beginning with <code>#</code>, so they document the script rather than render as formatted cells. Code cells remain source statements separated by cell markers; IPython magics such as <code>%history</code> and <code>%save</code> become <code>get_ipython().run_line_magic(...)</code>. The notebook can retain displayed results and rich output, whereas this Python export contains the instructions and comments without the notebook's saved output objects. It is therefore not automatically a standalone ordinary-Python script. This comparison is verified by inspecting the generated text, without claiming the export was opened in VS Code.</p>
 </div>
 </div>
 </div>
@@ -8994,7 +9016,45 @@ Best month: month 4
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Existing artifact and verification limits:</strong> <code>02-OutputFiles/broken.ipynb</code> contains the corrected dependency order: define <code>name</code>, define <code>greeting</code>, then print <code>greeting</code>. A fresh programmatic run verifies that final order. Its successful execution counts do not document the requested earlier out-of-order session or a learner operating Restart &amp; Run All. <strong>Pending learner work:</strong> perform the original wrong-order/out-of-order/restart/fix exercise and record the execution counts and observed failure. The main notebook also has <code>tax_rate</code> before <code>total</code> and defines <code>message</code> before reading it so automated top-to-bottom execution succeeds; those edits do not verify dragging cells, deleting/undoing them with shortcuts, or personally restarting a kernel.</p>
+<p><strong>Completed Practice 4: actual agent-executed kernel experiment</strong></p>
+<p>The original three-cell order was recreated in memory in an isolated real project <code>.venv</code> kernel. These are recorded programmatic executions, not a claim that the learner clicked Restart, dragged cells, or used shortcuts.</p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Executed source or order</th>
+<th>Actual execution counts and result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fresh kernel, original first cell</td>
+<td><code>print(greeting)</code></td>
+<td><code>[1]</code>: <code>NameError: name 'greeting' is not defined</code></td>
+</tr>
+<tr>
+<td>Define dependencies out of document order</td>
+<td><code>name = 'Graylian'</code>, then <code>greeting = f'Hello, {name}!'</code>, then <code>print(greeting)</code></td>
+<td><code>[2]</code>, <code>[3]</code>, <code>[4]</code>; prints <code>Hello, Graylian!</code></td>
+</tr>
+<tr>
+<td>Read counts in the original document order</td>
+<td>print cell, name cell, greeting cell</td>
+<td><code>[4]</code>, <code>[2]</code>, <code>[3]</code>: counts record execution history, not cell position</td>
+</tr>
+<tr>
+<td>Actually restart the isolated kernel and try original top-to-bottom order</td>
+<td><code>print(greeting)</code> first</td>
+<td>New <code>[1]</code>: the same <code>NameError</code>; execution stops at the first failing cell</td>
+</tr>
+<tr>
+<td>Restart again, then use corrected document order</td>
+<td>define <code>name</code>, define <code>greeting</code>, print <code>greeting</code></td>
+<td>New <code>[1]</code>, <code>[2]</code>, <code>[3]</code>; prints <code>Hello, Graylian!</code></td>
+</tr>
+</tbody>
+</table>
+<p>The apparent out-of-order success depended on hidden live variables. Restart removed them, exposing the dependency error. The corrected order makes the notebook reproducible without a previous session. The existing <code>02-OutputFiles/broken.ipynb</code> already contains that corrected order and is preserved byte-for-byte; this separate experiment does not overwrite it. The main notebook likewise keeps <code>tax_rate</code> before <code>total</code> and the <code>message</code> definition before its use, so its final fresh top-to-bottom execution succeeds.</p>
 </div>
 </div>
 </div>

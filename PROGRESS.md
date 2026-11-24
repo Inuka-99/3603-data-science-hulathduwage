@@ -244,6 +244,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `05-Foundations/worksheet.md` (partial): All eight written explanations completed and checked;24 factual answers and support tasks preserved. Twelve support cells passed fresh execution; output data unchanged. Keyboard/Tab actions and eleven learner attestations remain unconfirmed.
 
+
+- Coordinator verification `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` (partial): All written workflow answers complete; real isolated-kernel evidence demonstrates wrong-order NameErrors, retained state after source deletion, restart failures and corrected counts.14 cells passed fresh final-directory execution; matching HTML/Python exports rebuilt. Physical keyboard/editor/browser actions remain unverified after app-access timeout.
+
 ## Current audited required-deliverable totals
 
 69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
