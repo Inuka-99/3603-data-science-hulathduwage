@@ -266,7 +266,7 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
 | 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
 
-## Written-answer completion ? 2026-11-24
+## Written-answer completion - 2026-11-24
 
 All remaining technical written responses are filled and verified in individual assignment commits. Newly checked final-location kernels: While Loops 11 cells, Help/Docs 39, Visualization Lab 15, Foundations worksheet 12, Workflow 14 and Pandas worksheet 10. Module 04 worksheet's three code blocks and all five sections also pass. Existing raw inputs, personal answers and required output contents are preserved.
 

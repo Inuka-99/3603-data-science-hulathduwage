@@ -255,6 +255,6 @@ Module 03 explanations and outstanding understanding self-assessments were expli
 5. Which was easier to **find** the paradox with: the Module 07 tables or the Module 08 chart? Which is better as **evidence**? Why might you want both?
 6. Pick one figure and go through the notebook 05 checklist. Which item did you have to fix last?
 
-## Written-answer completion ? 2026-11-24
+## Written-answer completion - 2026-11-24
 
 At Inuka's request, remaining independently answerable written explanations are generated and verified. There are no blank technical-answer gaps in the required coursework. This completes written preparation; it does not attest unreported learner paper/keyboard actions or personal experiences. The two Module 03b partner/team activities remain pending. The original instructor participation requirements and unchecked learner attestations remain visible above. Windows editor access timed out during the attempted physical-action check.
