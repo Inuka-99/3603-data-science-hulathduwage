@@ -111,7 +111,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles` through `06-OutputFiles`.
 
-- [ ] `01-Matplotlib_Object_Oriented.ipynb`: Practice 1–3, Your Turn, optional subplot-mosaic challenge.
+- [x] `01-Matplotlib_Object_Oriented.ipynb`: 19 code cells passed fresh final-location execution; all required prompts/answers reviewed. Coordinator visually inspected all10PNGexports: clear units/labels/legends, zero bar baselines, class/sex/genorder and unclipped annotations. Independent checks confirm116strict FareIQRflags, generationcounts166/106/160/121/165/82, median quadrants260/117/124/299, tied maximum Defense230, and group survival sizes/rates. Optional mosaic queued.
 - [ ] `02-Plotting_with_Pandas.ipynb`: Your Turn, Practice 1–3, optional error-bar challenge.
 - [ ] `03-Seaborn_Distributions.ipynb`: Practice 1–3, written answer, Your Turn, optional bin-width challenge.
 - [ ] `04-Seaborn_Relationships_and_Categories.ipynb`: Practice 1–3, Your Turn, written answer, optional paradox challenge.
