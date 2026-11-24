@@ -156,6 +156,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `05-Foundations/03-using_help_and_docs.ipynb` (partial): All39 nonempty cells passed a fresh final-directory kernel; original Markdown prompts preserved by content. Required help/signatures, ten random rolls, method discovery and four documentation-driven bar stages are saved; pager content captured for review. Literal Tab completion and own-word Practice4 reflection remain pending.
 
+
+- Coordinator verification `07-Describing_Data/04-Comparing_Groups.ipynb` (full): Optional extension verified: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -171,3 +174,11 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
 | 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
+
+## Optional extensions verified in this coordinator run
+
+Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 22 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
+
+1 of nine queued notebook extensions verified and submitted individually.
+
+- `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
