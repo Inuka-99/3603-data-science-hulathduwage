@@ -94,6 +94,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 - [ ] `quiz.md`, `worksheet.md`, and `08-OutputFiles`.
 
 - [x] `quiz.md`: All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
+- [ ] `worksheet.md`: All17 factual answers and independent tasks verified; 10 support code cells passed a fresh final-location kernel. Inuka's exact four grades yield mean85.25; all six supplied reflections retained verbatim. Six output CSVs checked. Eleven original learner checklist attestations remain unchecked; no personal hands-on participation claimed.
 ## Module 07 — Describing Data
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles`, `06-OutputFiles`.

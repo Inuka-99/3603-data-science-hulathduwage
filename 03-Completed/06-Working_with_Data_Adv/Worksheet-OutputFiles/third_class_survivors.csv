@@ -1,0 +1,120 @@
+Name,Age,Fare
+"Bing, Mr. Lee",32.0,56.4958
+"Chip, Mr. Chang",32.0,56.4958
+"Lang, Mr. Fang",26.0,56.4958
+"Foo, Mr. Choong",,56.4958
+"Lam, Mr. Ali",,56.4958
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38.0,31.3875
+"Asplund, Master. Edvin Rojj Felix",3.0,31.3875
+"Asplund, Miss. Lillian Gertrud",5.0,31.3875
+"Moran, Miss. Bertha",,24.15
+"McCoy, Mr. Bernard",,23.25
+"McCoy, Miss. Agnes",,23.25
+"Peter, Mrs. Catherine (Catherine Rizk)",,22.3583
+"Peter, Miss. Anna",,22.3583
+"Kink-Heilmann, Miss. Luise Gretchen",4.0,22.025
+"Dean, Master. Bertram Vere",1.0,20.575
+"Goldsmith, Master. Frank John William ""Frankie""",9.0,20.525
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31.0,20.525
+"Abbott, Mrs. Stanton (Rosa Hunt)",35.0,20.25
+"Baclini, Miss. Helene Barbara",0.75,19.2583
+"Baclini, Miss. Eugenie",0.75,19.2583
+"Baclini, Mrs. Solomon (Latifa Qurban)",24.0,19.2583
+"Baclini, Miss. Marie Catherine",5.0,19.2583
+"Albimona, Mr. Nassef Cassem",26.0,18.7875
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,17.4
+"Sandstrom, Miss. Marguerite Rut",4.0,16.7
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,16.7
+"Thorneycroft, Mrs. Percival (Florence Kate White)",,16.1
+"Davison, Mrs. Thomas Henry (Mary E Finck)",,16.1
+"Coutts, Master. William Loch ""William""",3.0,15.9
+"Coutts, Master. Eden Leslie ""Neville""",9.0,15.9
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24.0,15.85
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33.0,15.85
+"Nakid, Mr. Sahid",20.0,15.7417
+"Nakid, Miss. Maria (""Mary"")",1.0,15.7417
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",,15.5
+"Murphy, Miss. Margaret Jane",,15.5
+"Murphy, Miss. Katherine ""Kate""",,15.5
+"Moubarek, Master. Gerios",,15.2458
+"Moubarek, Master. Halim Gonios (""William George"")",,15.2458
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",29.0,15.2458
+"Yasbeck, Mrs. Antoni (Selini Alexander)",15.0,14.4542
+"Karun, Miss. Manca",4.0,13.4167
+"Moor, Mrs. (Beila)",27.0,12.475
+"Dowdell, Miss. Elizabeth",30.0,12.475
+"Moor, Master. Meier",6.0,12.475
+"Emanuel, Miss. Virginia Ethel",5.0,12.475
+"Hirvonen, Miss. Hildur E",2.0,12.2875
+"Nicola-Yarred, Master. Elias",12.0,11.2417
+"Nicola-Yarred, Miss. Jamila",14.0,11.2417
+"Johnson, Miss. Eleanor Ileen",1.0,11.1333
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27.0,11.1333
+"Johnson, Master. Harold Theodor",4.0,11.1333
+"Turja, Miss. Anna Sofia",18.0,9.8417
+"Turkula, Mrs. (Hedwig)",63.0,9.5875
+"Sheerlinck, Mr. Jan Baptist",29.0,9.5
+"de Mulder, Mr. Theodore",30.0,9.5
+"Aks, Mrs. Sam (Leah Rosen)",18.0,9.35
+"Osman, Mrs. Mara",31.0,8.6833
+"Lulic, Mr. Nikola",27.0,8.6625
+"Thomas, Master. Assad Alexander",0.42,8.5167
+"Johannesen-Bratthammer, Mr. Bernt",,8.1125
+"Dahl, Mr. Karl Edwart",45.0,8.05
+"Pickard, Mr. Berk (Berk Trembisky)",32.0,8.05
+"Cohen, Mr. Gurshon ""Gus""",18.0,8.05
+"Dorking, Mr. Edward Arthur",19.0,8.05
+"Sunderland, Mr. Victor Francis",16.0,8.05
+"McGowan, Miss. Anna ""Annie""",15.0,8.0292
+"Sundman, Mr. Johan Julian",44.0,7.925
+"Stranden, Mr. Juho",31.0,7.925
+"Jussila, Mr. Eiriik",32.0,7.925
+"Lindqvist, Mr. Eino William",20.0,7.925
+"Honkanen, Miss. Eliina",27.0,7.925
+"Niskanen, Mr. Juha",39.0,7.925
+"Heikkinen, Miss. Laina",26.0,7.925
+"Andersson, Miss. Erna Alexandra",17.0,7.925
+"Jalsevac, Mr. Ivan",29.0,7.8958
+"O'Dwyer, Miss. Ellen ""Nellie""",,7.8792
+"Devaney, Miss. Margaret Delia",19.0,7.8792
+"Mockler, Miss. Helen Mary ""Ellie""",,7.8792
+"McGovern, Miss. Mary",,7.8792
+"Jonsson, Mr. Carl",32.0,7.8542
+"Nilsson, Miss. Helmina Josefina",26.0,7.8542
+"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,7.8542
+"O'Leary, Miss. Hanora ""Norah""",,7.8292
+"Andersson, Mr. August Edvard (""Wennerstrom"")",27.0,7.7958
+"Jansson, Mr. Carl Olof",21.0,7.7958
+"McDermott, Miss. Brigdet Delia",,7.7875
+"Ohman, Miss. Velin",22.0,7.775
+"Persson, Mr. Ernst Ulrik",25.0,7.775
+"Moss, Mr. Albert Johan",,7.775
+"Jermyn, Miss. Annie",,7.75
+"McCormack, Mr. Thomas Joseph",,7.75
+"Connolly, Miss. Kate",22.0,7.75
+"Daly, Mr. Eugene Patrick",29.0,7.75
+"Kelly, Miss. Mary",,7.75
+"Nysten, Miss. Anna Sofia",22.0,7.75
+"Carr, Miss. Helen ""Ellen""",16.0,7.75
+"Healy, Miss. Hanora ""Nora""",,7.75
+"Glynn, Miss. Mary Agatha",,7.75
+"O'Driscoll, Miss. Bridget",,7.75
+"Kelly, Miss. Anna Katherine ""Annie Kate""",,7.75
+"Madigan, Miss. Margaret ""Maggie""",,7.75
+"Mannion, Miss. Margareth",,7.7375
+"Mullens, Miss. Katherine ""Katie""",,7.7333
+"Gilnagh, Miss. Katherine ""Katie""",16.0,7.7333
+"Salkjelsvik, Miss. Anna Kristine",21.0,7.65
+"Stanley, Miss. Amy Zillah Elsie",23.0,7.55
+"Sjoblom, Miss. Anna Sofia",18.0,7.4958
+"Landergren, Miss. Aurora Adelia",22.0,7.25
+"Barah, Mr. Hanna Assi",20.0,7.2292
+"Mamee, Mr. Hanna",,7.2292
+"Ayoub, Miss. Banoura",13.0,7.2292
+"Moussa, Mrs. (Mantoura Boulos)",,7.2292
+"Masselmani, Mrs. Fatima",,7.225
+"Leeni, Mr. Fahim (""Philip Zenni"")",22.0,7.225
+"Najib, Miss. Adele Kiamie ""Jane""",15.0,7.225
+"Madsen, Mr. Fridtjof Arne",24.0,7.1417
+"Hedman, Mr. Oskar Arvid",27.0,6.975
+"Tornquist, Mr. William Henry",25.0,0.0

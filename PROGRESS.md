@@ -99,6 +99,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `06-Working_with_Data_Adv/quiz.md` (full): All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
 
+
+- Coordinator verification `06-Working_with_Data_Adv/worksheet.md` (partial): All17 factual answers and independent tasks verified; 10 support code cells passed a fresh final-location kernel. Inuka's exact four grades yield mean85.25; all six supplied reflections retained verbatim. Six output CSVs checked. Eleven original learner checklist attestations remain unchecked; no personal hands-on participation claimed.
+
 ## Current audited required-deliverable totals
 
 42 of 81 required deliverables fully complete (51.9%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -111,6 +114,6 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
-| 06-Working_with_Data_Adv | 11 | 9 | 1 | 1 | 0 |
+| 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
 | 07-Describing_Data | 10 | 0 | 0 | 10 | 0 |
 | 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |
