@@ -175,21 +175,6 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 
 
-## Current audited required-deliverable totals
-
-63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
-
-| Module | Required | Full | Partial | Unstarted | Unknown |
-|---|---:|---:|---:|---:|---:|
-| 01-Scalar_Types_and_Control_Flow | 4 | 3 | 1 | 0 | 0 |
-| 02-Strings_and_Text | 5 | 4 | 0 | 0 | 1 |
-| 03-Python_Containers | 5 | 4 | 1 | 0 | 0 |
-| 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
-| 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
-| 05-Foundations | 19 | 16 | 3 | 0 | 0 |
-| 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
-| 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
-| 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
 
 ## Optional extensions verified in this coordinator run
 
@@ -209,8 +194,26 @@ Optional work is counted separately from the 81 required deliverables. The audit
 
 ## Final coordinator verification scope
 
-All 81 required file/output units are present; 63 are fully complete, 17 partial and 1 unknown (Module 02 worksheet learner authorship). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
+All 81 required file/output units are present; 64 are fully complete, 17 partial and 0 unknown (Module 02 worksheet learner wording now resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
 
 The nine queued optional notebook extensions are now verified separately. All ten pre-existing optional worksheet coding tasks and twelve actual quiz bonus answers were independently reviewed; the optional line-profiler subsection also produced live timing evidence. The prior 22-bonus count included ten required Module 03 questions and is corrected to 12. Module 06 optional readability preference remains personal.
 
 The exact remaining learner/partner/instructor checklist and reflection prompts are in COURSEWORK_CHECKLIST.md. Existing Work copies and caches are excluded from coursework submissions; published history is preserved.
+
+- Coordinator verification `02-Strings_and_Text/worksheet.md` (full): Inuka supplied the first Explain It replacement and explicitly confirmed the other two saved explanations; all 12 Python blocks and factual answers verified; original prompts and supplied biography preserved. Learner-wording gate resolved.
+
+## Current audited required-deliverable totals
+
+64 of 81 required deliverables fully complete (79.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+
+| Module | Required | Full | Partial | Unstarted | Unknown |
+|---|---:|---:|---:|---:|---:|
+| 01-Scalar_Types_and_Control_Flow | 4 | 3 | 1 | 0 | 0 |
+| 02-Strings_and_Text | 5 | 5 | 0 | 0 | 0 |
+| 03-Python_Containers | 5 | 4 | 1 | 0 | 0 |
+| 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
+| 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
+| 05-Foundations | 19 | 16 | 3 | 0 | 0 |
+| 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
+| 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
+| 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |

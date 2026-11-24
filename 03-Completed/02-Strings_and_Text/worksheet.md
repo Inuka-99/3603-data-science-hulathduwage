@@ -49,7 +49,7 @@ print(bio)
 
 In your own words: why are strings immutable, and what do you actually have to do if you want a "modified" version of a string?
 
-**Explanation:** A string cannot be edited in place. Slicing and concatenation or a string method create a new string, which can be assigned back to the variable.
+**Explanation:** In Python, once a string is created, its characters stay fixed. If I want to change `"cat"` to `"bat"`, I can write `word = word.replace("c", "b")`. That makes a new string and assigns it to `word`.
 
 ---
 
@@ -170,4 +170,4 @@ print(f'{width=}, {width * height=}')
 - [x] I used at least three different string methods (`.strip()`, `.split()`, `.join()`, `.replace()`, etc.).
 - [x] I built an f-string with more than one embedded expression.
 - [x] I used a format spec to control decimal places or alignment.
-- [x] I completed the "Explain It" prompts.
+- [x] I completed the "Explain It" prompts in my own words.
