@@ -54,7 +54,7 @@ The bullets below describe the earlier Modules 01-04 audit. Subsequent Foundatio
 
 - The Module 02 bio and Module 03 birthday, favorite movies/book/foods/numbers use facts supplied by Inuka.
 - Module 03 worksheet self-assessments that ask whether Inuka understands concepts or completed Explain It responses in their own words remain unchecked.
-- Module 03b paper tasks remain: trace the accumulated-total loop in notebook 01, complete the stepwise nested-expression trace in notebook 02, fill the mystery-function trace table in notebook 04, and complete all six sections of the worksheet on paper.
+- Module 03b notebook 01/02 and solo notebook 04 traces are supplied and verified. Worksheet Sections 1-5 and the pipeline design are supplied; Section 6 paper drawing and own-word review of its generated explanation remain pending. Partner and team activities remain pending separately.
 - Module 03b also requires writing a small mystery function and exchanging it with a partner, plus completing the Pipelines class/team activity. These are deferred at Inuka's request; no participation is claimed.
 - Module 04 paper tasks remain: complete the `02-While_Loops.ipynb` Trace It table by hand and complete all five sections of its worksheet on paper, including learner-authored Explain It responses. Typed worked answers are present; no paper work or personal learning attestations have been claimed.
 - Foundations notebook 03 still needs literal Tab completion on its dictionary, list, and string prompts and learner review/rewrite of the Practice 4 reflection. No editor keypress or learner-authored reflection is claimed.
@@ -216,6 +216,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 
 - Coordinator verification `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` (partial): Inuka supplied guided paper traces, predictions and descriptions for all five mystery functions, with clearer names for mysteries 2-5. All 22 code cells passed a fresh final-directory project .venv kernel; results and early-exit visits independently verified. Solo paper traces are learner-reported; learner-authored mystery function and actual partner exchange remain pending.
+
+
+- Coordinator verification `03b-Containers_to_Functions/worksheet.md` (partial): All six sections have checked answers. Inuka supplied Sections1-5 responses and Section6 pipeline design; final explanation generated at his request. Five code blocks, nested traces, contract tests and pipeline behavior verified. Paper drawing and own-word review of final generated explanation remain pending.
 
 ## Current audited required-deliverable totals
 

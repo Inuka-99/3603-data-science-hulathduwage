@@ -48,8 +48,8 @@ Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Fu
 
 - [x] All six notebooks freshly executed in `.venv`; all original cell IDs remain, all 103 code cells executed without error outputs, and answer/prediction support is present.
 - [x] `quiz.md`: all 24 answers reviewed.
-- [x] `worksheet.md`: all six sections have typed worked answers; the source explicitly requires the independent work on paper, so it remains pending.
-- [ ] Paper work remaining in this module: all six worksheet sections. Notebook 04 solo mystery traces are learner-reported and verified; its partner exchange remains pending separately.
+- [x] `worksheet.md`: all six sections have verified written answers. Inuka supplied Sections 1-5 and the pipeline design; the final explanation was generated at his request. Paper drawing and final own-word review remain pending.
+- [ ] Worksheet Section 6 paper drawing remains unconfirmed. Notebook 04 solo mystery traces and worksheet Sections 1-5 have learner-reported responses; partner exchange remains pending separately.
 - [ ] Write a small mystery function and exchange it with a partner in `04-Mystery_Functions.ipynb`.
 - [ ] Complete the class/team pipeline activity in `06-Pipelines.ipynb`.
 
@@ -58,6 +58,7 @@ Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Fu
 
 - [ ] `04-Mystery_Functions.ipynb`: Inuka supplied guided paper traces, predictions and descriptions for all five mystery functions, with clearer names for mysteries 2-5. All 22 code cells passed a fresh final-directory project .venv kernel; results and early-exit visits independently verified. Solo paper traces are learner-reported; learner-authored mystery function and actual partner exchange remain pending.
 
+- [ ] `worksheet.md`: All six sections have checked answers. Inuka supplied Sections1-5 responses and Section6 pipeline design; final explanation generated at his request. Five code blocks, nested traces, contract tests and pipeline behavior verified. Paper drawing and own-word review of final generated explanation remain pending.
 ## Module 04 — More Functions and Loops
 
 Files: `01-Function_Extras.ipynb`, `02-While_Loops.ipynb`, `03-Looping_Over_Files.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
@@ -167,7 +168,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [x] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka supplied all six guided paper traces with intermediate values and correct list/dictionary length explanations. All 20 code cells passed a fresh final-directory kernel. Paper completion is learner-reported.
 - [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - All five solo mystery traces, predictions and descriptions are supplied by Inuka and verified. Inuka plus partner: write a learner-authored 5-8-line mystery function, exchange it, trace the partner function and compare results. Actual partner identity, participation and outcomes remain pending.
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
-- [ ] `03b-Containers_to_Functions/worksheet.md` - Inuka: complete all six sections on paper and provide/confirm the four Explain It reflections, including the container scenario you were least sure about.
+- [ ] `03b-Containers_to_Functions/worksheet.md` - All six sections have verified answers. Inuka supplied Sections 1-5 and the pipeline design, including his equal confidence across all five container choices. Section 6 paper drawing and own-word review of the generated final explanation remain pending.
 - [ ] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Inuka: hand-trace n=1, while n<20, n*=3 before execution; record the sequence and loop exit.
 - [ ] `04-More_Functions_and_Loops/worksheet.md` - Inuka: complete all five sections on paper and confirm/rewrite the three Explain It reflections in your own words.
 - [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - Inuka: personally perform mode switching and record appearance; run/insert/delete/change cell types with shortcuts; move/split/multi-select/delete cells; delete a variable cell, restart, observe failure and undo; open exported HTML in a browser and Python export in VS Code; perform Practice4 wrong-order/out-of-order/restart/fix sequence and record execution counts. Programmatic artifacts and simulations are explicitly labeled.
