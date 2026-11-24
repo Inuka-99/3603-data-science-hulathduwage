@@ -113,7 +113,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 
 - [x] `01-Matplotlib_Object_Oriented.ipynb`: Optional extension verified: 19 cells passed fresh execution; new Titanic mosaic visually inspected;714 complete scatter pairs,714 ages and891 fares verified, including15 zero fares; ten required PNGs unchanged.
 - [x] `02-Plotting_with_Pandas.ipynb`: Optional extension verified: 21 cells passed fresh execution; new mean-plus/minus-sample-SD chart visually inspected; six generation estimates and actual error-bar endpoints independently verified; SD versus SEM and confidence intervals distinguished.
-- [x] `03-Seaborn_Distributions.ipynb`: 19 code cells passed in a fresh final-directory kernel; seven exported charts visually inspected; 342 measured penguins and 333 known-sex birds retained appropriately; normalized distributions and positive-fare exclusions verified.
+- [x] `03-Seaborn_Distributions.ipynb`: Optional extension verified: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - [x] `04-Seaborn_Relationships_and_Categories.ipynb`: 20 code cells passed fresh execution; seven chart exports visually inspected; correlations, six species/sex regressions and CI versus SD verified against source data and Module 07 results.
 - [x] `05-Choosing_and_Telling.ipynb`: 15 code cells passed fresh final-directory execution; nine charts visually inspected and three summary CSVs verified; scale repairs, small Flying sample and species-island confounding explicitly explained.
 - [ ] `06-Visualization_Lab.ipynb`: 15 code cells passed fresh final-directory execution; all eleven required charts visually inspected, including figures5-7 and four practice exports; input, species counts, means and correlation reversal match Module07. Personal Lab Questions5-6 remain pending.
@@ -133,10 +133,11 @@ Update this checklist and `PROGRESS.md` in the same assignment commit as each co
 
 Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-5 of nine queued notebook extensions verified and submitted individually.
+6 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
 - `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
 - `03-Completed/07-Describing_Data/06-Describing_Data_Lab.ipynb`: 25 cells passed fresh execution; six new pokemon_ reports verified for800 rows,21 fence summaries,15 correlations and three findings; seven required penguin reports unchanged.
 - `03-Completed/08-Visualizing_Data/01-Matplotlib_Object_Oriented.ipynb`: 19 cells passed fresh execution; new Titanic mosaic visually inspected;714 complete scatter pairs,714 ages and891 fares verified, including15 zero fares; ten required PNGs unchanged.
 - `03-Completed/08-Visualizing_Data/02-Plotting_with_Pandas.ipynb`: 21 cells passed fresh execution; new mean-plus/minus-sample-SD chart visually inspected; six generation estimates and actual error-bar endpoints independently verified; SD versus SEM and confidence intervals distinguished.
+- `03-Completed/08-Visualizing_Data/03-Seaborn_Distributions.ipynb`: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
