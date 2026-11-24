@@ -147,6 +147,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `08-Visualizing_Data/quiz.md` (full): All36 conceptual responses checked against original prompts, supplied datasets and reviewed notebooks; original quiz text preserved. Question6 has two technically correct formatters, explicitly noted.
 
+
+- Coordinator verification `08-Visualizing_Data/worksheet.md` (partial): All ten factual answers and five independent tasks checked against original prompts; seven support code cells passed fresh kernel and all six PNGs visually inspected. Three support datasets match originals exactly. Five personal Explain It responses and seven participation attestations remain pending.
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -161,4 +164,4 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
-| 08-Visualizing_Data | 14 | 12 | 1 | 1 | 0 |
+| 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
