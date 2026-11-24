@@ -115,7 +115,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 - [x] `02-Plotting_with_Pandas.ipynb`: 21 code cells passed fresh final-location kernel; original prompts/examples retained with explicit units added. Coordinator visually checked fivePNGexports and threeCSVreports. Verified889 known ports(S644/C168/Q77),2missing, normalized crosstab rows,12eligibletypes with n>=30, group rates and exact6x6wide-to36rowlong-to-wide equality. Optional errorbar challenge queued.
 - [x] `03-Seaborn_Distributions.ipynb`: 19 code cells passed in a fresh final-directory kernel; seven exported charts visually inspected; 342 measured penguins and 333 known-sex birds retained appropriately; normalized distributions and positive-fare exclusions verified.
 - [x] `04-Seaborn_Relationships_and_Categories.ipynb`: 20 code cells passed fresh execution; seven chart exports visually inspected; correlations, six species/sex regressions and CI versus SD verified against source data and Module 07 results.
-- [ ] `05-Choosing_and_Telling.ipynb`: Practice 1–3, Your Turn, optional intentionally misleading-chart challenge.
+- [x] `05-Choosing_and_Telling.ipynb`: 15 code cells passed fresh final-directory execution; nine charts visually inspected and three summary CSVs verified; scale repairs, small Flying sample and species-island confounding explicitly explained.
 - [ ] `06-Visualization_Lab.ipynb`: summary answers, Practice 1–3, optional new-data report.
 - [ ] `quiz.md`, `worksheet.md`, and `01-OutputFiles` through `06-OutputFiles`.
 
