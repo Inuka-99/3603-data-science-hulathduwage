@@ -2,6 +2,8 @@
 
 Do this worksheet **on paper, without a computer**. Each section ends with an **🤖 Explain It** prompt: write your explanation in your own words, then (optionally) paste it into an AI tutor and ask it to point out anything you got wrong or left out.
 
+**Written-answer provenance:** The explanations below are generated worked explanations. They do not claim learner authorship or completion of the instructor's paper exercise.
+
 ---
 
 ## 🧠 Section 1: Defaults and Keywords
@@ -20,7 +22,7 @@ What does each call return?
 
 > 🤖 **Explain It:** Why are keyword arguments easier to read than positional ones in a call like `price(100, 0, 10)`?
 
-**Explanation:** Keywords name the purpose of each value, making tax=0 and discount=10 clearer than two unexplained numbers.
+**Explanation (generated):** Keywords name the purpose of each value, making `tax=0` and `discount=10` clearer than two unexplained numbers. For example, `price(100, tax=0, discount=10)` makes it clear that the amount is 100, no tax is added, and 10 is subtracted as a discount. In `price(100, 0, 10)`, the reader has to remember the parameter order to identify those meanings. Keyword arguments also let a caller omit a parameter whose default is wanted: `price(100, discount=10)` retains the default tax instead of accidentally putting 10 in the tax position.
 
 ---
 
@@ -43,7 +45,7 @@ print(count, result)
 
 > 🤖 **Explain It:** Describe the "room with two doors" model of a function in your own words.
 
-**Explanation:** Parameters bring data into the function; return sends the result out. Local names stay inside that scope.
+**Explanation (generated):** Think of a function call as entering a room through an input door: arguments are bound to the function's parameter names. The function works with those names and other local variables inside the room, then `return` sends a result back through the output door to the caller. In this example, the local parameter `count` initially refers to 0; `count = count + 1` rebinds that local name to 1. Returning 1 makes `result` become 1, but does not reassign the outer `count`, so the printed values are `0 1`. The room analogy is about scope, not automatic copying: a function can still mutate a list passed to it unless its code avoids doing so.
 
 ---
 
@@ -102,6 +104,6 @@ Tom,cat
 
 > 🤖 **Explain It:** When is `try` / `except` a good idea, and when does it just hide bugs?
 
-**Explanation:** Catch expected, recoverable cases such as FileNotFoundError. Catching every exception around a large block can conceal unrelated programming errors.
+**Explanation (generated):** Use `try` / `except` when a specific operation can fail in an expected way and the program has a sensible response. For example, catch `FileNotFoundError` around opening an optional input file and report which file is missing, or catch `ValueError` around a conversion when an invalid value should be rejected. Keep the protected block small and catch the exception types that the recovery actually handles. A broad `except Exception: pass` around an entire file-processing pipeline can hide a misspelled variable, an incorrect data structure, or a parsing defect and make incomplete output appear successful. Unexpected failures should normally propagate, or be re-raised after adding useful context, rather than being silently treated as valid empty data.
 
 **Practice note:** These are typed worked answers. The requested independent paper exercise has not been performed here.

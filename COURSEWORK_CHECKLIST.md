@@ -72,6 +72,7 @@ Files: `01-Function_Extras.ipynb`, `02-While_Loops.ipynb`, `03-Looping_Over_File
 - [x] `worksheet.md`: all sections have typed worked answers; it explicitly requires paper work and remains pending.
 - [ ] Complete the `02-While_Loops.ipynb` Trace It table by hand and complete all five sections of `worksheet.md` on paper, including the Explain It responses in Inuka's own words.
 
+- [ ] `worksheet.md`: All five sections verified; three generated Explain It answers complete. Checked three code blocks, four price calls, scope, while trace and file filtering. Learner paper participation and own-word requirement remain unconfirmed.
 ## Module 05 — Foundations
 
 Files: eight numbered notebooks, `Foundations_Quiz.ipynb`, `quiz.md`, `worksheet.md`. Checker-required output folders: `01-OutputFiles`, `02-OutputFiles`, `04-OutputFiles`, `05-OutputFiles`, `06-OutputFiles`, `07-OutputFiles`, `08-OutputFiles`, `Quiz-OutputFiles`. Notebook 03 has no output folder.
@@ -172,7 +173,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
 - [ ] `03b-Containers_to_Functions/worksheet.md` - All six sections have verified answers. Inuka supplied Sections 1-5 and the pipeline design, including his equal confidence across all five container choices. Section 6 paper drawing and own-word review of the generated final explanation remain pending.
 - [ ] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Generated trace and explanation are complete and freshly executed: prints 1, 3, 9 and exits at 27. Learner hand-tracing participation remains unconfirmed.
-- [ ] `04-More_Functions_and_Loops/worksheet.md` - Inuka: complete all five sections on paper and confirm/rewrite the three Explain It reflections in your own words.
+- [ ] `04-More_Functions_and_Loops/worksheet.md` - All five sections and three generated explanations are complete and verified; paper participation and learner own-word requirement remain unconfirmed.
 - [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - Inuka: personally perform mode switching and record appearance; run/insert/delete/change cell types with shortcuts; move/split/multi-select/delete cells; delete a variable cell, restart, observe failure and undo; open exported HTML in a browser and Python export in VS Code; perform Practice4 wrong-order/out-of-order/restart/fix sequence and record execution counts. Programmatic artifacts and simulations are explicitly labeled.
 - [ ] `05-Foundations/03-using_help_and_docs.ipynb` - Inuka: try literal Tab completion on the dictionary, names list and Practice 3 string; identify a method unfamiliar to you and inspect it; rewrite Practice4 help/discovery preference draft in your own words.
 - [ ] `05-Foundations/worksheet.md` - Inuka: complete the keyboard-only Shortcut Drill and literal Tab/IntelliSense exercise; supply eight Explain It responses in your own words and confirm eleven unchecked attestations.

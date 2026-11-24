@@ -232,6 +232,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `04-More_Functions_and_Loops/02-While_Loops.ipynb` (partial): Complete generated trace added: condition checks at1,3,9,27; printed values1,3,9; three loop-body executions and exit at27. All11 code cells passed a fresh final-directory .venv kernel. Learner hand-tracing participation remains unconfirmed.
 
+
+- Coordinator verification `04-More_Functions_and_Loops/worksheet.md` (partial): All five sections verified; three generated Explain It answers complete. Checked three code blocks, four price calls, scope, while trace and file filtering. Learner paper participation and own-word requirement remain unconfirmed.
+
 ## Current audited required-deliverable totals
 
 69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
