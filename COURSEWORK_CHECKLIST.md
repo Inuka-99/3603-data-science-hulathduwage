@@ -99,7 +99,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles`, `06-OutputFiles`.
 
 - [x] `01-Types_of_Data.ipynb`: 18 code cells passed fresh final-location execution; all instructor Markdown retained. Verified scale classifications, ordered categories, 65/800 Legendary (8.125%), 368 generation4-or-later Pokemon, and full12-column Titanic/13-column Pokemon dictionaries with exact dtype/missing/distinct metadata. Exact source data copies included. Existing optional memory challenge retained separately.
-- [ ] `02-Center_and_Spread.ipynb`: Practice 1–3, Your Turn, optional MAD challenge.
+- [x] `02-Center_and_Spread.ipynb`: 20 code cells passed fresh final-location execution; all required practices and written comparisons reviewed. Independently checked714 known/177 missing ages, mean29.69912, median28, sample std14.52649733 versus population14.51632115, median-imputation effect, 15 zero fares, HP mean-median gap among the three requested columns, and IQR. Already completed optional MAD retained separately.
 - [ ] `03-Shape_and_Outliers.ipynb`: Practice 1–3, Your Turn, optional grouped-outlier flags.
 - [ ] `04-Comparing_Groups.ipynb`: named aggregation Your Turn, Practice 1–3, optional differences challenge.
 - [ ] `05-Relationships_and_Correlation.ipynb`: Practice 1–3, Your Turn, optional spurious-correlation challenge.
