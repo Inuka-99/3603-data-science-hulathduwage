@@ -91,7 +91,6 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 - [x] `06-Sorting_and_Filtering.ipynb`: 29 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and Your Turn completed; threshold variables changed without altering the query, sorting and score conditions asserted, Mega Pokemon counted, and mask/query product reports checked equal with the expected three products. Optional challenge readability preference remains Inuka's personal answer; comparison comment labeled draft.
 - [x] `07-Grouping_and_Combining.ipynb`: 34 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and four Your Turn parts completed; percentages include missing ports, C has highest port survival, student 5 retained with unknown major, Casey's unmatched buyer status explained, spending/group sizes asserted, and concat provenance checked. Optional peak-year calculation reports failed 24:00 timestamps explicitly. Population JSON copied unchanged.
 - [x] `08-Pandas_Wrangle_Lab.ipynb`: 41 code cells passed in fresh final-location kernel; original prompts/examples retained. 269 raw to 239 cleaned rows; removed 6 exact duplicates, 3 superseded IDs, 21 essential-field failures. Independently reconciled Decimal revenue 20315.63, group totals, and 14-row Travel IL report totaling 1644.62. Three required CSV exports validated; completed optional investigation retained separately.
-- [ ] `quiz.md`, `worksheet.md`, and `08-OutputFiles`.
 
 - [x] `quiz.md`: All 47 answers reviewed against original questions, module notebooks, and supplied data; removing response blocks restores the exact source. Trace/concept checks passed, including index masks, interval boundaries, regex versus literal matching, aggregate counts and join validation. Titanic fractional-age premise corrected explicitly while retaining the question.
 - [ ] `worksheet.md`: All17 factual answers and independent tasks verified; 10 support code cells passed a fresh final-location kernel. Inuka's exact four grades yield mean85.25; all six supplied reflections retained verbatim. Six output CSVs checked. Eleven original learner checklist attestations remain unchecked; no personal hands-on participation claimed.
@@ -99,7 +98,7 @@ Files: eight numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required out
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles`, `06-OutputFiles`.
 
-- [ ] `01-Types_of_Data.ipynb`: scale classifications, Practice 1–3, Your Turn, optional category-storage challenge.
+- [x] `01-Types_of_Data.ipynb`: 18 code cells passed fresh final-location execution; all instructor Markdown retained. Verified scale classifications, ordered categories, 65/800 Legendary (8.125%), 368 generation4-or-later Pokemon, and full12-column Titanic/13-column Pokemon dictionaries with exact dtype/missing/distinct metadata. Exact source data copies included. Existing optional memory challenge retained separately.
 - [ ] `02-Center_and_Spread.ipynb`: Practice 1–3, Your Turn, optional MAD challenge.
 - [ ] `03-Shape_and_Outliers.ipynb`: Practice 1–3, Your Turn, optional grouped-outlier flags.
 - [ ] `04-Comparing_Groups.ipynb`: named aggregation Your Turn, Practice 1–3, optional differences challenge.
