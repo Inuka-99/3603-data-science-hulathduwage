@@ -194,7 +194,7 @@ Optional work is counted separately from the 81 required deliverables. The audit
 
 ## Final coordinator verification scope
 
-All 81 required file/output units are present; 65 are fully complete, 16 partial and 0 unknown (Modules 01 and 02 worksheet confirmations now resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
+All 81 required file/output units are present; 66 are fully complete, 15 partial and 0 unknown (Modules 01, 02 and 03 worksheet confirmations now resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
 
 The nine queued optional notebook extensions are now verified separately. All ten pre-existing optional worksheet coding tasks and twelve actual quiz bonus answers were independently reviewed; the optional line-profiler subsection also produced live timing evidence. The prior 22-bonus count included ten required Module 03 questions and is corrected to 12. Module 06 optional readability preference remains personal.
 
@@ -205,15 +205,18 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `01-Scalar_Types_and_Control_Flow/worksheet.md` (full): Inuka confirmed all three core reflections, applicable C++ explanations and all five practice items. All fourteen Python blocks passed; simulated weather inputs verified every branch. Six submit-checklist boxes now reflect explicit learner confirmations; original prompts preserved.
 
+
+- Coordinator verification `03-Python_Containers/worksheet.md` (full): Inuka explicitly confirmed all three Explain It explanations and both outstanding understanding self-assessments. All 21 Python blocks passed; list operations, hashability qualifications, dictionary error/default behavior, shared references and JSON/GeoJSON verified. Three remaining checklist boxes now reflect learner confirmations.
+
 ## Current audited required-deliverable totals
 
-65 of 81 required deliverables fully complete (80.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+66 of 81 required deliverables fully complete (81.5%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
 | 01-Scalar_Types_and_Control_Flow | 4 | 4 | 0 | 0 | 0 |
 | 02-Strings_and_Text | 5 | 5 | 0 | 0 | 0 |
-| 03-Python_Containers | 5 | 4 | 1 | 0 | 0 |
+| 03-Python_Containers | 5 | 5 | 0 | 0 | 0 |
 | 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |

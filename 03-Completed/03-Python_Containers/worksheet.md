@@ -303,14 +303,14 @@ for feature in geo['features']:
 ## 🧾 Submit Checklist
 
 - [x] I practiced creating, slicing, sorting, and filtering lists.
-- [ ] I can explain the difference between `+`, `append()`, and `extend()`.
+- [x] I can explain the difference between `+`, `append()`, and `extend()`.
 - [x] I built and traversed a nested (2D) list.
 - [x] I removed list items with `remove()`, `pop()`, and `del`.
 - [x] I looped by index with `range(len(...))` and with `enumerate()`.
-- [ ] I understand how tuples are different from lists, and why that makes them hashable.
+- [x] I understand how tuples are different from lists, and why that makes them hashable.
 - [x] I accessed, looped through, updated, and removed items from a dictionary.
 - [x] I built a dictionary from two separate lists.
 - [x] I worked with at least one nested dictionary.
 - [x] I processed a list of dictionaries as table rows and updated a record by row number.
 - [x] I parsed JSON with `json.loads()` and walked a GeoJSON FeatureCollection.
-- [ ] I completed the "Explain It" prompts in my own words.
+- [x] I completed the "Explain It" prompts in my own words.

@@ -38,7 +38,9 @@ Files: `01-Lists.ipynb`, `02-Tuples.ipynb`, `03-Dictionaries.ipynb`, `quiz.md`, 
 - [x] `quiz.md`: all 30 answers reviewed.
 - [x] `worksheet.md`: all code tasks reviewed; foods and numbers use Inuka's supplied choices. All 21 Python blocks executed sequentially.
 - [x] All three notebooks freshly executed in `.venv`; original Markdown prompts preserved and all 37 code cells passed without errors.
-- [ ] Worksheet self-assessments requiring Inuka's own understanding and wording remain unchecked.
+- [x] Inuka explicitly confirmed the three Explain It explanations and both outstanding understanding self-assessments; the worksheet submit checklist is complete.
+
+- [x] `worksheet.md`: Inuka explicitly confirmed all three Explain It explanations and both outstanding understanding self-assessments. All 21 Python blocks passed; list operations, hashability qualifications, dictionary error/default behavior, shared references and JSON/GeoJSON verified. Three remaining checklist boxes now reflect learner confirmations.
 
 ## Module 03b — Containers to Functions
 
@@ -155,7 +157,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 - [x] `01-Scalar_Types_and_Control_Flow/worksheet.md` - Inuka confirmed the three core reflections, his C++ experience and applicable explanations, and all five practice items. All fourteen Python blocks and simulated weather branches passed; six checklist items now reflect direct learner confirmations.
 - [x] `02-Strings_and_Text/worksheet.md` - Inuka supplied the first explanation and explicitly confirmed the second and third saved explanations. All twelve Python blocks passed; learner-wording requirement resolved.
-- [ ] `03-Python_Containers/worksheet.md` - Inuka: confirm/rewrite the three existing Explain It explanations; confirm the three unchecked understanding/own-word attestations.
+- [x] `03-Python_Containers/worksheet.md` - Inuka confirmed all three existing explanations and both remaining understanding self-assessments. All 21 Python blocks passed; all worksheet checklist items are complete.
 - [ ] `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` - Inuka: complete BOTH paper tables: simple score/print loop and accumulated total for [87, 91, 74, 88, 95]. Typed results do not verify paper work.
 - [ ] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka: write each intermediate value of the requested nested student/container expressions on paper.
 - [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - Inuka plus partner: complete all paper traces; write a 5-8-line mystery function, exchange it with a partner, trace their function, and compare results. Confirm actual exchange and observations.
@@ -177,7 +179,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 ### Exact remaining worksheet reflection prompts
 
-For Module 03, technically correct explanations exist but authorship is unconfirmed. Module 01 core and conditional C++ explanations and practice attestations were explicitly confirmed by Inuka. Module 02 explanations were resolved directly with Inuka: the first was replaced and the other two explicitly confirmed. For later worksheets, drafts/personal prompts remain pending. Review or write your own wording; do not merely attest to assistant-generated text.
+Module 03 explanations and outstanding understanding self-assessments were explicitly confirmed by Inuka. Module 01 core and conditional C++ explanations and practice attestations were explicitly confirmed by Inuka. Module 02 explanations were resolved directly with Inuka: the first was replaced and the other two explicitly confirmed. For later worksheets, drafts/personal prompts remain pending. Review or write your own wording; do not merely attest to assistant-generated text.
 
 **`01-Scalar_Types_and_Control_Flow/worksheet.md`**
 
