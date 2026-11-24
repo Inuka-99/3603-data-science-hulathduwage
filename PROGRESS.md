@@ -223,6 +223,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `07-Describing_Data/worksheet.md` (partial): All five technical Explain It answers generated and checked against original prompts and reviewed module methods. Existing calculations, support notebook and exports preserved. Learner own-word review and seven practice attestations remain pending.
 
+
+- Coordinator verification `08-Visualizing_Data/worksheet.md` (partial): All five technical Explain It answers generated and checked against original prompts, plotting methods and source penguin means/correlations. Existing support notebook and six charts preserved. Learner own-word review and seven practice attestations remain pending.
+
 ## Current audited required-deliverable totals
 
 68 of 81 required deliverables fully complete (84.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.

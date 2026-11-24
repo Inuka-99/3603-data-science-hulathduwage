@@ -30,7 +30,9 @@ Use this worksheet to reinforce object-oriented Matplotlib, pandas plotting, Sea
 
 In your own words: why is a function that takes an `ax` argument more useful than a function that calls `plt.` directly?
 
-**Pending learner response:** This personal Explain It response awaits the learner's own wording; it has not been supplied or attributed to them.
+**Generated answer:** An ax argument tells a plotting function exactly which panel to draw on. The same function can then be reused in different positions of a multi-panel figure, and the caller controls the layout and saving. Calls such as plt.title() depend on the currently active axes, which can change as figures and panels are created. Explicit axes make the destination clear and reduce accidental changes to another panel.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 
 ---
 
@@ -60,7 +62,9 @@ In your own words: why is a function that takes an `ax` argument more useful tha
 
 In your own words: when would you plot with pandas `.plot`, and when would you switch to Seaborn?
 
-**Pending learner response:** This personal Explain It response awaits the learner's own wording; it has not been supplied or attributed to them.
+**Generated answer:** Pandas .plot is convenient for a quick chart of a Series or an already summarized wide table, such as counts by port or a pivot table of survival rates. Seaborn is useful when columns in a long table should map to x, y, hue or facets, or when the chart needs statistical summaries such as distribution comparisons, regression lines or clearly specified uncertainty intervals. Choose the tool that expresses the question clearly; both still require checking grouping, normalization and scales.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 
 ---
 
@@ -89,7 +93,9 @@ In your own words: when would you plot with pandas `.plot`, and when would you s
 
 In your own words: the overall penguin body-mass histogram looked like one lumpy pile, and its skew was only 0.47. What did coloring by species reveal, and why couldn't the skew statistic reveal it?
 
-**Pending learner response:** This personal Explain It response awaits the learner's own wording; it has not been supplied or attributed to them.
+**Generated answer:** Coloring by species revealed that Gentoo penguins form the heavier group near 5,076 g, while Adelie and Chinstrap means are near 3,701 and 3,733 g. Their different distributions create the pooled histogram's lumpy right shoulder. Skew is a single measure of overall asymmetry: a value near 0.47 does not establish that the data come from one population or have one peak. Species-colored distributions and the matching group summaries reveal structure that the pooled skew cannot describe.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 
 ---
 
@@ -119,7 +125,9 @@ In your own words: the overall penguin body-mass histogram looked like one lumpy
 
 In your own words: explain Simpson's paradox to someone who has never heard of it, using your chart from the task above.
 
-**Pending learner response:** This personal Explain It response awaits the learner's own wording; it has not been supplied or attributed to them.
+**Generated answer:** In the pooled bill chart, the fitted line slopes downward: longer bills appear to be shallower. When points are separated by species, every fitted line slopes upward. Gentoo penguins tend to have longer, shallower bills than the other species, so differences between species outweigh the positive relationships within species. This reversal is Simpson's paradox. Here the pooled correlation is about -0.235, while the species correlations are positive, about 0.391, 0.654 and 0.643. The chart shows why group structure matters; it does not show that changing bill length causes a change in depth.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 
 ---
 
@@ -149,7 +157,9 @@ In your own words: explain Simpson's paradox to someone who has never heard of i
 
 In your own words: what's the difference between a chart made for exploration and a chart made for communication? Why do they need different amounts of polish?
 
-**Pending learner response:** This personal Explain It response awaits the learner's own wording; it has not been supplied or attributed to them.
+**Generated answer:** An exploration chart helps the analyst discover patterns, compare alternatives and decide what to investigate next. A communication chart presents a selected finding to a particular audience, so it needs a clear finding title, readable units, meaningful ordering, consistent colors and enough context about sample sizes and exclusions. Exploration can use quick defaults because the analyst is present to interpret them; a shared chart needs more explanation because its reader may not know the analysis. Both kinds still need accurate data and honest scales.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 
 ---
 

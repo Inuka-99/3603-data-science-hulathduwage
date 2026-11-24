@@ -133,6 +133,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 
 - [x] `quiz.md`: All36 conceptual responses checked against original prompts, supplied datasets and reviewed notebooks; original quiz text preserved. Question6 has two technically correct formatters, explicitly noted.
 - [ ] `worksheet.md`: All ten factual answers and five independent tasks checked against original prompts; seven support code cells passed fresh kernel and all six PNGs visually inspected. Three support datasets match originals exactly. Five personal Explain It responses and seven participation attestations remain pending.
+- [ ] `worksheet.md`: All five technical Explain It answers generated and checked against original prompts, plotting methods and source penguin means/correlations. Existing support notebook and six charts preserved. Learner own-word review and seven practice attestations remain pending.
 ## Personal and Participation Gates
 
 - [x] Module 03 personal choices already supplied and used, as documented in its completed audit.
@@ -179,7 +180,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `06-Working_with_Data_Adv/worksheet.md` - Inuka: confirm eleven unchecked learner practice attestations. Your four course grades and six supplied personal reflections are already integrated; no replacement answers are requested.
 - [ ] `07-Describing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
 - [ ] `08-Visualizing_Data/06-Visualization_Lab.ipynb` - Inuka: supply your personal Lab Question5 discovery/evidence preference and Question6 last chart-checklist fix. Objective answers and all required figures are verified; personal participation is not inferred.
-- [ ] `08-Visualizing_Data/worksheet.md` - Inuka: supply five Explain It responses in your own words and confirm seven unchecked attestations. Exact prompts appear below.
+- [ ] `08-Visualizing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked against source data and plotting methods. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
 
 - [ ] **Optional personal answer:** `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: which do you find more readable, named masks or `query()`? The optional implementations are complete; the preference is yours.
 - [ ] **Instructor:** `02-Assignments/01-Scalar_Types_and_Control_Flow/README.md` references missing `scalar_types_and_control_flow.csv`. Confirm whether this D2L question bank is a learner submission and provide its original source if required. It is excluded from the current 81-unit denominator (82 if separately required).
