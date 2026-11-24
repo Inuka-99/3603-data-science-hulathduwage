@@ -85,7 +85,7 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - `06-Working_with_Data_Adv/04-Basic_Cleaning.ipynb`: 40 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and extended-data Your Turn completed, with original sample preserved and extension labeled. Verified five nulls in the extended dataset, country missingness, date conversion failures, duplicate-name selection, nullable Int64, and full UFO cleaning/validation. Raw data retained; 24:00 timestamps and extreme durations flagged for review. Required students.csv copied unchanged.
 
-- `06-Working_with_Data_Adv/05-Column_Operations.ipynb`: 31 code cells passed in a fresh project `.venv` kernel from Completed. All five practices, Your Turn, and no-loop product report completed. Verified text lengths, clipped/lambda equality, loop/vectorized totals, flags/bands, rename/drop behavior, discount rule precedence, final prices, and original-table preservation. Practice 3 personal readability preference remains for Inuka; explanatory comment is labeled a draft.
+- `06-Working_with_Data_Adv/05-Column_Operations.ipynb`: 31 code cells passed in a fresh project `.venv` kernel from Completed. All five practices, Your Turn, and no-loop product report completed. Verified text lengths, clipped/lambda equality, loop/vectorized totals, flags/bands, rename/drop behavior, discount rule precedence, final prices, and original-table preservation. Practice 3 records Inuka's accepted preference for a named function because its name explains the calculation's purpose.
 
 - `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: 29 code cells passed in a fresh project `.venv` kernel from Completed. All five practices and Your Turn completed; threshold variables changed without altering the query, sorting and score conditions asserted, Mega Pokemon counted, and mask/query product reports checked equal with the expected three products. Optional challenge readability preference remains Inuka's personal answer; comparison comment labeled draft.
 
@@ -194,7 +194,7 @@ Optional work is counted separately from the 81 required deliverables. The audit
 
 ## Final coordinator verification scope
 
-All 81 required file/output units are present; 68 are fully complete, 13 partial and 0 unknown (Modules 01-03 worksheet confirmations and Module 03b notebooks 01-02 paper traces resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
+All 81 required file/output units are present; 69 are fully complete, 12 partial and 0 unknown (Modules 01-03 worksheet confirmations and Module 03b notebooks 01-02 paper traces resolved). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
 
 The nine queued optional notebook extensions are now verified separately. All ten pre-existing optional worksheet coding tasks and twelve actual quiz bonus answers were independently reviewed; the optional line-profiler subsection also produced live timing evidence. The prior 22-bonus count included ten required Module 03 questions and is corrected to 12. Module 06 optional readability preference remains personal.
 
@@ -226,9 +226,12 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `08-Visualizing_Data/worksheet.md` (partial): All five technical Explain It answers generated and checked against original prompts, plotting methods and source penguin means/correlations. Existing support notebook and six charts preserved. Learner own-word review and seven practice attestations remain pending.
 
+
+- Coordinator verification `06-Working_with_Data_Adv/05-Column_Operations.ipynb` (full): Inuka accepted the named-function readability preference for Practice 3. All 31 code cells passed a fresh final-directory project .venv kernel; original prompt and executable calculations preserved, with obsolete draft comments replaced by the accepted Markdown answer. Module checker passes 11/11.
+
 ## Current audited required-deliverable totals
 
-68 of 81 required deliverables fully complete (84.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -238,6 +241,6 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 | 03b-Containers_to_Functions | 8 | 5 | 3 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
-| 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
+| 06-Working_with_Data_Adv | 11 | 10 | 1 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
 | 08-Visualizing_Data | 14 | 12 | 2 | 0 | 0 |
