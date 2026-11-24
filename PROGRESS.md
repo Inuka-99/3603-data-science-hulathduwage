@@ -93,9 +93,12 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `05-Foundations/01-magic_commands.ipynb` (full): Fresh final-location kernel: 40 nonempty code cells passed. Preserved instructor prompts/examples and four required script assets. Reproduced ZeroDivisionError from nightly_rate(240, 0), invoked the actual IPython post-mortem debugger, executed p total (240), p nights (0), and q via a recorded command queue; corrected call returns 120.0. This is actual programmatic debugger inspection, not a learner keyboard-participation claim.
 
+
+- Coordinator verification `06-Working_with_Data_Adv/08-Pandas_Wrangle_Lab.ipynb` (full): 41 code cells passed in fresh final-location kernel; original prompts/examples retained. 269 raw to 239 cleaned rows; removed 6 exact duplicates, 3 superseded IDs, 21 essential-field failures. Independently reconciled Decimal revenue 20315.63, group totals, and 14-row Travel IL report totaling 1644.62. Three required CSV exports validated; completed optional investigation retained separately.
+
 ## Current audited required-deliverable totals
 
-39 of 81 required deliverables fully complete (48.1%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+41 of 81 required deliverables fully complete (50.6%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -105,6 +108,6 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 03b-Containers_to_Functions | 8 | 3 | 5 | 0 | 0 |
 | 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
-| 06-Working_with_Data_Adv | 11 | 6 | 1 | 4 | 0 |
+| 06-Working_with_Data_Adv | 11 | 8 | 1 | 2 | 0 |
 | 07-Describing_Data | 10 | 0 | 0 | 10 | 0 |
 | 08-Visualizing_Data | 14 | 0 | 0 | 14 | 0 |
