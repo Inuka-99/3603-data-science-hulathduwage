@@ -226,9 +226,9 @@ match grade_letter:
 
 ## 🧾 Submit Checklist
 
-- [ ] I practiced creating and casting each scalar type.
-- [ ] I used arithmetic operators, including `//` and `%`.
-- [ ] I wrote conditionals using comparison and logical operators.
-- [ ] I used a chained comparison at least once.
-- [ ] I wrote at least one branch with multiple lines inside it.
-- [ ] I completed the "Explain It" prompts in my own words.
+- [x] I practiced creating and casting each scalar type.
+- [x] I used arithmetic operators, including `//` and `%`.
+- [x] I wrote conditionals using comparison and logical operators.
+- [x] I used a chained comparison at least once.
+- [x] I wrote at least one branch with multiple lines inside it.
+- [x] I completed the "Explain It" prompts in my own words.

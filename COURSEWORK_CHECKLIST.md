@@ -12,6 +12,8 @@ Files: `01-Scalar_Types.ipynb`, `02-Control_Flow.ipynb`, `quiz.md`, `worksheet.m
 - [x] `check_completed.py 01`: 4/4 required-file checks.
 - [ ] README mentions `scalar_types_and_control_flow.csv`; absent from both assignment and completed source trees. No source/template is available; do not fabricate the instructor's D2L bank.
 
+- [x] `worksheet.md`: Inuka confirmed all three core reflections, applicable C++ explanations and all five practice items. All fourteen Python blocks passed; simulated weather inputs verified every branch. Six submit-checklist boxes now reflect explicit learner confirmations; original prompts preserved.
+
 ## Module 02 — Strings and Text
 
 Files: `01-String_Basics.ipynb`, `02-String_Methods.ipynb`, `03-Formatted_Strings.ipynb`, `quiz.md`, `worksheet.md`. No checker output folders.
@@ -151,7 +153,7 @@ Optional work is counted separately from the 81 required deliverables. The audit
 
 All paths below are relative to `03-Completed/`. Independent code, calculations and required exports are verified and submitted. Paper, keyboard, partner/team participation and learner wording are separate requirements. No participation is inferred from an automated run.
 
-- [ ] `01-Scalar_Types_and_Control_Flow/worksheet.md` - Inuka: confirm or rewrite the three existing Explain It explanations in your own words; confirm the six unchecked practice attestations. Confirm whether the conditional C++ comparison applies to your experience.
+- [x] `01-Scalar_Types_and_Control_Flow/worksheet.md` - Inuka confirmed the three core reflections, his C++ experience and applicable explanations, and all five practice items. All fourteen Python blocks and simulated weather branches passed; six checklist items now reflect direct learner confirmations.
 - [x] `02-Strings_and_Text/worksheet.md` - Inuka supplied the first explanation and explicitly confirmed the second and third saved explanations. All twelve Python blocks passed; learner-wording requirement resolved.
 - [ ] `03-Python_Containers/worksheet.md` - Inuka: confirm/rewrite the three existing Explain It explanations; confirm the three unchecked understanding/own-word attestations.
 - [ ] `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` - Inuka: complete BOTH paper tables: simple score/print loop and accumulated total for [87, 91, 74, 88, 95]. Typed results do not verify paper work.
@@ -175,7 +177,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 ### Exact remaining worksheet reflection prompts
 
-For Modules 01 and 03, technically correct explanations exist but authorship is unconfirmed. Module 02 explanations were resolved directly with Inuka: the first was replaced and the other two explicitly confirmed. For later worksheets, drafts/personal prompts remain pending. Review or write your own wording; do not merely attest to assistant-generated text.
+For Module 03, technically correct explanations exist but authorship is unconfirmed. Module 01 core and conditional C++ explanations and practice attestations were explicitly confirmed by Inuka. Module 02 explanations were resolved directly with Inuka: the first was replaced and the other two explicitly confirmed. For later worksheets, drafts/personal prompts remain pending. Review or write your own wording; do not merely attest to assistant-generated text.
 
 **`01-Scalar_Types_and_Control_Flow/worksheet.md`**
 
