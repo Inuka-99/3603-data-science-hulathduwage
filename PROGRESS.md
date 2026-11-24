@@ -238,6 +238,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `05-Foundations/03-using_help_and_docs.ipynb` (partial): All written discovery and Practice4 help-method comparisons completed as generated answers;39 cells passed a fresh final-directory kernel. Original prompts and executable code preserved. Literal Tab keyboard actions remain unverified because editor access timed out; no learner observation invented.
 
+
+- Coordinator verification `08-Visualizing_Data/06-Visualization_Lab.ipynb` (partial): All six lab questions now have complete technical answers. Generated Q5 compares chart discovery with numeric evidence; Q6 audits the bill-depth figure and actual recorded agent title-spacing correction. All15 cells passed fresh final-directory execution; required and optional chart exports unchanged. Learner personal experience remains unconfirmed.
+
 ## Current audited required-deliverable totals
 
 69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
