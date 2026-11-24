@@ -40,7 +40,9 @@ Use this worksheet to reinforce the descriptive workflow: what each column means
 In your own words: why does it matter whether a variable is nominal or ordinal before you compute anything with it? What could go wrong if you averaged an ordinal column's codes?
 
 <!-- response reflection-1 -->
-**Pending learner response:** Write this explanation in your own words. No learner reflection or participation claim has been supplied.
+**Generated answer:** Nominal categories are names with no meaningful order, while ordinal categories have an order but do not necessarily have equal gaps between levels. That determines which summaries make sense. For example, coding satisfaction as 1, 2 and 3 does not establish that the jump from unhappy to neutral equals the jump from neutral to happy. Averaging those codes assumes equal spacing and can change meaning when the coding changes; counts, proportions and ordered-category summaries are safer unless a numeric scale is justified.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 <!-- end response reflection-1 -->
 
 ---
@@ -88,7 +90,9 @@ The overall group is more spread out by both std and IQR, so the two measures ag
 In your own words: two classes have the same average exam score, but very different standard deviations. Describe what being a student in each class might be like.
 
 <!-- response reflection-2 -->
-**Pending learner response:** Write this explanation in your own words. No learner reflection or participation claim has been supplied.
+**Generated answer:** In the class with the smaller standard deviation, most students' scores are closer to the class average. In the class with the larger standard deviation, scores are more spread out, so some students may be doing much better and others much worse even though the mean is the same. A student's experience therefore depends on the distribution, not just the mean. Standard deviation alone still does not reveal clusters, skew or individual scores, so the score distributions should also be inspected.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 <!-- end response reflection-2 -->
 
 ---
@@ -138,7 +142,9 @@ The printed flagged rows are Chinstrap on Dream island: original zero-based row 
 In your own words: explain to a classmate why "outlier" and "error" aren't the same thing, using an example from the Titanic fares.
 
 <!-- response reflection-3 -->
-**Pending learner response:** Write this explanation in your own words. No learner reflection or participation claim has been supplied.
+**Generated answer:** An outlier is unusual relative to a chosen comparison group or rule; an error is an incorrect recorded value. A very high Titanic fare can exceed an IQR fence and still represent a genuine expensive ticket or a recorded fare covering several travelers. Its unusual size alone does not prove a mistake. Check the record, units and source, and compare within ticket class before deciding whether to correct or exclude it. Deleting every flagged fare would also remove potentially meaningful variation.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 <!-- end response reflection-3 -->
 
 ---
@@ -189,7 +195,9 @@ Senior women have the highest observed rate, **3/3 = 100%**, but only three obse
 In your own words: what's a confounder? Describe one in the Titanic data, and how you'd check for it with a table.
 
 <!-- response reflection-4 -->
-**Pending learner response:** Write this explanation in your own words. No learner reflection or participation claim has been supplied.
+**Generated answer:** A confounder is a third variable related to both sides of a comparison that can distort the pooled association. In the Titanic data, ticket class can confound the association between embarkation port and survival: ports have different class compositions, and survival rates differ by class. Check a table of survival rates with port as rows and class as columns, alongside group counts and each port's class proportions. Comparing ports within class helps distinguish composition from within-class differences, although other confounders may remain and the tables do not establish causation.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 <!-- end response reflection-4 -->
 
 ---
@@ -243,7 +251,9 @@ Attack/Defense Pearson r is **0.437192** for non-Legendary (n=735), and **-0.210
 In your own words: Anscombe's four datasets all have r = 0.82. What does that teach you about reporting a correlation without a plot? What's the danger of a single summary number?
 
 <!-- response reflection-5 -->
-**Pending learner response:** Write this explanation in your own words. No learner reflection or participation claim has been supplied.
+**Generated answer:** Anscombe's datasets have approximately the same correlation and fitted line but very different point patterns: one is roughly linear, another curved, and others are strongly influenced by unusual observations. Reporting only r hides those differences and can suggest that a straight-line summary works equally well for every dataset. Inspect a scatter plot and group structure alongside the number before interpreting the relationship; correlation alone describes neither the full pattern nor causation.
+
+**Status:** Technical answer generated at Inuka's request; learner own-word review remains pending.
 <!-- end response reflection-5 -->
 
 ---

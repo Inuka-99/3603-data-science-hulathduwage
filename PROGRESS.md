@@ -220,6 +220,9 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 - Coordinator verification `03b-Containers_to_Functions/worksheet.md` (partial): All six sections have checked answers. Inuka supplied Sections1-5 responses and Section6 pipeline design; final explanation generated at his request. Five code blocks, nested traces, contract tests and pipeline behavior verified. Paper drawing and own-word review of final generated explanation remain pending.
 
+
+- Coordinator verification `07-Describing_Data/worksheet.md` (partial): All five technical Explain It answers generated and checked against original prompts and reviewed module methods. Existing calculations, support notebook and exports preserved. Learner own-word review and seven practice attestations remain pending.
+
 ## Current audited required-deliverable totals
 
 68 of 81 required deliverables fully complete (84.0%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.

@@ -119,6 +119,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 
 - [x] `quiz.md`: All36 answers checked against every original prompt, course notebooks and supplied data; response-block removal restores source. Code/statistics checks cover category meaning, ddof, IQR/z-score rules, denominators, weighted rates, correlation versus causation, Simpson reversal and Anscombe's quartet.
 - [ ] `worksheet.md`: All10 factual answers and five independent tasks completed; seven support cells passed fresh final-location kernel;11CSVexports verified. Checked400/891 above3rdclass, sample Attack spread,2within-Chinstrap mass flags,15uniquecorrelationpairs/method, and senior-women3/3 small-cell caution. Five own-word reflections and seven learner attestations remain pending; no participation claims.
+- [ ] `worksheet.md`: All five technical Explain It answers generated and checked against original prompts and reviewed module methods. Existing calculations, support notebook and exports preserved. Learner own-word review and seven practice attestations remain pending.
 ## Module 08 — Visualizing Data
 
 Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outputs: `01-OutputFiles` through `06-OutputFiles`.
@@ -176,7 +177,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `05-Foundations/worksheet.md` - Inuka: complete the keyboard-only Shortcut Drill and literal Tab/IntelliSense exercise; supply eight Explain It responses in your own words and confirm eleven unchecked attestations.
 - [ ] `06-Working_with_Data_Adv/05-Column_Operations.ipynb` - Inuka: answer Practice3: after comparing the lambda approach with the named-function approach, which version do you find more readable?
 - [ ] `06-Working_with_Data_Adv/worksheet.md` - Inuka: confirm eleven unchecked learner practice attestations. Your four course grades and six supplied personal reflections are already integrated; no replacement answers are requested.
-- [ ] `07-Describing_Data/worksheet.md` - Inuka: supply five Explain It responses in your own words and confirm seven unchecked attestations. Exact prompts appear below.
+- [ ] `07-Describing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
 - [ ] `08-Visualizing_Data/06-Visualization_Lab.ipynb` - Inuka: supply your personal Lab Question5 discovery/evidence preference and Question6 last chart-checklist fix. Objective answers and all required figures are verified; personal participation is not inferred.
 - [ ] `08-Visualizing_Data/worksheet.md` - Inuka: supply five Explain It responses in your own words and confirm seven unchecked attestations. Exact prompts appear below.
 
