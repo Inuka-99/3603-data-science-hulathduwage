@@ -115,7 +115,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 - [x] `02-Plotting_with_Pandas.ipynb`: Optional extension verified: 21 cells passed fresh execution; new mean-plus/minus-sample-SD chart visually inspected; six generation estimates and actual error-bar endpoints independently verified; SD versus SEM and confidence intervals distinguished.
 - [x] `03-Seaborn_Distributions.ipynb`: Optional extension verified: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - [x] `04-Seaborn_Relationships_and_Categories.ipynb`: Optional extension verified: 20 cells passed fresh execution; all twelve new pooled/species plots visually inspected;24 correlations and24 slopes independently checked; exact three reversals match Module07; six-pair summary CSV included.
-- [x] `05-Choosing_and_Telling.ipynb`: 15 code cells passed fresh final-directory execution; nine charts visually inspected and three summary CSVs verified; scale repairs, small Flying sample and species-island confounding explicitly explained.
+- [x] `05-Choosing_and_Telling.ipynb`: Optional extension verified: 15 cells passed fresh execution; deliberately misleading and honest heatmaps visually inspected; identical891 passenger records and rates verified; independent versus shared color scales and detection explained.
 - [ ] `06-Visualization_Lab.ipynb`: 15 code cells passed fresh final-directory execution; all eleven required charts visually inspected, including figures5-7 and four practice exports; input, species counts, means and correlation reversal match Module07. Personal Lab Questions5-6 remain pending.
 
 - [x] `quiz.md`: All36 conceptual responses checked against original prompts, supplied datasets and reviewed notebooks; original quiz text preserved. Question6 has two technically correct formatters, explicitly noted.
@@ -133,7 +133,7 @@ Update this checklist and `PROGRESS.md` in the same assignment commit as each co
 
 Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-7 of nine queued notebook extensions verified and submitted individually.
+8 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
 - `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
@@ -142,3 +142,4 @@ Optional work is counted separately from the 81 required deliverables. The audit
 - `03-Completed/08-Visualizing_Data/02-Plotting_with_Pandas.ipynb`: 21 cells passed fresh execution; new mean-plus/minus-sample-SD chart visually inspected; six generation estimates and actual error-bar endpoints independently verified; SD versus SEM and confidence intervals distinguished.
 - `03-Completed/08-Visualizing_Data/03-Seaborn_Distributions.ipynb`: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - `03-Completed/08-Visualizing_Data/04-Seaborn_Relationships_and_Categories.ipynb`: 20 cells passed fresh execution; all twelve new pooled/species plots visually inspected;24 correlations and24 slopes independently checked; exact three reversals match Module07; six-pair summary CSV included.
+- `03-Completed/08-Visualizing_Data/05-Choosing_and_Telling.ipynb`: 15 cells passed fresh execution; deliberately misleading and honest heatmaps visually inspected; identical891 passenger records and rates verified; independent versus shared color scales and detection explained.
