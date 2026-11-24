@@ -153,6 +153,9 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` (partial): Corrected first-person claims to identify programmatic simulations; restored exact Practice4 prompt; all instructor Markdown preserved by content and14 cells passed fresh final-directory execution. HTML/Python exports updated. Actual keyboard, mode, browser/editor and execution-order participation remains pending.
 
+
+- Coordinator verification `05-Foundations/03-using_help_and_docs.ipynb` (partial): All39 nonempty cells passed a fresh final-directory kernel; original Markdown prompts preserved by content. Required help/signatures, ten random rolls, method discovery and four documentation-driven bar stages are saved; pager content captured for review. Literal Tab completion and own-word Practice4 reflection remain pending.
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
