@@ -1,0 +1,8 @@
+group,measurement,observed,lower,upper,outliers
+ALL,Total,800,52.5,792.5,0
+ALL,HP,800,5.0,125.0,19
+ALL,Attack,800,-12.5,167.5,7
+ALL,Defense,800,-10.0,150.0,13
+ALL,Sp. Atk,800,-18.125,162.875,10
+ALL,Sp. Def,800,-10.0,150.0,7
+ALL,Speed,800,-22.5,157.5,2

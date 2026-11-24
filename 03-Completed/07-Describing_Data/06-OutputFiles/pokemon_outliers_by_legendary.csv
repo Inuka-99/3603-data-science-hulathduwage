@@ -1,0 +1,15 @@
+group,measurement,observed,lower,upper,outliers
+Legendary=False,Total,735,63.0,759.0,0
+Legendary=False,HP,735,5.75,123.75,16
+Legendary=False,Attack,735,-6.25,155.75,8
+Legendary=False,Defense,735,-2.5,137.5,22
+Legendary=False,Sp. Atk,735,-15.0,145.0,6
+Legendary=False,Sp. Def,735,-2.5,137.5,8
+Legendary=False,Speed,735,-15.0,145.0,3
+Legendary=True,Total,65,430.0,830.0,0
+Legendary=True,HP,65,42.5,142.5,2
+Legendary=True,Attack,65,53.5,177.5,5
+Legendary=True,Defense,65,52.5,152.5,5
+Legendary=True,Sp. Atk,65,25.0,225.0,0
+Legendary=True,Sp. Def,65,45.0,165.0,2
+Legendary=True,Speed,65,60.0,140.0,7
