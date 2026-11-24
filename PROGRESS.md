@@ -165,6 +165,8 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 
 
+
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -185,9 +187,10 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-4 of nine queued notebook extensions verified and submitted individually.
+5 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
 - `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
 - `03-Completed/07-Describing_Data/06-Describing_Data_Lab.ipynb`: 25 cells passed fresh execution; six new pokemon_ reports verified for800 rows,21 fence summaries,15 correlations and three findings; seven required penguin reports unchanged.
 - `03-Completed/08-Visualizing_Data/01-Matplotlib_Object_Oriented.ipynb`: 19 cells passed fresh execution; new Titanic mosaic visually inspected;714 complete scatter pairs,714 ages and891 fares verified, including15 zero fares; ten required PNGs unchanged.
+- `03-Completed/08-Visualizing_Data/02-Plotting_with_Pandas.ipynb`: 21 cells passed fresh execution; new mean-plus/minus-sample-SD chart visually inspected; six generation estimates and actual error-bar endpoints independently verified; SD versus SEM and confidence intervals distinguished.
