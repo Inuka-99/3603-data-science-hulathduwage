@@ -43,7 +43,7 @@ Files: `01-Too_Many_Variables.ipynb`, `02-Pick_Your_Container.ipynb`, `03-Why_Fu
 - [x] All six notebooks freshly executed in `.venv`; all original cell IDs remain, all 103 code cells executed without error outputs, and answer/prediction support is present.
 - [x] `quiz.md`: all 24 answers reviewed.
 - [x] `worksheet.md`: all six sections have typed worked answers; the source explicitly requires the independent work on paper, so it remains pending.
-- [ ] Paper traces to complete: accumulated-total loop in `01-Too_Many_Variables.ipynb`, stepwise nested-expression trace in `02-Pick_Your_Container.ipynb`, mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
+- [ ] Paper traces to complete: both the simple score/print loop table and accumulated-total loop in `01-Too_Many_Variables.ipynb`, stepwise nested-expression trace in `02-Pick_Your_Container.ipynb`, mystery-function trace table in `04-Mystery_Functions.ipynb`, and all six worksheet sections.
 - [ ] Write a small mystery function and exchange it with a partner in `04-Mystery_Functions.ipynb`.
 - [ ] Complete the class/team pipeline activity in `06-Pipelines.ipynb`.
 
@@ -116,7 +116,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 - [x] `03-Seaborn_Distributions.ipynb`: Optional extension verified: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - [x] `04-Seaborn_Relationships_and_Categories.ipynb`: Optional extension verified: 20 cells passed fresh execution; all twelve new pooled/species plots visually inspected;24 correlations and24 slopes independently checked; exact three reversals match Module07; six-pair summary CSV included.
 - [x] `05-Choosing_and_Telling.ipynb`: Optional extension verified: 15 cells passed fresh execution; deliberately misleading and honest heatmaps visually inspected; identical891 passenger records and rates verified; independent versus shared color scales and detection explained.
-- [ ] `06-Visualization_Lab.ipynb`: 15 code cells passed fresh final-directory execution; all eleven required charts visually inspected, including figures5-7 and four practice exports; input, species counts, means and correlation reversal match Module07. Personal Lab Questions5-6 remain pending.
+- [ ] `06-Visualization_Lab.ipynb`: Optional extension verified: 15 cells passed fresh execution; three new challenge_ Pokemon charts visually inspected; all800 rows, groups735/65, medians425/600 and Generation4 median485, r0.510747 independently verified; required figures and personal gates preserved.
 
 - [x] `quiz.md`: All36 conceptual responses checked against original prompts, supplied datasets and reviewed notebooks; original quiz text preserved. Question6 has two technically correct formatters, explicitly noted.
 - [ ] `worksheet.md`: All ten factual answers and five independent tasks checked against original prompts; seven support code cells passed fresh kernel and all six PNGs visually inspected. Three support datasets match originals exactly. Five personal Explain It responses and seven participation attestations remain pending.
@@ -133,7 +133,7 @@ Update this checklist and `PROGRESS.md` in the same assignment commit as each co
 
 Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-8 of nine queued notebook extensions verified and submitted individually.
+9 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
 - `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
@@ -143,3 +143,97 @@ Optional work is counted separately from the 81 required deliverables. The audit
 - `03-Completed/08-Visualizing_Data/03-Seaborn_Distributions.ipynb`: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - `03-Completed/08-Visualizing_Data/04-Seaborn_Relationships_and_Categories.ipynb`: 20 cells passed fresh execution; all twelve new pooled/species plots visually inspected;24 correlations and24 slopes independently checked; exact three reversals match Module07; six-pair summary CSV included.
 - `03-Completed/08-Visualizing_Data/05-Choosing_and_Telling.ipynb`: 15 cells passed fresh execution; deliberately misleading and honest heatmaps visually inspected; identical891 passenger records and rates verified; independent versus shared color scales and detection explained.
+- `03-Completed/08-Visualizing_Data/06-Visualization_Lab.ipynb`: 15 cells passed fresh execution; three new challenge_ Pokemon charts visually inspected; all800 rows, groups735/65, medians425/600 and Generation4 median485, r0.510747 independently verified; required figures and personal gates preserved.
+
+## Remaining learner, partner and instructor checklist
+
+All paths below are relative to `03-Completed/`. Independent code, calculations and required exports are verified and submitted. Paper, keyboard, partner/team participation and learner wording are separate requirements. No participation is inferred from an automated run.
+
+- [ ] `01-Scalar_Types_and_Control_Flow/worksheet.md` - Inuka: confirm or rewrite the three existing Explain It explanations in your own words; confirm the six unchecked practice attestations. Confirm whether the conditional C++ comparison applies to your experience.
+- [ ] `02-Strings_and_Text/worksheet.md` - Inuka: confirm that the three technically correct existing Explain It explanations are your own wording, or rewrite them. Existing six checked boxes are preserved; authorship remains unknown.
+- [ ] `03-Python_Containers/worksheet.md` - Inuka: confirm/rewrite the three existing Explain It explanations; confirm the three unchecked understanding/own-word attestations.
+- [ ] `03b-Containers_to_Functions/01-Too_Many_Variables.ipynb` - Inuka: complete BOTH paper tables: simple score/print loop and accumulated total for [87, 91, 74, 88, 95]. Typed results do not verify paper work.
+- [ ] `03b-Containers_to_Functions/02-Pick_Your_Container.ipynb` - Inuka: write each intermediate value of the requested nested student/container expressions on paper.
+- [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - Inuka plus partner: complete all paper traces; write a 5-8-line mystery function, exchange it with a partner, trace their function, and compare results. Confirm actual exchange and observations.
+- [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
+- [ ] `03b-Containers_to_Functions/worksheet.md` - Inuka: complete all six sections on paper and provide/confirm the four Explain It reflections, including the container scenario you were least sure about.
+- [ ] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Inuka: hand-trace n=1, while n<20, n*=3 before execution; record the sequence and loop exit.
+- [ ] `04-More_Functions_and_Loops/worksheet.md` - Inuka: complete all five sections on paper and confirm/rewrite the three Explain It reflections in your own words.
+- [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - Inuka: personally perform mode switching and record appearance; run/insert/delete/change cell types with shortcuts; move/split/multi-select/delete cells; delete a variable cell, restart, observe failure and undo; open exported HTML in a browser and Python export in VS Code; perform Practice4 wrong-order/out-of-order/restart/fix sequence and record execution counts. Programmatic artifacts and simulations are explicitly labeled.
+- [ ] `05-Foundations/03-using_help_and_docs.ipynb` - Inuka: try literal Tab completion on the dictionary, names list and Practice3 string; identify a method unfamiliar to you and inspect it; rewrite Practice4 help/discovery preference draft in your own words.
+- [ ] `05-Foundations/worksheet.md` - Inuka: complete the keyboard-only Shortcut Drill and literal Tab/IntelliSense exercise; supply eight Explain It responses in your own words and confirm eleven unchecked attestations.
+- [ ] `06-Working_with_Data_Adv/05-Column_Operations.ipynb` - Inuka: answer Practice3: after comparing the lambda approach with the named-function approach, which version do you find more readable?
+- [ ] `06-Working_with_Data_Adv/worksheet.md` - Inuka: confirm eleven unchecked learner practice attestations. Your four course grades and six supplied personal reflections are already integrated; no replacement answers are requested.
+- [ ] `07-Describing_Data/worksheet.md` - Inuka: supply five Explain It responses in your own words and confirm seven unchecked attestations. Exact prompts appear below.
+- [ ] `08-Visualizing_Data/06-Visualization_Lab.ipynb` - Inuka: supply your personal Lab Question5 discovery/evidence preference and Question6 last chart-checklist fix. Objective answers and all required figures are verified; personal participation is not inferred.
+- [ ] `08-Visualizing_Data/worksheet.md` - Inuka: supply five Explain It responses in your own words and confirm seven unchecked attestations. Exact prompts appear below.
+
+- [ ] **Optional personal answer:** `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: which do you find more readable, named masks or `query()`? The optional implementations are complete; the preference is yours.
+- [ ] **Instructor:** `02-Assignments/01-Scalar_Types_and_Control_Flow/README.md` references missing `scalar_types_and_control_flow.csv`. Confirm whether this D2L question bank is a learner submission and provide its original source if required. It is excluded from the current 81-unit denominator (82 if separately required).
+
+### Exact remaining worksheet reflection prompts
+
+For Modules01-03, technically correct explanations exist but authorship is unconfirmed. For later worksheets, drafts/personal prompts remain pending. Review or write your own wording; do not merely attest to assistant-generated text.
+
+**`01-Scalar_Types_and_Control_Flow/worksheet.md`**
+
+1. In your own words: why does `input()` always return a string, and why does that matter when you want to do math with what the user typed?
+2. In your own words: what's the difference between `=` and `==` in Python? Why does mixing them up cause errors (or worse, silently wrong code)?
+3. In your own words: what's the difference between using `and` versus writing nested `if` statements to check two conditions? Do they always produce the same result?
+
+**`02-Strings_and_Text/worksheet.md`**
+
+1. In your own words: why are strings immutable, and what do you actually have to do if you want a "modified" version of a string?
+2. In your own words: what's the difference between a method like `.upper()` that returns a new string, versus a list method like `.append()` that changes the list in place? Why do strings only work the first way?
+3. In your own words: what's the practical difference between `f'{price}'` and `f'{price:.2f}'` when `price = 19.999999`? When would the difference actually matter in real code?
+
+**`03-Python_Containers/worksheet.md`**
+
+1. In your own words: what's the difference between a list and a slice of a list? Is slicing a list the same as modifying it? And when you write `a.append(b)` versus `a.extend(b)`, what ends up in `a` each way?
+2. In your own words: why does Python allow a tuple to be a dictionary key, but not a list? What property makes that possible?
+3. In your own words: what's the difference between `student['gpa']` and `student.get('gpa')` when `'gpa'` isn't in the dictionary? Which would you use, and when? Also: why does changing `by_row[2]` also change `roster[2]`?
+
+**`03b-Containers_to_Functions/worksheet.md`**
+
+1. > 🤖 **Explain It:** Explain the difference between Accumulate, Count, and Filter as if you were talking to someone who has never programmed.
+2. > 🤖 **Explain It:** Pick the scenario you were *least* sure about and argue for a different container than the one you chose.
+3. > 🤖 **Explain It:** In your own words, explain `print()` vs. `return`. Then explain why getting it wrong breaks a pipeline.
+4. > 🤖 **Explain It:** Why is a pipeline of small functions easier to fix than one big block of code?
+
+**`04-More_Functions_and_Loops/worksheet.md`**
+
+1. > 🤖 **Explain It:** Why are keyword arguments easier to read than positional ones in a call like `price(100, 0, 10)`?
+2. > 🤖 **Explain It:** Describe the "room with two doors" model of a function in your own words.
+3. > 🤖 **Explain It:** When is `try` / `except` a good idea, and when does it just hide bugs?
+
+**`05-Foundations/worksheet.md`**
+
+1. In your own words: why can `!pip install` "succeed" while `import` still fails with `ModuleNotFoundError`? Why does `%pip` avoid the problem?
+2. In your own words, using the "recipe and kitchen" idea: why can a notebook look correct on your screen and still fail for your grader?
+3. In your own words: when would you reach for `?` versus `??` versus `help()` versus `dir()` versus the official docs? Is there a natural order you'd try them in?
+4. In your own words: what's lost if you write an entire notebook as code + comments only, with no Markdown cells at all? When would *generating* Markdown from code (`display(Markdown(...))`) be better than typing it?
+5. In your own words: why does `csv.reader` give you `'90'` instead of `90`, and why does splitting a CSV line on `','` break on a value like `"Smith, John"`?
+6. In your own words: what information can get lost or changed when converting Excel → CSV, or CSV → DataFrame? Give two examples.
+7. In your own words: why does a line plot make sense for `sin(x)` or monthly revenue but not for the categories `"Math"`, `"Science"`, `"History"`? What's different about the two kinds of data?
+8. In your own words: why does `%timeit` run your code many times instead of just once like `%time`? And why should you "measure first" instead of rewriting code that just *looks* slow?
+
+**`07-Describing_Data/worksheet.md`**
+
+1. In your own words: why does it matter whether a variable is nominal or ordinal before you compute anything with it? What could go wrong if you averaged an ordinal column's codes?
+2. In your own words: two classes have the same average exam score, but very different standard deviations. Describe what being a student in each class might be like.
+3. In your own words: explain to a classmate why "outlier" and "error" aren't the same thing, using an example from the Titanic fares.
+4. In your own words: what's a confounder? Describe one in the Titanic data, and how you'd check for it with a table.
+5. In your own words: Anscombe's four datasets all have r = 0.82. What does that teach you about reporting a correlation without a plot? What's the danger of a single summary number?
+
+**`08-Visualizing_Data/worksheet.md`**
+
+1. In your own words: why is a function that takes an `ax` argument more useful than a function that calls `plt.` directly?
+2. In your own words: when would you plot with pandas `.plot`, and when would you switch to Seaborn?
+3. In your own words: the overall penguin body-mass histogram looked like one lumpy pile, and its skew was only 0.47. What did coloring by species reveal, and why couldn't the skew statistic reveal it?
+4. In your own words: explain Simpson's paradox to someone who has never heard of it, using your chart from the task above.
+5. In your own words: what's the difference between a chart made for exploration and a chart made for communication? Why do they need different amounts of polish?
+
+**`08-Visualizing_Data/06-Visualization_Lab.ipynb`**
+
+5. Which was easier to **find** the paradox with: the Module 07 tables or the Module 08 chart? Which is better as **evidence**? Why might you want both?
+6. Pick one figure and go through the notebook 05 checklist. Which item did you have to fix last?

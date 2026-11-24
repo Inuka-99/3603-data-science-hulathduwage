@@ -173,6 +173,8 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 
 
+
+
 ## Current audited required-deliverable totals
 
 63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
@@ -193,7 +195,7 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-8 of nine queued notebook extensions verified and submitted individually.
+9 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
 - `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
@@ -203,3 +205,12 @@ Optional work is counted separately from the 81 required deliverables. The audit
 - `03-Completed/08-Visualizing_Data/03-Seaborn_Distributions.ipynb`: 19 cells passed fresh execution; five-panel25/100/250/800g-bin and oversmoothed-KDE experiment visually inspected; all342 birds retained, histogram counts and single KDE maximum checked.
 - `03-Completed/08-Visualizing_Data/04-Seaborn_Relationships_and_Categories.ipynb`: 20 cells passed fresh execution; all twelve new pooled/species plots visually inspected;24 correlations and24 slopes independently checked; exact three reversals match Module07; six-pair summary CSV included.
 - `03-Completed/08-Visualizing_Data/05-Choosing_and_Telling.ipynb`: 15 cells passed fresh execution; deliberately misleading and honest heatmaps visually inspected; identical891 passenger records and rates verified; independent versus shared color scales and detection explained.
+- `03-Completed/08-Visualizing_Data/06-Visualization_Lab.ipynb`: 15 cells passed fresh execution; three new challenge_ Pokemon charts visually inspected; all800 rows, groups735/65, medians425/600 and Generation4 median485, r0.510747 independently verified; required figures and personal gates preserved.
+
+## Final coordinator verification scope
+
+All 81 required file/output units are present; 63 are fully complete, 17 partial and 1 unknown (Module 02 worksheet learner authorship). No required unit is unstarted. Every newly submitted notebook was run in a fresh project .venv kernel from its final directory; required prompts and exports were reviewed. Chart exports were visually inspected. The repository layout checker passes all nine modules; this checks presence, not learner participation. The missing Module 01 D2L bank remains excluded pending instructor clarification.
+
+The nine queued optional notebook extensions are now verified separately. All ten pre-existing optional worksheet coding tasks and twelve actual quiz bonus answers were independently reviewed; the optional line-profiler subsection also produced live timing evidence. The prior 22-bonus count included ten required Module 03 questions and is corrected to 12. Module 06 optional readability preference remains personal.
+
+The exact remaining learner/partner/instructor checklist and reflection prompts are in COURSEWORK_CHECKLIST.md. Existing Work copies and caches are excluded from coursework submissions; published history is preserved.
