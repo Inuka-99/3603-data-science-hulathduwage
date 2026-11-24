@@ -102,7 +102,7 @@ Files: six numbered notebooks, `quiz.md`, `worksheet.md`. Checker-required outpu
 - [x] `02-Center_and_Spread.ipynb`: 20 code cells passed fresh final-location execution; all required practices and written comparisons reviewed. Independently checked714 known/177 missing ages, mean29.69912, median28, sample std14.52649733 versus population14.51632115, median-imputation effect, 15 zero fares, HP mean-median gap among the three requested columns, and IQR. Already completed optional MAD retained separately.
 - [x] `03-Shape_and_Outliers.ipynb`: 16 code cells passed fresh final-location execution; required practices/explanations reviewed. Independently verified strict IQR boundaries: Fare116 overall versus79 within class(20/7/52); HP19 outliers including4 Legendary; Age11 IQR versus2 z-score; 177 missing ages excluded; k3 Fare53. Existing optional transform matches loop flags exactly.
 - [x] `04-Comparing_Groups.ipynb`: Optional extension verified: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
-- [x] `05-Relationships_and_Correlation.ipynb`: 20 code cells passed fresh final-location execution. Required practices and written comparisons reviewed; independent Pearson and tied-rank Spearman audit, pairwise missingness714/891, unique strongest pairs, HP-Defense method gap0.193779 and Legendary Attack-Defense sign reversal verified. Original prompts/examples retained; exact Anscombe input added. Optional random-noise challenge queued.
+- [x] `05-Relationships_and_Correlation.ipynb`: Optional extension verified: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
 - [x] `06-Describing_Data_Lab.ipynb`: 25 code cells passed fresh final-location kernel after methods01-05 review. All required questions/practices and sevenCSVexports checked, including sex_differences_by_species.csv. Independently verified344to342 rows,9unknownsex retained, species151/68/123,0overall and6within-species flagged birds retained,3correlation reversals, and exact sex counts/unrounded differences. Optional Pokemon extension queued.
 
 - [x] `quiz.md`: All36 answers checked against every original prompt, course notebooks and supplied data; response-block removal restores source. Code/statistics checks cover category meaning, ddof, IQR/z-score rules, denominators, weighted rates, correlation versus causation, Simpson reversal and Anscombe's quartet.
@@ -131,8 +131,9 @@ Update this checklist and `PROGRESS.md` in the same assignment commit as each co
 
 ## Optional extensions verified in this coordinator run
 
-Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 22 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
+Optional work is counted separately from the 81 required deliverables. The audit identified 44 labeled notebook challenges (35 existing implementations and nine queued extensions), plus a separate optional profiler subsection, ten worksheet optional coding tasks, and 12 quiz bonus questions. Existing implementation does not attest learner participation or personal wording.
 
-1 of nine queued notebook extensions verified and submitted individually.
+2 of nine queued notebook extensions verified and submitted individually.
 
 - `03-Completed/07-Describing_Data/04-Comparing_Groups.ipynb`: 21 cells passed fresh execution; exact raw survivor counts verify all class percentage-point gaps and rate ratios; second class leads both, with first/third rankings reversing.
+- `03-Completed/07-Describing_Data/05-Relationships_and_Correlation.ipynb`: 20 cells passed fresh execution;30x20 seeded independent-noise features produce190 unique pairs; strongest r0.550690 checked with statistics.correlation; selection bias explained.
