@@ -144,9 +144,12 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `08-Visualizing_Data/06-Visualization_Lab.ipynb` (partial): 15 code cells passed fresh final-directory execution; all eleven required charts visually inspected, including figures5-7 and four practice exports; input, species counts, means and correlation reversal match Module07. Personal Lab Questions5-6 remain pending.
 
+
+- Coordinator verification `08-Visualizing_Data/quiz.md` (full): All36 conceptual responses checked against original prompts, supplied datasets and reviewed notebooks; original quiz text preserved. Question6 has two technically correct formatters, explicitly noted.
+
 ## Current audited required-deliverable totals
 
-62 of 81 required deliverables fully complete (76.5%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+63 of 81 required deliverables fully complete (77.8%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -158,4 +161,4 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
-| 08-Visualizing_Data | 14 | 11 | 1 | 2 | 0 |
+| 08-Visualizing_Data | 14 | 12 | 1 | 1 | 0 |
