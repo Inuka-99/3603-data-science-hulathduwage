@@ -27,7 +27,7 @@ The assignment order is 01, 02, 03, 03b, 04, 05 Foundations, 06 Working with Dat
 | 05 Foundations | 9 | 9 | Notebook 03 freshly executed; all 35 code cells passed, prompts retained, and no output folder is required. Pending: literal Tab-completion actions and rewrite of Practice 4 in Inuka's own words. Notebook 03 pushed in `bd248cf`. Notebook 04 verified in a fresh project `.venv` kernel from Completed: 4/4 code cells passed, all instructor prompts/examples preserved, selected tools/languages/SpaceX retained, math/table/blockquote/report/HTML reviewed, and relative JPEG decoded and referenced correctly in rendered HTML. Notebook 04 pushed in `3235e7d`, with Inuka's definition added in `a6344b2`. Notebook 05: 32/32 code cells passed in a fresh `.venv` kernel from Completed; all 14 output files verified. Uses Inuka's supplied courses and hobbies (20 hours per week). Notebook 05 pushed in `20248a9`. Notebook 06: 35/35 code cells passed in a fresh `.venv` kernel from Completed, including online data and Excel; 24 output files independently checked. Notebook 06 pushed in `cedba95`. Notebook 07: 39/39 code cells passed in a fresh `.venv` kernel; four nonblank saved charts and the 120-row fictional store dataset checked, including honest-axis repair and dashboard findings. Notebook 07 pushed in `231ce01`. Notebook 08: 41/41 code cells passed in a fresh `.venv` kernel; profiling, correctness/memory checks, 100,000-row sales CSV, and separate fresh-kernel squaring repeat (41x versus 15x) verified. Notebook 08 pushed in `aeb5956` (author and committer attributed to Inuka-99). Foundations practical quiz: 16/16 code cells passed in a fresh `.venv` kernel; seven written answers and all five required output files verified. Practical quiz pushed in `f22f9b8`. Conceptual quiz pushed in `be1af68`: all 45 questions answered and reviewed. Worksheet independent work: 24 factual answers, 12 freshly executed companion code cells, and support outputs verified. Keyboard-only drill, literal Tab interaction, eight learner-worded Explain It responses, and personal submit attestations remain pending. Worksheet independent work pushed in `fddd532`; Module 05 layout check passed 19/19. Module 06 is now active. |
 | 06 Working with Data | 8 | 8 | Notebook presence only; see audited completion totals and coordinator verification log below. |
 | 07 Describing Data | 6 | 6 | Notebook presence only; see audited completion totals and coordinator verification log below. |
-| 08 Visualizing Data | 6 | 2 | Notebook presence only; see audited completion totals and coordinator verification log below. |
+| 08 Visualizing Data | 6 | 3 | Notebook presence only; see audited completion totals and coordinator verification log below. |
 
 The prior Module 05 submissions are already pushed: notebook 01 in `4ab8445` and notebook 02 plus its seven output files in `fe42738`. Modules 01, 02, 03, 03b, and 04 are pushed as `f63e6be`, `1663ceb`, `fcc3887`, `c101b0c`, and `e3ac871`. Keep `Work/` copies and cache files out of assignment commits.
 
@@ -132,9 +132,12 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 
 - Coordinator verification `08-Visualizing_Data/02-Plotting_with_Pandas.ipynb` (full): 21 code cells passed fresh final-location kernel; original prompts/examples retained with explicit units added. Coordinator visually checked fivePNGexports and threeCSVreports. Verified889 known ports(S644/C168/Q77),2missing, normalized crosstab rows,12eligibletypes with n>=30, group rates and exact6x6wide-to36rowlong-to-wide equality. Optional errorbar challenge queued.
 
+
+- Coordinator verification `08-Visualizing_Data/03-Seaborn_Distributions.ipynb` (full): 19 code cells passed in a fresh final-directory kernel; seven exported charts visually inspected; 342 measured penguins and 333 known-sex birds retained appropriately; normalized distributions and positive-fare exclusions verified.
+
 ## Current audited required-deliverable totals
 
-55 of 81 required deliverables fully complete (67.9%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+57 of 81 required deliverables fully complete (70.4%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -146,4 +149,4 @@ The original exercise files stay under `02-Assignments`. Worked copies are under
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 9 | 2 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
-| 08-Visualizing_Data | 14 | 4 | 0 | 10 | 0 |
+| 08-Visualizing_Data | 14 | 6 | 0 | 8 | 0 |
