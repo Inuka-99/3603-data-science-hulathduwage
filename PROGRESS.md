@@ -292,3 +292,10 @@ Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**.
 Keyboard exercises confirmed on 2026-11-25; fresh 14-cell run passes and matching exports rebuilt. Only learner export/browser results and Practice 4 execution counts remain pending.
 
 Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.
+
+
+## Learner confirmation — 2026-11-25: 05-Foundations/03-using_help_and_docs.ipynb
+
+Literal dictionary/list/string Tab completion confirmed on 2026-11-25; fresh 39-cell run passes. Learner-selected new method(s)/magic and own-word Practice 4 review remain pending.
+
+Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.
