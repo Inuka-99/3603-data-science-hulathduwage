@@ -285,3 +285,10 @@ Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**.
 Section 3 paper trace confirmed on 2026-11-25; all three worksheet code blocks pass. Other paper tasks (Sections 1, 2, 4, 5) and three own-word explanations remain pending.
 
 Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.
+
+
+## Learner confirmation — 2026-11-25: 05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb
+
+Keyboard exercises confirmed on 2026-11-25; fresh 14-cell run passes and matching exports rebuilt. Only learner export/browser results and Practice 4 execution counts remain pending.
+
+Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.

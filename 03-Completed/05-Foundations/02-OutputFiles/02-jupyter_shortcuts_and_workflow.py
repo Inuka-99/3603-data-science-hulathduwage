@@ -402,3 +402,14 @@ print(f'Best month: month {best_month}')
 for path in sorted(OUT.rglob('*')):
     print(path)
 
+
+# ## Learner confirmation — 2026-11-25
+#
+# Inuka explicitly confirmed personal completion of the keyboard exercises. This covers mode switching, running/staying/moving between cells, keyboard insertion/deletion/undo, Markdown/code type changes, moving/splitting/multi-selecting cells, and the keyboard portions of the state/order/restart exercises. The generated explanations and isolated-kernel results above remain identified as agent evidence; their execution numbers are not attributed to the learner.
+#
+# - [x] Complete the notebook's keyboard exercises, including Practices 1–2.
+# - [ ] Record the learner's specific export inspection result: what happened to Markdown in the .py export, and whether HTML displayed correctly in the browser.
+# - [ ] Record the learner's Practice 4 execution counts for the print, name and greeting cells after the out-of-order run.
+#
+# No repetition of the exercises is required; only these missing specific results are requested.
+#
