@@ -299,3 +299,10 @@ Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**.
 Literal dictionary/list/string Tab completion confirmed on 2026-11-25; fresh 39-cell run passes. Learner-selected new method(s)/magic and own-word Practice 4 review remain pending.
 
 Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.
+
+
+## Learner confirmation — 2026-11-25: 05-Foundations/worksheet.md
+
+Shortcut Drill and literal Tab/IntelliSense confirmed on 2026-11-25; fresh 12-cell support run passes. Eight own-word explanations and broader personal submission attestations remain pending.
+
+Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.

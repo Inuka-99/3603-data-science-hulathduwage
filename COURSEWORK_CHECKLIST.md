@@ -178,7 +178,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `04-More_Functions_and_Loops/worksheet.md` - Section 3 paper trace confirmed on 2026-11-25; all three worksheet code blocks pass. Other paper tasks (Sections 1, 2, 4, 5) and three own-word explanations remain pending.
 - [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - Keyboard exercises confirmed on 2026-11-25; fresh 14-cell run passes and matching exports rebuilt. Only learner export/browser results and Practice 4 execution counts remain pending.
 - [ ] `05-Foundations/03-using_help_and_docs.ipynb` - Literal dictionary/list/string Tab completion confirmed on 2026-11-25; fresh 39-cell run passes. Learner-selected new method(s)/magic and own-word Practice 4 review remain pending.
-- [ ] `05-Foundations/worksheet.md` - Eight generated explanations and all technical tasks are complete;12 support cells pass. Keyboard-only Shortcut Drill, literal Tab/IntelliSense and eleven learner attestations remain unconfirmed.
+- [ ] `05-Foundations/worksheet.md` - Shortcut Drill and literal Tab/IntelliSense confirmed on 2026-11-25; fresh 12-cell support run passes. Eight own-word explanations and broader personal submission attestations remain pending.
 - [x] `06-Working_with_Data_Adv/05-Column_Operations.ipynb` - Inuka accepted the preference for a named function because its name explains the calculation's purpose. All 31 code cells passed a fresh final-directory kernel; Practice 3 is resolved.
 - [ ] `06-Working_with_Data_Adv/worksheet.md` - All technical answers and supplied grades/reflections are complete. Ten support cells and six CSVs are verified, with checklist-to-evidence mapping saved. Eleven learner practice attestations remain unconfirmed.
 - [ ] `07-Describing_Data/worksheet.md` - Five complete technical Explain It answers were generated at Inuka's request and checked. Learner own-word review and seven practice attestations remain pending. Original prompts appear below.
@@ -187,6 +187,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 - [ ] **Optional personal answer:** `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: which do you find more readable, named masks or `query()`? The optional implementations are complete; the preference is yours.
 - [ ] **Instructor:** `02-Assignments/01-Scalar_Types_and_Control_Flow/README.md` references missing `scalar_types_and_control_flow.csv`. Confirm whether this D2L question bank is a learner submission and provide its original source if required. It is excluded from the current 81-unit denominator (82 if separately required).
+
 
 
 
@@ -288,5 +289,12 @@ Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper t
 ### Confirmation update — 2026-11-25: 05-Foundations/03-using_help_and_docs.ipynb
 
 Literal dictionary/list/string Tab completion confirmed on 2026-11-25; fresh 39-cell run passes. Learner-selected new method(s)/magic and own-word Practice 4 review remain pending.
+
+Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper traces are learner-reported; paper drawing, own-word reflections and partner/team work remain separate. This dated entry supersedes earlier pending wording for the matching activity only.
+
+
+### Confirmation update — 2026-11-25: 05-Foundations/worksheet.md
+
+Shortcut Drill and literal Tab/IntelliSense confirmed on 2026-11-25; fresh 12-cell support run passes. Eight own-word explanations and broader personal submission attestations remain pending.
 
 Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper traces are learner-reported; paper drawing, own-word reflections and partner/team work remain separate. This dated entry supersedes earlier pending wording for the matching activity only.

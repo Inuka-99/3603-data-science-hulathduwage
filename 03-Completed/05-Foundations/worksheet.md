@@ -292,7 +292,7 @@ In your own words: why does `%timeit` run your code many times instead of just o
 
 The companion [Worksheet_Practice.ipynb](Worksheet-Support/Worksheet_Practice.ipynb) executes the independent tasks in a fresh project `.venv` kernel. Its generated files are in `Worksheet-OutputFiles/`. The break/fix exercise is demonstrated programmatically; no keyboard-only activity or personal learning attestation is claimed. Original submit-checklist boxes remain unchecked for Inuka to confirm.
 
-Pending hands-on task: perform Section 2's keyboard-only Shortcut Drill: insert two cells, change their types, move the Code cell, delete/undo the Markdown cell, and run the Code cell. For Section 3, perform the requested literal Tab/IntelliSense interaction; the companion uses help, wildcard inspection, and dir programmatically.
+Updated hands-on status (2026-11-25): Inuka confirmed Section 2's keyboard-only Shortcut Drill and Section 3's literal Tab/IntelliSense interaction. See the learner confirmation below; the generated explanations and remaining original attestations are separate.
 
 The following are **generated explanations completing the eight written prompts**. They are not claims of learner authorship or hands-on participation. The original personal attestations above remain unchecked.
 
@@ -311,3 +311,13 @@ The following are **generated explanations completing the eight written prompts*
 7. **Chart choice:** Connecting points implies an order and a meaningful path between neighboring x-values. That is appropriate for `sin(x)` over an ordered numerical axis or monthly revenue over time, where sequence and change matter. `Math`, `Science`, and `History` are separate nominal categories with no intrinsic numerical distance or necessary sequence. A line would imply a trend that depends on an arbitrary category order; bars compare their values directly without making that connection.
 
 8. **Timing:** A single `%time` result can be affected by operating-system activity, timer resolution, caching, or startup overhead. `%timeit` repeats the operation and reports timing information across repeated runs, giving a more stable comparison and exposing variability; it does not guarantee identical results on every machine or run. Measuring first identifies which code actually costs time, so optimization effort targets a demonstrated bottleneck. Compare the same inputs and outputs, keep setup treatment consistent, and recheck correctness after a change: faster code is not an improvement if it computes a different result.
+
+## Learner confirmation — 2026-11-25
+
+Inuka explicitly confirmed personal completion of the keyboard exercises. This resolves Section 2's keyboard-only Shortcut Drill (insert cells, change types, move, delete/undo and run) and Section 3's literal Tab/IntelliSense interaction. Existing factual answers, personal profile and generated explanations are preserved.
+
+- [x] Section 2: complete the keyboard-only Shortcut Drill.
+- [x] Section 3: perform the literal Tab/IntelliSense interaction.
+- [ ] Complete the eight Explain It prompts in learner wording and the remaining personal submission attestations.
+
+The original eleven submit-checklist statements concern broader coding, understanding and submission activities; they are not all established by this keyboard-only confirmation. The agent's successful support-notebook execution remains separate evidence.
