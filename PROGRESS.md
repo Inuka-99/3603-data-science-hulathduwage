@@ -252,7 +252,7 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 
 ## Current audited required-deliverable totals
 
-69 of 81 required deliverables fully complete (85.2%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
+70 of 81 required deliverables fully complete (86.4%). Completion is separate from Git submission. Output folders count once; optional challenges do not affect this denominator. Missing Module 01 CSV remains an instructor clarification.
 
 | Module | Required | Full | Partial | Unstarted | Unknown |
 |---|---:|---:|---:|---:|---:|
@@ -260,7 +260,7 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 | 02-Strings_and_Text | 5 | 5 | 0 | 0 | 0 |
 | 03-Python_Containers | 5 | 5 | 0 | 0 | 0 |
 | 03b-Containers_to_Functions | 8 | 5 | 3 | 0 | 0 |
-| 04-More_Functions_and_Loops | 5 | 3 | 2 | 0 | 0 |
+| 04-More_Functions_and_Loops | 5 | 4 | 1 | 0 | 0 |
 | 05-Foundations | 19 | 16 | 3 | 0 | 0 |
 | 06-Working_with_Data_Adv | 11 | 10 | 1 | 0 | 0 |
 | 07-Describing_Data | 10 | 9 | 1 | 0 | 0 |
@@ -271,3 +271,10 @@ The exact remaining learner/partner/instructor checklist and reflection prompts 
 All remaining technical written responses are filled and verified in individual assignment commits. Newly checked final-location kernels: While Loops 11 cells, Help/Docs 39, Visualization Lab 15, Foundations worksheet 12, Workflow 14 and Pandas worksheet 10. Module 04 worksheet's three code blocks and all five sections also pass. Existing raw inputs, personal answers and required output contents are preserved.
 
 The strict completion count remains 69/81: the 12 open entries contain unverified participation/authorship requirements, including the two excluded partner/team activities. Generated solutions are identified accurately; no learner keyboard or paper action is inferred from their presence. The editor-access check timed out, so physical notebook UI observations remain unverified. No further technical answers are missing.
+
+
+## Learner confirmation — 2026-11-25: 04-More_Functions_and_Loops/02-While_Loops.ipynb
+
+Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
+
+Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.

@@ -174,7 +174,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `03b-Containers_to_Functions/04-Mystery_Functions.ipynb` - All five solo mystery traces, predictions and descriptions are supplied by Inuka and verified. Inuka plus partner: write a learner-authored 5-8-line mystery function, exchange it, trace the partner function and compare results. Actual partner identity, participation and outcomes remain pending.
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
 - [ ] `03b-Containers_to_Functions/worksheet.md` - All six sections have verified answers. Inuka supplied Sections 1-5 and the pipeline design, including his equal confidence across all five container choices. Section 6 paper drawing and own-word review of the generated final explanation remain pending.
-- [ ] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Generated trace and explanation are complete and freshly executed: prints 1, 3, 9 and exits at 27. Learner hand-tracing participation remains unconfirmed.
+- [x] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
 - [ ] `04-More_Functions_and_Loops/worksheet.md` - All five sections and three generated explanations are complete and verified; paper participation and learner own-word requirement remain unconfirmed.
 - [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - All written answers and real agent kernel-state experiments are complete;14 cells and matching exports verified. Physical mode/shortcut, split/multi-select, browser/editor and learner observations remain unconfirmed; app access timed out.
 - [ ] `05-Foundations/03-using_help_and_docs.ipynb` - All technical answers and method-discovery explanations are generated and verified;39 cells pass. Literal completion actions and learner own-word/unfamiliarity requirements remain unconfirmed. Editor app access timed out.
@@ -187,6 +187,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 - [ ] **Optional personal answer:** `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: which do you find more readable, named masks or `query()`? The optional implementations are complete; the preference is yours.
 - [ ] **Instructor:** `02-Assignments/01-Scalar_Types_and_Control_Flow/README.md` references missing `scalar_types_and_control_flow.csv`. Confirm whether this D2L question bank is a learner submission and provide its original source if required. It is excluded from the current 81-unit denominator (82 if separately required).
+
 
 ### Exact remaining worksheet reflection prompts
 
@@ -258,3 +259,10 @@ Module 03 explanations and outstanding understanding self-assessments were expli
 ## Written-answer completion - 2026-11-24
 
 At Inuka's request, remaining independently answerable written explanations are generated and verified. There are no blank technical-answer gaps in the required coursework. This completes written preparation; it does not attest unreported learner paper/keyboard actions or personal experiences. The two Module 03b partner/team activities remain pending. The original instructor participation requirements and unchecked learner attestations remain visible above. Windows editor access timed out during the attempted physical-action check.
+
+
+### Confirmation update — 2026-11-25: 04-More_Functions_and_Loops/02-While_Loops.ipynb
+
+Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
+
+Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper traces are learner-reported; paper drawing, own-word reflections and partner/team work remain separate. This dated entry supersedes earlier pending wording for the matching activity only.
