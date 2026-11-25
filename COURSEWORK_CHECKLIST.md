@@ -175,7 +175,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 - [ ] `03b-Containers_to_Functions/06-Pipelines.ipynb` - Inuka plus team: complete the actual team pipeline activity with separately owned functions and agreed input/output contracts; provide who did what and the integration outcome.
 - [ ] `03b-Containers_to_Functions/worksheet.md` - All six sections have verified answers. Inuka supplied Sections 1-5 and the pipeline design, including his equal confidence across all five container choices. Section 6 paper drawing and own-word review of the generated final explanation remain pending.
 - [x] `04-More_Functions_and_Loops/02-While_Loops.ipynb` - Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
-- [ ] `04-More_Functions_and_Loops/worksheet.md` - All five sections and three generated explanations are complete and verified; paper participation and learner own-word requirement remain unconfirmed.
+- [ ] `04-More_Functions_and_Loops/worksheet.md` - Section 3 paper trace confirmed on 2026-11-25; all three worksheet code blocks pass. Other paper tasks (Sections 1, 2, 4, 5) and three own-word explanations remain pending.
 - [ ] `05-Foundations/02-jupyter_shortcuts_and_workflow.ipynb` - All written answers and real agent kernel-state experiments are complete;14 cells and matching exports verified. Physical mode/shortcut, split/multi-select, browser/editor and learner observations remain unconfirmed; app access timed out.
 - [ ] `05-Foundations/03-using_help_and_docs.ipynb` - All technical answers and method-discovery explanations are generated and verified;39 cells pass. Literal completion actions and learner own-word/unfamiliarity requirements remain unconfirmed. Editor app access timed out.
 - [ ] `05-Foundations/worksheet.md` - Eight generated explanations and all technical tasks are complete;12 support cells pass. Keyboard-only Shortcut Drill, literal Tab/IntelliSense and eleven learner attestations remain unconfirmed.
@@ -187,6 +187,7 @@ All paths below are relative to `03-Completed/`. Independent code, calculations 
 
 - [ ] **Optional personal answer:** `06-Working_with_Data_Adv/06-Sorting_and_Filtering.ipynb`: which do you find more readable, named masks or `query()`? The optional implementations are complete; the preference is yours.
 - [ ] **Instructor:** `02-Assignments/01-Scalar_Types_and_Control_Flow/README.md` references missing `scalar_types_and_control_flow.csv`. Confirm whether this D2L question bank is a learner submission and provide its original source if required. It is excluded from the current 81-unit denominator (82 if separately required).
+
 
 
 ### Exact remaining worksheet reflection prompts
@@ -264,5 +265,12 @@ At Inuka's request, remaining independently answerable written explanations are 
 ### Confirmation update — 2026-11-25: 04-More_Functions_and_Loops/02-While_Loops.ipynb
 
 Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
+
+Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper traces are learner-reported; paper drawing, own-word reflections and partner/team work remain separate. This dated entry supersedes earlier pending wording for the matching activity only.
+
+
+### Confirmation update — 2026-11-25: 04-More_Functions_and_Loops/worksheet.md
+
+Section 3 paper trace confirmed on 2026-11-25; all three worksheet code blocks pass. Other paper tasks (Sections 1, 2, 4, 5) and three own-word explanations remain pending.
 
 Current strict total: **70/81 fully complete; 11 partial**. Keyboard and paper traces are learner-reported; paper drawing, own-word reflections and partner/team work remain separate. This dated entry supersedes earlier pending wording for the matching activity only.

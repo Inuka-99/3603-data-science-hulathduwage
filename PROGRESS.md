@@ -278,3 +278,10 @@ The strict completion count remains 69/81: the 12 open entries contain unverifie
 Inuka confirmed personal paper-trace completion on 2026-11-25; existing trace verified (prints 1, 3, 9; exits at 27). Fresh 11-cell run passed. Fully complete.
 
 Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.
+
+
+## Learner confirmation — 2026-11-25: 04-More_Functions_and_Loops/worksheet.md
+
+Section 3 paper trace confirmed on 2026-11-25; all three worksheet code blocks pass. Other paper tasks (Sections 1, 2, 4, 5) and three own-word explanations remain pending.
+
+Current strict count: **70/81 fully complete (86.4%); 11 partial; 0 unstarted**. This dated entry supersedes earlier pending statements only for the confirmed activity. No pipeline drawing, reflection authorship, partner or team participation is inferred.

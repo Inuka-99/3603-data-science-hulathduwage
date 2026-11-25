@@ -106,4 +106,14 @@ Tom,cat
 
 **Explanation (generated):** Use `try` / `except` when a specific operation can fail in an expected way and the program has a sensible response. For example, catch `FileNotFoundError` around opening an optional input file and report which file is missing, or catch `ValueError` around a conversion when an invalid value should be rejected. Keep the protected block small and catch the exception types that the recovery actually handles. A broad `except Exception: pass` around an entire file-processing pipeline can hide a misspelled variable, an incorrect data structure, or a parsing defect and make incomplete output appear successful. Unexpected failures should normally propagate, or be re-raised after adding useful context, rather than being silently treated as valid empty data.
 
-**Practice note:** These are typed worked answers. The requested independent paper exercise has not been performed here.
+**Practice note (original preparation):** These are typed worked answers. The dated learner confirmation below resolves Section 3 paper tracing; other paper work and learner wording remain separate.
+
+## Learner confirmation — 2026-11-25
+
+Inuka explicitly confirmed personal completion of the paper traces. This resolves Section 3's handwritten while-loop table: balance 100 → 120 → 140 → 160, years 0 → 1 → 2 → 3, with the final condition false at 160. Saved calculations remain agent-verified; participation is learner-reported.
+
+- [x] Section 3: complete the balance/years trace on paper.
+- [ ] Confirm completion of the other paper worksheet tasks (Sections 1, 2, 4 and 5).
+- [ ] Supply or review the three Explain It responses for the learner own-word requirement.
+
+The paper-trace confirmation does not attest to all other paper work or to authorship of the generated explanations.
